@@ -5858,7 +5858,7 @@
 9	всем	все	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Tot	5	obl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	гдѣ	гдѣ	ADV	_	Degree=Pos	5	advcl	_	_
-12	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	11	aux	_	_
+12	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	11	aux	_	_
 13	ни	ни	PART	_	_	11	advmod	_	_
 14	было	быти	AUX	_	Gender=Neut|Mood=Cnd|Number=Sing|Tense=Past|VerbForm=PartRes	11	cop	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	5	punct	_	_
@@ -7272,7 +7272,7 @@
 27	і	и	CCONJ	_	_	35	cc	_	_
 28	с	съ	ADP	_	_	31	case	_	_
 29	тои	тотъ	DET	_	Case=Ins|Gender=Fem|Number=Sing	31	det	_	_
-30	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	36	aux	_	_
+30	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	36	aux	_	_
 31	женнко	женка	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	36	obl	_	_
 32	съ	съ	ADP	_	_	33	case	_	_
 33	другои	другой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	31	amod	_	_
@@ -7441,14 +7441,14 @@
 29	указ	указъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	28	obj	_	_
 30	что	что	SCONJ	_	_	31	mark	_	_
 31	жит	жити	VERB	_	Aspect=Imp|VerbForm=Inf	29	nmod	_	_
-32	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	31	aux	_	_
+32	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	31	aux	_	_
 33	мужику	мужикъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	31	iobj	_	_
 34	с	съ	ADP	_	_	36	case	_	_
 35	ннешнеи	нынешний	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	36	amod	_	_
 36	женкои	женка	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	31	obl	_	_
 37	і	и	CCONJ	_	_	40	cc	_	_
 38	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	40	nsubj	_	_
-39	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	40	aux	_	_
+39	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	40	aux	_	_
 40	сталъ	стати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	0	root	_	_
 41	і	и	CCONJ	_	_	43	cc	_	_
 42	мужиком	мужикъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	43	obj	_	_
@@ -7495,7 +7495,7 @@
 # text = а противо бы еи челобит і впред еѣ постричь
 1	а	а	CCONJ	_	_	9	cc	_	_
 2	противо	противъ	ADP	_	_	5	case	_	_
-3	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	9	aux	_	_
+3	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	9	aux	_	_
 4	еи	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	det	_	_
 5	челобит	челобитъ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	obl	_	_
 6	і	и	CCONJ	_	_	9	cc	_	_
@@ -7507,7 +7507,7 @@
 # text = а ему бы указ промыслить чтобъ жить с ннешнеи женъкои
 1	а	а	CCONJ	_	_	5	cc	_	_
 2	ему	онъ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
-3	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	5	aux	_	_
+3	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	5	aux	_	_
 4	указ	указъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
 5	промыслить	промыслити	VERB	_	Aspect=Perf|VerbForm=Inf	0	root	_	_
 6	чтобъ	чтобы	SCONJ	_	Mood=Cnd	7	mark	_	_
@@ -9237,7 +9237,7 @@
 16	году	годъ	NOUN	Case=Loc2	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	_
 17	—	—	PUNCT	_	_	23	punct	_	_
 18	искони	искони	ADV	_	Degree=Pos	23	advmod	_	_
-19	б	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	23	aux	_	_
+19	б	бъ	AUX	_	Analyt=Yes|Mood=Cnd	23	aux	_	_
 20	тех	тотъ	DET	_	Case=Gen|Gender=Masc|Number=Plur	23	obj	_	_
 21	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	23	nsubj	_	_
 22	не	не	PART	_	Polarity=Neg	23	advmod	_	_
@@ -9259,7 +9259,7 @@
 11	Стрелецкой	стрѣлецкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	14	orphan	_	_
 12	двесте	двѣстѣ	NUM	_	Case=Nom	13	compound	_	_
 13	десять	десять	NUM	_	Case=Nom	14	nummod:gov	_	_
-14	рублев	рубль	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	8	appos	_	SpaceAfter=No
+14	рублев	рубль	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	8	parataxis	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	20	punct	_	_
 16	в	въ	ADP	_	_	17	case	_	_
 17	Ямской	ямской	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	20	orphan	_	_
@@ -10893,7 +10893,7 @@
 8	Божье	божий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Long	9	amod	_	_
 9	судѣ	судъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
 10	укорил	укорити	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	13	acl	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	16	punct	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
 12	и	и	CCONJ	_	_	16	cc	_	_
 13	тому	тотъ	DET	_	Case=Dat|Gender=Neut|Number=Sing	16	nmod	_	_
 14	тебѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	16	iobj	_	_
@@ -12105,7 +12105,7 @@
 # sent_id = BLDR-7_09-27
 # text = Уне бы ти, Упадыше, аще не был бы во утробѣ матерьни, не бы былъ нареченъ предатель Новуграду.
 1	Уне	уне	VERB	_	_	0	root	_	_
-2	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	1	cop	_	_
+2	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	1	aux	_	_
 3	ти	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	iobj	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	Упадыше	Упадышъ	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	SpaceAfter=No
@@ -12113,13 +12113,13 @@
 7	аще	аще	SCONJ	_	_	12	mark	_	_
 8	не	не	PART	_	Polarity=Neg	12	advmod	_	_
 9	был	быти	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	12	aux	_	_
-10	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	12	aux	_	_
+10	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	12	aux	_	_
 11	во	въ	ADP	_	_	12	case	_	_
 12	утробѣ	утроба	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	1	advcl	_	_
 13	матерьни	матерний	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	12	amod	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	18	punct	_	_
 15	не	не	PART	_	Polarity=Neg	18	advmod	_	_
-16	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	18	aux	_	_
+16	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	18	aux	_	_
 17	былъ	быти	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	18	aux	_	_
 18	нареченъ	наречи	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	conj	_	_
 19	предатель	предатель	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	xcomp	_	_
@@ -12933,7 +12933,7 @@
 12	князя	князь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	orphan	_	_
 13	по	по	ADP	_	_	15	case	_	_
 14	5	5	NUM	_	Case=Acc	15	nummod:gov	_	_
-15	кунъ	куна	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	8	appos	_	SpaceAfter=No
+15	кунъ	куна	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	8	parataxis	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	22	punct	_	_
 17	а	а	CCONJ	_	_	22	cc	_	_
 18	от	отъ	ADP	_	_	19	case	_	_
@@ -14287,7 +14287,7 @@
 70	ради	радъ	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	56	conj	_	SpaceAfter=No
 71	,	,	PUNCT	_	_	75	punct	_	_
 72	толко	толко	PART	_	_	75	advmod	_	_
-73	бъ	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	75	aux	_	_
+73	бъ	бъ	AUX	_	Analyt=Yes|Mood=Cnd	75	aux	_	_
 74	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	75	nsubj	_	_
 75	пожаловалъ	пожаловати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	56	advcl	_	_
 76	велѣлъ	велѣти	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes	75	parataxis	_	_
@@ -14962,7 +14962,7 @@
 76	,	,	PUNCT	_	_	83	punct	_	_
 77	и	и	CCONJ	_	_	83	cc	_	_
 78	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	83	nsubj	_	_
-79	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	83	aux	_	SpaceAfter=No
+79	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	83	aux	_	SpaceAfter=No
 80	,	,	PUNCT	_	_	81	punct	_	_
 81	сынове	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	83	vocative	_	SpaceAfter=No
 82	,	,	PUNCT	_	_	81	punct	_	_
@@ -14999,7 +14999,7 @@
 # text = А держали бы есте веру християнскую честно и твердо, и неподвижно, а к церквам божьим к вечерне и к заутрени, и к обедне приходите с молитвою и милостыню по силе давайте, а святого пения слушайте с страхом.
 1	А	а	CCONJ	_	_	2	cc	_	_
 2	держали	держати	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes	0	root	_	_
-3	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	2	aux	_	_
+3	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	2	aux	_	_
 4	есте	быти	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	_
 5	веру	вѣра	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
 6	християнскую	християнский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	5	amod	_	_
@@ -15138,7 +15138,7 @@
 # text = И вы бы к своим отцом духовным, к священником, на покаяние приходили почасту.
 1	И	и	CCONJ	_	_	14	cc	_	_
 2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	14	nsubj	_	_
-3	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	14	aux	_	_
+3	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	14	aux	_	_
 4	к	къ	ADP	_	_	6	case	_	_
 5	своим	свой	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes	6	det	_	_
 6	отцом	отецъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	14	obl	_	_
@@ -15191,7 +15191,7 @@
 1	А	а	CCONJ	_	_	7	cc	_	_
 2	во	въ	ADP	_	_	6	case	_	_
 3	вся	весь	DET	_	Case=Acc|Gender=Neut|Number=Plur	6	det	_	_
-4	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	7	aux	_	_
+4	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	7	aux	_	_
 5	есте	быти	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
 6	говения	говѣние	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	7	obl	_	_
 7	постилися	поститися	VERB	_	Aspect=Perf|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=PartRes	0	root	_	_
@@ -15231,7 +15231,7 @@
 # text = А кумиром бы есте не служили, ни треб их не приимали, ни Войпелю болвану не молитеся по древнему обычяю и всех богу ненавидимых тризнищ не творите идолом.
 1	А	а	CCONJ	_	_	6	cc	_	_
 2	кумиром	кумиръ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	iobj	_	_
-3	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	6	aux	_	_
+3	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	6	aux	_	_
 4	есте	быти	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
 5	не	не	PART	_	Polarity=Neg	6	advmod	_	_
 6	служили	служити	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes	0	root	_	SpaceAfter=No
@@ -15342,7 +15342,7 @@
 15	,	,	PUNCT	_	_	25	punct	_	_
 16	и	и	CCONJ	_	_	25	cc	_	_
 17	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	25	nsubj	_	_
-18	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	25	aux	_	_
+18	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	25	aux	_	_
 19	от	отъ	ADP	_	_	21	case	_	_
 20	сих	сей	DET	_	Case=Gen|Gender=Neut|Number=Plur	21	det	_	_
 21	мест	мѣсто	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	25	obl	_	_
@@ -15366,7 +15366,7 @@
 6	,	,	PUNCT	_	_	10	punct	_	_
 7	и	и	CCONJ	_	_	10	cc	_	_
 8	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
-9	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	10	aux	_	_
+9	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	10	aux	_	_
 10	женилися	женитися	VERB	_	Aspect=Perf|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=PartRes	0	root	_	_
 11	с	съ	ADP	_	_	12	case	_	_
 12	благословением	благословение	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	10	obl	_	_
@@ -15396,7 +15396,7 @@
 # text = А жены бы ваши имели покровены главы.
 1	А	а	CCONJ	_	_	5	cc	_	_
 2	жены	жена	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
-3	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	5	aux	_	_
+3	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	5	aux	_	_
 4	ваши	вашъ	DET	_	Case=Nom|Gender=Fem|Number=Plur|Poss=Yes	2	det	_	_
 5	имели	имѣти	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes	0	root	_	_
 6	покровены	покрыти	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	amod	_	_
@@ -15465,7 +15465,7 @@
 # text = И вы бы о всем в благочестии и в управлении были, как всякии сущии православнии християне.
 1	И	и	CCONJ	_	_	7	cc	_	_
 2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
-3	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	7	aux	_	_
+3	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	7	aux	_	_
 4	о	о	ADP	_	_	5	case	_	_
 5	всем	все	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Tot	7	obl	_	_
 6	в	въ	ADP	_	_	7	case	_	_
@@ -15486,7 +15486,7 @@
 # text = А сию бы есте грамоту прочет, положили в церкви у своих отцов духовных у священников, а священници сию грамоту прочитали бы вам почясту на подкрепление вере християнстей божественаго закона.
 1	А	а	CCONJ	_	_	6	cc	_	_
 2	сию	сей	DET	_	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_
-3	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	6	aux	_	_
+3	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	6	aux	_	_
 4	есте	быти	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
 5	грамоту	грамота	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
 6	прочет	прочести	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	advcl	_	SpaceAfter=No
@@ -15506,7 +15506,7 @@
 20	сию	сей	DET	_	Case=Acc|Gender=Fem|Number=Sing	21	det	_	_
 21	грамоту	грамота	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	22	obj	_	_
 22	прочитали	прочитати	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes	8	conj	_	_
-23	бы	бъ/бы/быти	AUX	_	Analyt=Yes|Mood=Cnd	22	aux	_	_
+23	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	22	aux	_	_
 24	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	22	iobj	_	_
 25	почясту	почасту	ADV	_	Degree=Pos	22	advmod	_	_
 26	на	на	ADP	_	_	27	case	_	_
