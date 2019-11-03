@@ -1357,7 +1357,7 @@
 136	тягости	тягость	NOUN	OOV|Animacy[lex]=Inan	Case=Loc|Gender=Fem|Number=Sing	123	conj	_	_
 137	и	и	CCONJ	_	_	141	cc	_	_
 138	никто	никто	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	141	nsubj	_	_
-139	бъ	быти	AUX	143	Analyt=Yes	141	aux	_	_
+139	бъ	бъ	AUX	143	Analyt=Yes	141	aux	_	_
 140	въ	въ	ADP	_	_	141	case	_	_
 141	избылыхъ	избылой	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Variant=Long	123	conj	_	_
 142	не	не	PART	_	Polarity=Neg	123	advmod	_	_
@@ -3106,7 +3106,7 @@
 12	,	,	PUNCT	_	_	11	punct	_	_
 13	и	и	CCONJ	_	_	22	cc	_	_
 14	ты	ты	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	22	nsubj	_	_
-15	бъ	быти	AUX	_	Analyt=Yes|Mood=Cnd	22	aux	_	_
+15	бъ	бъ	AUX	_	Analyt=Yes|Mood=Cnd	22	aux	_	_
 16	о	о	ADP	_	_	17	case	_	_
 17	томъ	то	DET	_	Case=Loc|Gender=Neut|Number=Sing	21	nmod	_	_
 18	нашъ	нашъ	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes	21	det	_	_
