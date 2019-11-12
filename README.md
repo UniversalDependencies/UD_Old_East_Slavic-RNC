@@ -5,7 +5,7 @@ UD_Old_Russian-RNC is a sample of the Middle Russian corpus (1300-1700), a part 
 # Introduction
 
 Middle Russian Corpus (http://ruscorpora.ru/search-mid_rus.html) is part of the Russian National Corpus included in the collection of historical corpora [Sichinava 2014]. The lists of part-of-speech and core grammatical tags is available at: https://github.com/olesar/UD_MidRussian/blob/master/MidRussianUD.md, the document also shows the mapping between the RNC and
-UD tags. The annotation project is maintained by Vinogradov Institute of the Russian Language RAS (Moscow) in collaboration with researchers and students of the National Research University Higher School of Economics (Moscow) and Lomonosov Moscow State University. 
+UD tags. The annotation project is maintained by Vinogradov Institute of the Russian Language RAS (Moscow) in collaboration with researchers and students of the National Research University Higher School of Economics (Moscow) and Lomonosov Moscow State University.
 
 # Acknowledgments
 
@@ -13,12 +13,18 @@ We are immensely grateful to Irina Juryeva, Roman Ilushin, Maria Skachedubova, a
 
 ## References
 
-* Lyashevskaya, Olga (submitted), A reusable tagset for the morphologically rich language in change: a case of Middle Russian.  
-* [ru] Lyashevskaya, Olga (2018), A test dataset for the automatic morphological analysis of the Middle Russian texts [Testovaja kollektsija dlja zadach avtomaticheskogo morfologicheskogo analiza tekstov starorusskoj pis’mennosti]. In: The academic heritage of V.A. Bogoroditsky and the modern vector of research of the Kazan linguistic school [Nauchnoje nasledije V.A. Bogoroditskogo i sovremennyj vektor issledovanij Kazanskoj lingvisticheskoj shkoly], Works and materials of int. conf., Kazan: Kazan University, pp. 131–135.  
+* Lyashevskaya, Olga (submitted), A reusable tagset for the morphologically rich language in change: a case of Middle Russian.
+* [ru] Lyashevskaya, Olga (2018), A test dataset for the automatic morphological analysis of the Middle Russian texts [Testovaja kollektsija dlja zadach avtomaticheskogo morfologicheskogo analiza tekstov starorusskoj pis’mennosti]. In: The academic heritage of V.A. Bogoroditsky and the modern vector of research of the Kazan linguistic school [Nauchnoje nasledije V.A. Bogoroditskogo i sovremennyj vektor issledovanij Kazanskoj lingvisticheskoj shkoly], Works and materials of int. conf., Kazan: Kazan University, pp. 131–135.
 
 * Lyashevskaya, Olga (2018), A frequency grammatical dictionary of Russian, 1300-1700 (based on the RNC Middle Russian Corpus). Online edition: http://ru-eval.ru/hist/freq-15-17/.
 
 * [ru] Sichinava D. V. (2014), Historical corpora of the Russian National Corpus as a tool for diachronic grammatical studies [Istoricheskie korpusa Natsional’nogo korpusa russkogo jazyka kak instrument diakhronicheskikh issledovanij grammatiki]. In: Baranov V. A., Zheljazkova V., Lavretiev A. M. (eds.), Textual heritage and information technologies. El’Manuscript–2014 [Pismenoto nasledstvo i informatsionnite tekhnologii. El’Manuscript–2014]. Proceedings of the 5th International research conference. Sofia, Izhevsk, 2014.
+
+
+# Changelog
+
+* 2019-05-15 v2.4
+  * Initial release in Universal Dependencies.
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
