@@ -7764,7 +7764,7 @@
 1	Отъ	отъ	ADP	_	_	2	case	_	Norm=Отъ|SpaceAfter=Yes
 2	него	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	Norm=него|SpaceAfter=Yes
 3	же	же	PART	_	_	2	advmod	_	Norm=же|SpaceAfter=Yes
-4	бысть	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	8	cop	_	Norm=бысть|SpaceAfter=Yes
+4	бысть	быти	AUX	Tense=Aor	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	Norm=бысть|SpaceAfter=Yes
 5	сій	сей	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	Norm=сій|SpaceAfter=Yes
 6	Георгій	Георгий	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Norm=Георгій|SpaceAfter=Yes
 7	вторый	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	Norm=вторый|SpaceAfter=Yes
@@ -7816,7 +7816,7 @@
 23	тако	тако	ADV	_	Degree=Pos	29	advmod	_	Norm=тако|SpaceAfter=Yes
 24	благоволеніемъ	благоволение	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	29	iobj	_	Norm=благоволеніемъ|SpaceAfter=Yes
 25	Божіимъ	божий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes	24	amod	_	Norm=Божіимъ|SpaceAfter=Yes
-26	бысть	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	29	cop	_	Norm=бысть|SpaceAfter=Yes
+26	бысть	быти	AUX	Tense=Aor	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	29	cop	_	Norm=бысть|SpaceAfter=Yes
 27	же	же	PART	_	_	29	advmod	_	Norm=же|SpaceAfter=Yes
 28	единъ	единъ	NUM	_	Case=Nom|Gender=Masc|Number=Sing	29	acl	_	Norm=единъ|SpaceAfter=Yes
 29	самодержьствуя	самодержствовати	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	17	conj	_	Norm=самодержьствуя|SpaceAfter=Yes
@@ -7848,7 +7848,7 @@
 15	храборъ	храбрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	10	conj	_	Norm=храборъ|SpaceAfter=Yes
 16	и	и	CCONJ	_	_	17	cc	_	Norm=и|SpaceAfter=Yes
 17	мужественъ	мужественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	15	conj	_	Norm=мужественъ|SpaceAfter=Yes
-18	бѣ	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	15	cop	_	Norm=бѣ|SpaceAfter=No
+18	бѣ	быти	AUX	Tense=Aor	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	cop	_	Norm=бѣ|SpaceAfter=No
 19	,	,	PUNCT	_	_	24	punct	_	Norm=,|SpaceAfter=Yes
 20	ноипаче	наипаче	ADV	_	Degree=Cmp	24	advmod	_	Norm=ноипаче|SpaceAfter=Yes
 21	же	же	PART	_	_	20	advmod	_	Norm=же|SpaceAfter=Yes
@@ -8786,7 +8786,7 @@
 6	градъ	градъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Norm=градъ|SpaceAfter=Yes
 7	Кіевъ	Киевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	Norm=Кіевъ|SpaceAfter=Yes
 8	совершенъ	совершити	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Norm=совершенъ|SpaceAfter=Yes
-9	бысть	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	8	cop	_	Norm=бысть|SpaceAfter=No
+9	бысть	быти	AUX	Tense=Aor	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	Norm=бысть|SpaceAfter=No
 10	,	,	PUNCT	_	_	19	punct	_	Norm=,|SpaceAfter=Yes
 11	его	онъ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	Norm=его|SpaceAfter=Yes
 12	же	же	PART	_	_	11	fixed	_	Norm=же|SpaceAfter=Yes
@@ -8831,7 +8831,7 @@
 14	Феопентомъ	Феопентъ	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	16	obl:agent	_	Norm=Феопентомъ|SpaceAfter=Yes
 15	митрополитомъ	митрополитъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	14	appos	_	Norm=митрополитомъ|SpaceAfter=Yes
 16	освящена	освятити	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Norm=освящена|SpaceAfter=Yes
-17	бысть	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	16	aux:pass	_	Norm=бысть|SpaceAfter=No
+17	бысть	быти	AUX	Tense=Aor	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	aux:pass	_	Norm=бысть|SpaceAfter=No
 18	,	,	PUNCT	_	_	27	punct	_	Norm=,|SpaceAfter=Yes
 19	юже	иже	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	27	obj	_	Norm=юже|SpaceAfter=Yes
 20	святый	святой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	Norm=святый|SpaceAfter=Yes
@@ -9421,7 +9421,7 @@
 30	у	у	ADP	_	_	31	case	_	Norm=у|SpaceAfter=Yes
 31	него	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	conj	_	Norm=него|SpaceAfter=No
 32	:	:	PUNCT	_	_	35	punct	_	Norm=:|SpaceAfter=Yes
-33	бѣ	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	35	aux	_	Norm=бѣ|SpaceAfter=Yes
+33	бѣ	быти	AUX	Tense=Aor	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	35	aux	_	Norm=бѣ|SpaceAfter=Yes
 34	бо	бо	PART	_	_	35	advmod	_	Norm=бо|SpaceAfter=Yes
 35	любимъ	любити	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	31	parataxis	_	Norm=любимъ|SpaceAfter=Yes
 36	отьцемъ	отецъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	35	obl:agent	_	Norm=отьцемъ|SpaceAfter=Yes
@@ -9680,7 +9680,7 @@
 49	;	;	PUNCT	_	_	51	punct	_	Norm=;|SpaceAfter=Yes
 50	и	и	CCONJ	_	_	51	cc	_	Norm=и|SpaceAfter=Yes
 51	положенъ	положити	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	conj	_	Norm=положенъ|SpaceAfter=Yes
-52	бысть	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	51	aux	_	Norm=бысть|SpaceAfter=Yes
+52	бысть	быти	AUX	Tense=Aor	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	51	aux	_	Norm=бысть|SpaceAfter=Yes
 53	въ	въ	ADP	_	_	54	case	_	Norm=въ|SpaceAfter=Yes
 54	церкви	церковь	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	51	obl	_	Norm=церкви|SpaceAfter=Yes
 55	святого	святой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	56	amod	_	Norm=святого|SpaceAfter=Yes
@@ -10200,7 +10200,7 @@
 27	і	и	CCONJ	_	_	26	cc	_	Norm=і|SpaceAfter=Yes
 28	на	на	ADP	_	_	29	case	_	Norm=на|SpaceAfter=Yes
 29	нас	мы	PRON	_	Case=Loc|Number=Plur|Person=1|PronType=Prs	14	conj	_	Norm=нас|SpaceAfter=Yes
-30	бы	бы	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	31	aux	_	Norm=бы|SpaceAfter=Yes
+30	бы	бы	AUX	Tense=Aor	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	31	aux	_	Norm=бы|SpaceAfter=Yes
 31	пени	пеня	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	29	nsubj	_	Norm=пени|SpaceAfter=Yes
 32	ему	онъ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	iobj	_	Norm=ему|SpaceAfter=Yes
 33	не	не	PART	_	Polarity=Neg	29	advmod	_	Norm=не|SpaceAfter=Yes
