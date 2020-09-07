@@ -358,8 +358,8 @@
 3	чесныи	честный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
 4	бискупъ	бискупъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 5	юръевъскии	юрьевский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	9	punct	_	_
-7	и	и	CCONJ	_	_	9	cc	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
 8	посадники	посадникъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
 9	юръевъские	юрьевский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
@@ -430,8 +430,8 @@
 75	Новагорода	Новъгородъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	73	nmod	_	_
 76	Онъкиѳу	Онкифъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	73	appos	_	_
 77	Васильевичу	Васильевичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	76	flat:name	_	SpaceAfter=No
-78	,	,	PUNCT	_	_	81	punct	_	_
-79	и	и	CCONJ	_	_	81	cc	_	_
+78	,	,	PUNCT	_	_	82	punct	_	_
+79	и	и	CCONJ	_	_	82	cc	_	_
 80	всему	весь	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	82	det	_	_
 81	Великому	великий	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	82	amod	_	_
 82	Новугороду	Новъгородъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	34	conj	_	SpaceAfter=No
@@ -439,8 +439,8 @@
 84	и	и	CCONJ	_	_	85	cc	_	_
 85	посадникомъ	посадникъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	34	conj	_	_
 86	псковъскимъ	псковский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	85	amod	_	SpaceAfter=No
-87	,	,	PUNCT	_	_	90	punct	_	_
-88	и	и	CCONJ	_	_	90	cc	_	_
+87	,	,	PUNCT	_	_	91	punct	_	_
+88	и	и	CCONJ	_	_	91	cc	_	_
 89	всему	весь	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	91	det	_	_
 90	Великому	великий	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	91	amod	_	_
 91	Пскову	Псковъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	34	conj	_	SpaceAfter=No
@@ -761,8 +761,8 @@
 27	и	и	CCONJ	_	_	29	cc	_	_
 28	на	на	ADP	_	_	29	case	_	_
 29	Ругодиво	Ругодиво	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	17	conj	_	SpaceAfter=No
-30	,	,	PUNCT	_	_	33	punct	_	_
-31	и	и	CCONJ	_	_	33	cc	_	_
+30	,	,	PUNCT	_	_	34	punct	_	_
+31	и	и	CCONJ	_	_	34	cc	_	_
 32	на	на	ADP	_	_	34	case	_	_
 33	Матерую	Матерый	PROPN	AdjType=Subst	Case=Acc|Gender=Fem|Number=Sing	34	amod	_	_
 34	реку	рѣка	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	xcomp	_	SpaceAfter=No
@@ -1406,8 +1406,8 @@
 21	на	на	ADP	_	_	23	case	_	_
 22	обе	обѣ	NUM	_	Case=Acc|Gender=Fem	23	nummod	_	_
 23	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	12	obl	_	SpaceAfter=No
-24	,	,	PUNCT	_	_	27	punct	_	_
-25	и	и	CCONJ	_	_	27	cc	_	_
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
 26	грамотъ	грамота	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	29	obj	_	_
 27	миръныхъ	мирный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	26	amod	_	_
 28	не	не	PART	_	Polarity=Neg	29	advmod	_	_
@@ -2392,8 +2392,8 @@
 46	по	по	ADP	_	_	48	case	_	_
 47	морьскому	морской	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	48	amod	_	_
 48	берегу	берегъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	33	conj	_	SpaceAfter=No
-49	,	,	PUNCT	_	_	52	punct	_	_
-50	и	и	CCONJ	_	_	52	cc	_	_
+49	,	,	PUNCT	_	_	51	punct	_	_
+50	и	и	CCONJ	_	_	51	cc	_	_
 51	Поньгама	Поньгома	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	33	amod	_	_
 52	рѣка	рѣка	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	51	appos	_	_
 53	по	по	ADP	_	_	55	case	_	_
@@ -8701,7 +8701,7 @@
 3	ВЪ	въ	ADP	_	_	4	case	_	Norm=ВЪ|SpaceAfter=Yes
 4	НОВѢГОРОДЕ	Новъгородъ	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	Norm=НОВѢГОРОДЕ|SpaceAfter=Yes
 5	ОТРОЧАТОМЪ	отроча	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	2	nmod	_	Norm=ОТРОЧАТОМЪ|SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	_	Norm=.|SpaceAfter=Yes
+6	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=Yes
 
 # sent_id = Kniga_Stepen_02-40
 # text = Пріиде же въ Великій Новъградъ и ту поручи господьствовати сыну своему Владимеру; и собра Ярославъ отъ старѣйшинъ Новоградскихъ и отъ презвитеровъ дѣтей 300 и повелѣ ихъ учити грамоте.
