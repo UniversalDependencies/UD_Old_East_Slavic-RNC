@@ -2420,21 +2420,21 @@
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	которые	который	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	13	nsubj	_	_
 13	вѣдомы	вѣдати	VERB	Transit=Tran	Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	10	acl:relcl	_	_
-14	въ	въ	ADP	_	_	28	case	_	_
-15	новгородскомъ	новгородский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	SpaceAfter=No
+14	въ	въ	ADP	_	_	15	case	_	_
+15	новгородскомъ	новгородский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	_
 17	и	и	CCONJ	_	_	19	cc	_	_
-18	въ	въ	ADP	_	_	28	case	_	_
+18	въ	въ	ADP	_	_	19	case	_	_
 19	устюжскомъ	устюжский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	_
 21	и	и	CCONJ	_	_	23	cc	_	_
-22	въ	въ	ADP	_	_	28	case	_	_
+22	въ	въ	ADP	_	_	23	case	_	_
 23	володимерскомъ	володимерский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No
-24	,	,	PUNCT	_	_	27	punct	_	_
-25	и	и	CCONJ	_	_	27	cc	_	_
+24	,	,	PUNCT	_	_	28	punct	_	_
+25	и	и	CCONJ	_	_	28	cc	_	_
 26	въ	въ	ADP	_	_	28	case	_	_
-27	галицкомъ	галицкий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	15	conj	_	_
-28	приказѣхъ	приказъ	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Plur	13	obl	_	SpaceAfter=No
+27	галицкомъ	галицкий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	_
+28	приказѣхъ	приказъ	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Plur	15	conj	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	13	punct	_	_
 30	посадскимъ	посадский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	31	amod	_	_
 31	людемъ	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	124	iobj	_	_
@@ -13937,7 +13937,7 @@
 
 # sent_id = Nakaz_Pashkovu-19
 # text = — И будетъ даурскіе люди учинятца подъ государевою ево царьского величества высокою рукою, и чаятъ ли въ томъ государствѣ казнѣ болшія прибыли, и сколко человѣкъ ратныхъ людей надобно послати, чтобъ Даурскую землю и Шамша-кана царя привесть подъ государеву царского величества высокую руку, и горою, гдѣ емлютъ золотую и серебряную руду, завладеть.
-1	—	—	PUNCT	_	_	3	punct	_	_
+1	—	—	PUNCT	_	_	6	punct	_	_
 2	И	и	CCONJ	_	_	6	cc	_	_
 3	будетъ	быти	PART	_	_	6	advcl	_	_
 4	даурскіе	даурский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	_
@@ -18483,7 +18483,7 @@
 9	по	по	ADP	_	_	11	case	_	_
 10	5-ти	5	NUM	_	Case=Dat|NumForm=Digit	11	nummod:gov	_	_
 11	человек	человѣкъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
-12	:	:	PUNCT	_	_	15	punct	_	_
+12	:	:	PUNCT	_	_	16	punct	_	_
 13	одна	одинъ	NUM	_	Case=Nom|Gender=Fem|Number=Sing	15	nummod	_	_
 14	бы	бы	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	aux	_	_
 15	половина	половина	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
@@ -19059,7 +19059,7 @@
 36	вычистить	вычистити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	34	xcomp	_	_
 37	в	въ	ADP	_	_	38	case	_	_
 38	годы	годъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	36	obl	_	SpaceAfter=No
-39	,	,	PUNCT	_	_	42	punct	_	_
+39	,	,	PUNCT	_	_	43	punct	_	_
 40	на	на	ADP	_	_	42	case	_	_
 41	колько	колько	NUM	_	Case=Acc	43	obl	_	_
 42	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	43	nsubj	_	_
