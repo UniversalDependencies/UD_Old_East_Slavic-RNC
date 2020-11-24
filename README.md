@@ -1,6 +1,6 @@
 # Summary
 
-`UD_Old_Russian-RNC` is a sample of the Middle Russian corpus (1300-1700), a part of the Russian National Corpus. The data were originally annotated according to the RNC and extended UD-Russian morphological schemas and UD 2.4 dependency schema.
+`UD_Old_East_Slavic-RNC` is a sample of the Middle Russian corpus (1300-1700), a part of the Russian National Corpus. The data were originally annotated according to the RNC and extended UD-Russian morphological schemas and UD 2.4 dependency schema.
 
 # Introduction
 
@@ -24,17 +24,20 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 
 # Changelog
 
+* 2021-05-15 v2.8
+  * Repository renamed from UD_Old_Russian-RNC to UD_Old_East_Slavic-RNC.
+
 * 2020-05-15 v2.6
-  * Train and test data, including GramEval2020 collection, added  
-  * Poss, PronType, Reflex, Voice, Animacy features added and checked  
-  * Minor corrections  
+  * Train and test data, including GramEval2020 collection, added
+  * Poss, PronType, Reflex, Voice, Animacy features added and checked
+  * Minor corrections
 
 * 2019-11-15 v2.5
-  * Minor corrections  
+  * Minor corrections
 
 * 2019-05-15 v2.4
-  * Initial release in Universal Dependencies  
-  
+  * Initial release in Universal Dependencies
+
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.4
