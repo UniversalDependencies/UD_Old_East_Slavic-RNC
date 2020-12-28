@@ -727,7 +727,7 @@
 20	дати	дати	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	_
 21	на	на	ADP	_	_	23	case	_	_
 22	обе	оба	NUM	_	Case=Acc|Gender=Fem	23	nummod	_	_
-23	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	20	obl	_	SpaceAfter=No
+23	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Count	20	obl	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	20	punct	_	_
 
 # sent_id = GVNP_078-11
@@ -838,7 +838,7 @@
 2	колоду	колода	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
 3	на	на	ADP	_	_	5	case	_	_
 4	обе	оба	NUM	_	Case=Acc|Gender=Fem	5	nummod	_	_
-5	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	6	obl	_	_
+5	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Count	6	obl	_	_
 6	отложыхомъ	отложити	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	13	punct	_	_
 8	и	и	CCONJ	_	_	13	cc	_	_
@@ -890,7 +890,7 @@
 22	нетъ	нетъ	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 23	на	на	ADP	_	_	25	case	_	_
 24	обе	обѣ	NUM	_	Case=Acc|Gender=Fem	25	nummod	_	_
-25	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	22	obl	_	SpaceAfter=No
+25	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Count	22	obl	_	SpaceAfter=No
 26	,	_	PUNCT	_	_	34	punct	_	_
 27	и	и	CCONJ	_	_	34	cc	_	_
 28	товара	товаръ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	34	obj	_	_
@@ -911,7 +911,7 @@
 43	,	,	PUNCT	_	_	46	punct	_	_
 44	на	на	ADP	_	_	46	case	_	_
 45	обе	оба	NUM	_	Case=Acc|Gender=Fem	46	nummod	_	_
-46	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	39	obl	_	SpaceAfter=No
+46	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Count	39	obl	_	SpaceAfter=No
 47	.	.	PUNCT	_	_	22	punct	_	_
 
 # sent_id = GVNP_078-16
@@ -1042,7 +1042,7 @@
 26	,	,	PUNCT	_	_	29	punct	_	_
 27	на	на	ADP	_	_	29	case	_	_
 28	обе	оба	NUM	_	Case=Acc|Gender=Fem	29	nummod	_	_
-29	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	22	obl	_	SpaceAfter=No
+29	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Count	22	obl	_	SpaceAfter=No
 30	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = GVNP_078-20
@@ -1085,7 +1085,7 @@
 36	,	,	PUNCT	_	_	39	punct	_	_
 37	на	на	ADP	_	_	39	case	_	_
 38	обе	оба	NUM	_	Case=Acc|Gender=Fem	39	nummod	_	_
-39	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	34	obl	_	SpaceAfter=No
+39	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Count	34	obl	_	SpaceAfter=No
 40	,	,	PUNCT	_	_	43	punct	_	_
 41	по	по	ADP	_	_	43	case	_	_
 42	крестному	крестный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	43	amod	_	_
@@ -1146,7 +1146,7 @@
 8	стояти	стояти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
 9	на	на	ADP	_	_	11	case	_	_
 10	обе	оба	NUM	_	Case=Acc|Gender=Fem	11	nummod	_	_
-11	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	8	obl	_	SpaceAfter=No
+11	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Count	8	obl	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	_
 13	по	по	ADP	_	_	15	case	_	_
 14	крестному	крестный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
@@ -1187,7 +1187,7 @@
 30	давати	давати	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
 31	на	на	ADP	_	_	33	case	_	_
 32	обе	оба	NUM	_	Case=Acc|Gender=Fem	33	nummod	_	_
-33	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	30	obl	_	SpaceAfter=No
+33	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Count	30	obl	_	SpaceAfter=No
 34	,	,	PUNCT	_	_	37	punct	_	_
 35	по	по	ADP	_	_	37	case	_	_
 36	крестному	крестный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	37	amod	_	_
@@ -1405,7 +1405,7 @@
 20	,	,	PUNCT	_	_	23	punct	_	_
 21	на	на	ADP	_	_	23	case	_	_
 22	обе	обѣ	NUM	_	Case=Acc|Gender=Fem	23	nummod	_	_
-23	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	12	obl	_	SpaceAfter=No
+23	стороне	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Count	12	obl	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	26	punct	_	_
 25	и	и	CCONJ	_	_	26	cc	_	_
 26	грамотъ	грамота	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	29	obj	_	_
@@ -1501,11 +1501,11 @@
 56	проидетъ	проити	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	66	advcl	_	SpaceAfter=No
 57	,	,	PUNCT	_	_	59	punct	_	_
 58	чотыры	четыри	NUM	_	Case=Nom|Gender=Fem	59	nummod	_	_
-59	недели	недѣля	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	55	appos	_	SpaceAfter=No
+59	недели	недѣля	NOUN	_	Case=Nom|Gender=Fem|Number=Count	55	appos	_	SpaceAfter=No
 60	,	,	PUNCT	_	_	63	punct	_	_
 61	на	на	ADP	_	_	63	case	_	_
 62	обе	оба	NUM	_	Case=Acc|Gender=Fem	63	nummod:gov	_	_
-63	стороны	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	66	obl	_	SpaceAfter=No
+63	стороны	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Count	66	obl	_	SpaceAfter=No
 64	,	,	PUNCT	_	_	63	punct	_	_
 65	тожъ	тожъ	ADV	_	Degree=Pos	66	advmod	_	_
 66	воеватися	воеватися	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	49	conj	_	SpaceAfter=No
@@ -1521,7 +1521,7 @@
 6	ездити	ѣздити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
 7	на	на	ADP	_	_	9	case	_	_
 8	обе	оба	NUM	_	Case=Acc|Gender=Fem	9	nummod:gov	_	_
-9	стороны	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	6	obl	_	SpaceAfter=No
+9	стороны	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Count	6	obl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
 11	безо	безо	ADP	_	_	13	case	_	_
 12	всякое	всякий	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	13	det	_	_
@@ -2264,7 +2264,7 @@
 26	на	на	ADP	_	_	27	case	_	_
 27	Кѣгострове	Кѣгостровъ	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	24	nmod	_	_
 28	двѣ	дъва	NUM	_	Case=Acc|Gender=Fem	29	nummod	_	_
-29	трети	треть	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	24	appos	_	_
+29	трети	треть	NOUN	_	Case=Acc|Gender=Fem|Number=Count	24	appos	_	_
 30	села	село	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	29	nmod	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -2392,13 +2392,13 @@
 46	по	по	ADP	_	_	48	case	_	_
 47	морьскому	морской	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	48	amod	_	_
 48	берегу	берегъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	33	conj	_	SpaceAfter=No
-49	,	,	PUNCT	_	_	51	punct	_	_
-50	и	и	CCONJ	_	_	51	cc	_	_
-51	Поньгама	Поньгома	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	33	amod	_	_
-52	рѣка	рѣка	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	51	appos	_	_
+49	,	,	PUNCT	_	_	52	punct	_	_
+50	и	и	CCONJ	_	_	52	cc	_	_
+51	Поньгама	Поньгома	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	52	compound	_	_
+52	рѣка	рѣка	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	33	conj	_	_
 53	по	по	ADP	_	_	55	case	_	_
 54	обѣ	оба	NUM	_	Case=Acc|Gender=Fem	55	nummod	_	_
-55	сторонѣ	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	52	nmod	_	SpaceAfter=No
+55	сторонѣ	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Count	52	nmod	_	SpaceAfter=No
 56	,	,	PUNCT	_	_	60	punct	_	_
 57	и	и	CCONJ	_	_	60	cc	_	_
 58	по	по	ADP	_	_	60	case	_	_
@@ -2896,7 +2896,7 @@
 34	боярские	боярский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	33	amod	_	_
 35	дватцеть	двадцать	NUM	_	Case=Nom	36	compound	_	_
 36	две	два	NUM	_	Case=Nom|Gender=Fem	37	nummod:gov	_	_
-37	чети	четь	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	15	conj	_	_
+37	чети	четь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	15	conj	_	_
 38	да	да	CCONJ	_	_	40	cc	_	_
 39	облогом	облогъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	40	obl	_	_
 40	лежит	лежати	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	37	conj	_	_
@@ -2906,7 +2906,7 @@
 44	,	,	PUNCT	_	_	47	punct	_	_
 45	лесу	лѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	47	nmod	_	_
 46	две	два	NUM	_	Case=Nom|Gender=Fem	47	nummod:gov	_	_
-47	десятины	десятина	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	37	conj	_	SpaceAfter=No
+47	десятины	десятина	NOUN	_	Case=Nom|Gender=Fem|Number=Count	37	conj	_	SpaceAfter=No
 48	,	,	PUNCT	_	_	51	punct	_	_
 49	сена	сѣно	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	51	nmod	_	_
 50	шездесят	шестьдесятъ	NUM	_	Case=Nom	51	nummod:gov	_	_
@@ -2974,7 +2974,7 @@
 112	лесу	лѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	115	nmod	_	_
 113	дровяного	дровяной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	112	amod	_	_
 114	три	три	NUM	_	Case=Nom|Gender=Fem	115	nummod:gov	_	_
-115	десятины	десятина	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	110	conj	_	SpaceAfter=No
+115	десятины	десятина	NOUN	_	Case=Nom|Gender=Fem|Number=Count	110	conj	_	SpaceAfter=No
 116	,	,	PUNCT	_	_	119	punct	_	_
 117	сена	сѣно	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	119	nmod	_	_
 118	дватцеть	двадцать	NUM	_	Case=Nom	119	nummod:gov	_	_
@@ -3003,7 +3003,7 @@
 141	,	,	PUNCT	_	_	144	punct	_	_
 142	лесу	лѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	144	nmod	_	_
 143	две	два	NUM	_	Case=Nom|Gender=Fem	144	nummod:gov	_	_
-144	десятины	десятина	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	138	conj	_	SpaceAfter=No
+144	десятины	десятина	NOUN	_	Case=Nom|Gender=Fem|Number=Count	138	conj	_	SpaceAfter=No
 145	;	;	PUNCT	_	_	146	punct	_	_
 146	починок	починокъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	conj	_	_
 147	Захаров	Захаровъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	146	appos	_	_
@@ -3020,7 +3020,7 @@
 158	,	,	PUNCT	_	_	161	punct	_	_
 159	лесу	лѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	161	nmod	_	_
 160	две	два	NUM	_	Case=Nom|Gender=Fem	161	nummod:gov	_	_
-161	десятины	десятина	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	155	conj	_	SpaceAfter=No
+161	десятины	десятина	NOUN	_	Case=Nom|Gender=Fem|Number=Count	155	conj	_	SpaceAfter=No
 162	,	,	PUNCT	_	_	165	punct	_	_
 163	сена	сѣно	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	165	nmod	_	_
 164	десять	десять	NUM	_	Case=Nom	165	nummod:gov	_	_
@@ -3040,7 +3040,7 @@
 178	,	,	PUNCT	_	_	181	punct	_	_
 179	сена	сѣно	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	181	nmod	_	_
 180	три	три	NUM	_	Case=Nom|Gender=Fem	181	nummod:gov	_	_
-181	копны	копна	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	173	conj	_	SpaceAfter=No
+181	копны	копна	NOUN	_	Case=Nom|Gender=Fem|Number=Count	173	conj	_	SpaceAfter=No
 182	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = AFZ_3_2_347-5
@@ -4311,7 +4311,7 @@
 67	мірское	мирской	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	68	amod	_	Norm=мірское|_
 68	челобитъе	челобитье	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	56	obl	_	Norm=челобитъе|_
 69	103	103	NUM	_	Case=Acc|Gender=Masc|NumForm=Digit	70	nummod:gov	_	Norm=103|_
-70	рубля	рубль	NOUN	_	Case=Acc|Gender=Masc|Number=Adnum	56	obj	_	Norm=рубля|_
+70	рубля	рубль	NOUN	_	Case=Acc|Gender=Masc|Number=Count	56	obj	_	Norm=рубля|_
 71	съ	съ	ADP	_	_	72	case	_	Norm=съ|_
 72	полтиною	полтина	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	70	nmod	_	Norm=полтиною|SpaceAfter=No
 73	,	,	PUNCT	_	_	91	punct	_	Norm=,|_
@@ -5566,7 +5566,7 @@
 101	11	11	NUM	_	Case=Acc|NumForm=Digit	102	nummod:gov	_	Norm=11|SpaceAfter=Yes
 102	сороковъ	сорокъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	81	obj	_	Norm=сороковъ|SpaceAfter=Yes
 103	4	4	NUM	_	Case=Nom|Gender=Fem|NumForm=Digit	104	nummod:gov	_	Norm=4|SpaceAfter=Yes
-104	куницы	куница	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	102	nmod	_	Norm=куницы|SpaceAfter=No
+104	куницы	куница	NOUN	_	Case=Nom|Gender=Fem|Number=Count	102	nmod	_	Norm=куницы|SpaceAfter=No
 105	,	,	PUNCT	_	_	110	punct	_	Norm=,|SpaceAfter=Yes
 106	и	и	CCONJ	_	_	110	cc	_	Norm=и|SpaceAfter=Yes
 107	за	за	ADP	_	_	110	case	_	Norm=за|SpaceAfter=Yes
@@ -5590,7 +5590,7 @@
 125	полтинѣ	полтина	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	119	nmod	_	Norm=полтинѣ|SpaceAfter=No
 126	,	,	PUNCT	_	_	128	punct	_	Norm=,|SpaceAfter=Yes
 127	133	133	NUM	_	Case=Nom|Gender=Masc|NumForm=Digit	128	nummod:gov	_	Norm=133|SpaceAfter=Yes
-128	руб.	рубль	NOUN	_	Case=Nom|Gender=Masc|Number=Adnum	119	nmod	_	Norm=руб.|SpaceAfter=Yes
+128	руб.	рубль	NOUN	_	Case=Nom|Gender=Masc|Number=Count	119	nmod	_	Norm=руб.|SpaceAfter=Yes
 129	16	16	NUM	_	Case=Nom|NumForm=Digit	130	nummod:gov	_	Norm=16|SpaceAfter=Yes
 130	алт.	алтынъ	NOUN	_	Abbr=Yes	128	nmod	_	Norm=алт.|SpaceAfter=Yes
 131	3	3	NUM	_	Case=Nom|Gender=Masc|NumForm=Digit	132	nummod:gov	_	Norm=3|SpaceAfter=Yes
@@ -5845,7 +5845,7 @@
 107	Жданку	Жданко	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	101	conj	_	Norm=Жданку|SpaceAfter=Yes
 108	Баташеву	Баташевъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	107	flat:name	_	Norm=Баташеву|SpaceAfter=Yes
 109	3	3	NUM	_	Case=Acc|Gender=Fem|NumForm=Digit	110	nummod:gov	_	Norm=3|SpaceAfter=Yes
-110	подводы	подвода	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	83	conj	_	Norm=подводы|SpaceAfter=Yes
+110	подводы	подвода	NOUN	_	Case=Acc|Gender=Fem|Number=Count	83	conj	_	Norm=подводы|SpaceAfter=Yes
 111	въ	въ	ADP	_	_	113	case	_	Norm=въ|SpaceAfter=Yes
 112	готовые	готовый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	113	amod	_	Norm=готовые|SpaceAfter=Yes
 113	сани	сани	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	110	orphan	_	Norm=сани|SpaceAfter=Yes
@@ -6025,7 +6025,7 @@
 60	80	80	NUM	_	Case=Acc|NumForm=Digit	61	nummod:gov	_	Norm=80|SpaceAfter=Yes
 61	рублевъ	рубль	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	34	conj	_	Norm=рублевъ|SpaceAfter=Yes
 62	2	2	NUM	_	Case=Acc|Gender=Fem|NumForm=Digit	63	nummod:gov	_	Norm=2|SpaceAfter=Yes
-63	денги	деньга	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	61	nmod	_	Norm=денги|SpaceAfter=No
+63	денги	деньга	NOUN	_	Case=Acc|Gender=Fem|Number=Count	61	nmod	_	Norm=денги|SpaceAfter=No
 64	,	,	PUNCT	_	_	68	punct	_	Norm=,|SpaceAfter=Yes
 65	противъ	противъ	ADP	_	_	68	case	_	Norm=противъ|SpaceAfter=Yes
 66	прошлого	прошлый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	68	amod	_	Norm=прошлого|SpaceAfter=Yes
@@ -6086,7 +6086,7 @@
 23	да	да	CCONJ	_	_	26	cc	_	Norm=да|SpaceAfter=Yes
 24	пошлинъ	пошлина	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	26	nmod	_	Norm=пошлинъ|SpaceAfter=Yes
 25	2	2	NUM	_	Case=Nom|Gender=Masc|NumForm=Digit	26	nummod:gov	_	Norm=2|SpaceAfter=Yes
-26	рубли	рубль	NOUN	_	Case=Nom|Gender=Masc|Number=Adnum	10	conj	_	Norm=рубли|SpaceAfter=No
+26	рубли	рубль	NOUN	_	Case=Nom|Gender=Masc|Number=Count	10	conj	_	Norm=рубли|SpaceAfter=No
 27	,	,	PUNCT	_	_	31	punct	_	Norm=,|SpaceAfter=Yes
 28	да	да	CCONJ	_	_	31	cc	_	Norm=да|SpaceAfter=Yes
 29	съ	съ	ADP	_	_	30	case	_	Norm=съ|SpaceAfter=Yes
@@ -6095,7 +6095,7 @@
 32	13	13	NUM	_	Case=Nom|NumForm=Digit	33	nummod:gov	_	Norm=13|SpaceAfter=Yes
 33	алт.	алтынъ	NOUN	_	Abbr=Yes	31	nmod	_	Norm=алт.|SpaceAfter=Yes
 34	2	2	NUM	_	Case=Nom|Gender=Fem|NumForm=Digit	35	nummod:gov	_	Norm=2|SpaceAfter=Yes
-35	денги	деньга	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	31	nmod	_	Norm=денги|SpaceAfter=No
+35	денги	деньга	NOUN	_	Case=Nom|Gender=Fem|Number=Count	31	nmod	_	Norm=денги|SpaceAfter=No
 36	,	,	PUNCT	_	_	54	punct	_	Norm=,|SpaceAfter=Yes
 37	И	и	CCONJ	_	_	54	cc	_	Norm=И|SpaceAfter=Yes
 38	тѣ	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	42	det	_	Norm=тѣ|SpaceAfter=Yes
@@ -6264,7 +6264,7 @@
 104	съ	съ	ADP	_	_	105	case	_	Norm=съ|SpaceAfter=Yes
 105	товарыщн	товарищь	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	102	nmod	_	Norm=товарыщи|SpaceAfter=Yes
 106	три	три	NUM	_	Case=Acc|Gender=Fem	107	nummod:gov	_	Norm=три|SpaceAfter=Yes
-107	подводы	подвода	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	72	conj	_	Norm=подводы|SpaceAfter=Yes
+107	подводы	подвода	NOUN	_	Case=Acc|Gender=Fem|Number=Count	72	conj	_	Norm=подводы|SpaceAfter=Yes
 108	съ	съ	ADP	_	_	109	case	_	Norm=съ|SpaceAfter=Yes
 109	санми	сани	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	107	nmod	_	Norm=санми|SpaceAfter=Yes
 110	и	и	CCONJ	_	_	112	cc	_	Norm=и|SpaceAfter=Yes
@@ -7010,7 +7010,7 @@
 16	стрѣлецкимъ	стрѣлѣцкий	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	19	amod	_	Norm=стрѣлецкимъ|SpaceAfter=Yes
 17	и	и	CCONJ	_	_	18	cc	_	Norm=и|SpaceAfter=Yes
 18	пушкарскимъ	пушкарский	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	16	conj	_	Norm=пушкарскимъ|SpaceAfter=Yes
-19	дѣтямъ	дѣти	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	35	iobj	_	Norm=дѣтямъ|SpaceAfter=Yes
+19	дѣтямъ	дѣтя	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	35	iobj	_	Norm=дѣтямъ|SpaceAfter=Yes
 20	и	и	CCONJ	_	_	21	cc	_	Norm=и|SpaceAfter=Yes
 21	братьѣ	братья	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	19	conj	_	Norm=братьѣ|SpaceAfter=No
 22	,	,	PUNCT	_	_	26	punct	_	Norm=,|SpaceAfter=Yes
@@ -7659,7 +7659,7 @@
 12	8	8	NUM	_	Case=Nom|NumForm=Digit	11	nummod:gov	_	Norm=8|SpaceAfter=Yes
 13	И	и	CCONJ	_	_	15	cc	_	Norm=И|SpaceAfter=Yes
 14	ДВА	два	NUM	_	Case=Nom|Gender=Masc	15	nummod:gov	_	Norm=ДВА|SpaceAfter=Yes
-15	МИТРОПОЛИТЫ	митрополитъ	NOUN	_	Case=Nom|Gender=Masc|Number=Adnum	11	conj	_	Norm=МИТРОПОЛИТЫ|SpaceAfter=No
+15	МИТРОПОЛИТЫ	митрополитъ	NOUN	_	Case=Nom|Gender=Masc|Number=Count	11	conj	_	Norm=МИТРОПОЛИТЫ|SpaceAfter=No
 16	:	:	PUNCT	_	_	17	punct	_	Norm=:|SpaceAfter=Yes
 17	ФЕОПЕНТЪ	Феопентъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	15	appos	_	Norm=ФЕОПЕНТЪ|SpaceAfter=Yes
 18	И	и	CCONJ	_	_	19	cc	_	Norm=И|SpaceAfter=Yes
@@ -9202,7 +9202,7 @@
 10	Царяграда	Царьградъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	Norm=Царяграда|SpaceAfter=Yes
 11	богоподвизаеміи	богоподвизаемый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	13	amod	_	Norm=богоподвизаеміи|SpaceAfter=Yes
 12	тріе	три	NUM	_	Case=Nom|Gender=Masc	13	nummod	_	Norm=тріе|SpaceAfter=Yes
-13	пѣвьцы	пѣвецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Adnum	6	nsubj	_	Norm=пѣвьцы|SpaceAfter=Yes
+13	пѣвьцы	пѣвецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Count	6	nsubj	_	Norm=пѣвьцы|SpaceAfter=Yes
 14	Гречестіи	греческий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	13	amod	_	Norm=Гречестіи|SpaceAfter=Yes
 15	съ	съ	ADP	_	_	16	case	_	Norm=съ|SpaceAfter=Yes
 16	роды	родъ	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	13	nmod	_	Norm=роды|SpaceAfter=Yes
