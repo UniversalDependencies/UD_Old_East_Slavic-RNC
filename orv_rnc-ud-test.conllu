@@ -46,7 +46,7 @@
 13	указу	указъ	NOUN	Animacy[lex]=Inan	Case=Dat|Gender=Masc|Number=Sing	32	obl	_	_
 14	отца	отецъ	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
 15	нашего	нашъ	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det	_	_
-16	государева	государевъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	14	amod	_	SpaceAfter=No
+16	государева	государевъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Shortt	14	amod	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	21	punct	_	_
 18	блаженныя	блаженный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
 19	памяти	память	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
