@@ -49,7 +49,7 @@
 10	12	12	NUM	_	Case=Nom|NumForm=Digit	11	nummod:gov	_	_
 11	человека	человекъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nsubj:pass	_	_
 12	в	въ	ADP	_	_	14	case	_	_
-13	ъднои	одна	NUM	_	Case=Loc|Gender=Fem|Number=Sing	14	nummod	_	_
+13	ъднои	одинъ	NUM	_	Case=Loc|Gender=Fem|Number=Sing	14	nummod	_	_
 14	лодьи	лодья	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
 15	,	_	PUNCT	_	_	20	punct	_	_
 16	и	и	CCONJ	_	_	20	cc	_	_
@@ -3909,7 +3909,7 @@
 140	и	и	CCONJ	_	_	141	cc	_	Norm=и|_
 141	выборъ	выборъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	139	conj	_	Norm=выборъ|_
 142	велѣлъ	велѣти	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	127	conj	_	Norm=велѣлъ|_
-143	податъ	подати	VERB	_	Aspect=Perf|VerbForm=Sup|Voice=Act	142	xcomp	_	Norm=податъ|_
+143	податъ	подати	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	142	xcomp	_	Norm=податъ|_
 144	въ	въ	ADP	_	_	145	case	_	Norm=въ|_
 145	приказѣ	приказъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	143	obl	_	Norm=приказѣ|_
 146	болшіе	большой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	147	amod	_	Norm=болшіе|_
@@ -9394,7 +9394,7 @@
 3	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	det	_	Norm=его|SpaceAfter=Yes
 4	Изяславу	Изяславъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	Norm=Изяславу|SpaceAfter=Yes
 5	тогда	тогда	ADV	_	Degree=Pos	8	advmod	_	Norm=тогда|SpaceAfter=Yes
-6	сущу	быти	AUX	_	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	8	cop	_	Norm=сущу|SpaceAfter=Yes
+6	сущу	быти	AUX	_	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	cop	_	Norm=сущу|SpaceAfter=Yes
 7	въ	въ	ADP	_	_	8	case	_	Norm=въ|SpaceAfter=Yes
 8	Кіевѣ	Киевъ	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	0	root	_	Norm=Кіевѣ|SpaceAfter=No
 9	,	,	PUNCT	_	_	19	punct	_	Norm=,|SpaceAfter=Yes
