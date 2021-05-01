@@ -218,7 +218,7 @@
 15	на	на	ADP	_	_	16	case	_	_
 16	себе	себе	PRON	_	Case=Loc|PronType=Prs|Reflex=Yes	17	obl	_	_
 17	жялоба	жалоба	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	17	punct	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	_
 
 # newdoc id = gvnp/GVNP_078
 # created = 1474.01.13;1500-1600
@@ -1543,7 +1543,7 @@
 28	по	по	ADP	_	_	30	case	_	_
 29	крестному	крестный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
 30	целованью	цѣлованье	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No
-31	.	,	PUNCT	_	_	6	punct	_	SpaceAfter=No
+31	.	,	PUNCT	_	_	6	punct	_	_
 
 # newpar
 # sent_id = GVNP_078-32
@@ -1794,7 +1794,7 @@
 13	Кура	Кура	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	conj	_	_
 14	Олекъсеевичъ	Олексѣевичъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	flat:name	_	_
 15	Шемятовъ	Шемятовъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	flat:name	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	_
 
 # newdoc id = gvnp/GVNP_093
 # created  =
@@ -1999,7 +1999,7 @@
 22	того	тотъ	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	24	det	_	_
 23	Петрова	петровъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	24	amod	_	_
 24	дни	день	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	_
 
 # newdoc id = gvnp/GVNP_087
 # created = 1363-1389;1490-1510
@@ -2100,7 +2100,7 @@
 56	и	и	PART	_	_	58	advmod	_	_
 57	при	при	ADP	_	_	58	case	_	_
 58	мнѣ	я	PRON	_	Case=Loc|Number=Sing|Person=1|PronType=Prs	17	conj	_	SpaceAfter=No
-59	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+59	.	.	PUNCT	_	_	6	punct	_	_
 
 # newdoc id = gvnp/GVNP_252
 # created = 1400-1500
@@ -2230,7 +2230,7 @@
 4	Семенъ	Семенъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 5	Ігославль	игославль	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	6	amod	_	_
 6	сынъ	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
 
 # newdoc id = gvnp/GVNP_246
 # newpar
@@ -2337,7 +2337,7 @@
 16	Поповъ	Поповъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	15	flat:name	_	_
 17	Теряевъ	теряевъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	15	flat:name	_	_
 18	внукъ	внукъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	flat:name	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	_
 
 # newdoc id = gvnp/GVNP_291
 # created = 1448-1458
@@ -2567,7 +2567,7 @@
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	Нефедья	Нефедья	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	_
 15	Микулинъ	Микулинъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	14	flat:name	_	SpaceAfter=No
-16	.	,	PUNCT	_	_	2	punct	_	SpaceAfter=No
+16	.	,	PUNCT	_	_	2	punct	_	_
 
 # newdoc id = gvnp/GVNP_285
 # created = 1391.08.25;1500-1600
@@ -3191,7 +3191,7 @@
 28	или	или	CCONJ	_	_	30	cc	_	Norm=или|_
 29	мои	мой	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	30	det	_	Norm=мои|_
 30	бояре	бояринъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	15	conj	_	Norm=бояре|SpaceAfter=No
-31	.	.	PUNCT	_	_	14	punct	_	Norm=.|_|SpaceAfter=No
+31	.	.	PUNCT	_	_	14	punct	_	Norm=.|_
 
 # newpar
 # sent_id = AFZ_3_2_347-10
@@ -3207,7 +3207,7 @@
 9	в	въ	ADP	_	_	11	case	_	Norm=в|_
 10	30	30	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit	11	amod	_	Norm=30|_
 11	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	Norm=день|SpaceAfter=No
-12	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	Norm=.
 
 # newpar
 # sent_id = AFZ_3_2_347-11
@@ -3220,7 +3220,7 @@
 6	помета	помета	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Norm=помета|NoIndex=Yes|SpaceAfter=No
 7	:	:	PUNCT	_	_	8	punct	_	Norm=:|NoIndex=Yes|_
 8	Кострома	Кострома	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	Norm=Кострома|SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	Norm=.|_|SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	Norm=.|_
 
 # newdoc id = kungur/Kungur_akty_67
 # newpar
@@ -3964,7 +3964,7 @@
 9	въ	въ	ADP	_	_	11	case	_	Norm=въ|_
 10	29	29	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit	11	amod	_	Norm=29|_
 11	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	Norm=день|SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	Norm=.|SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_67-7
@@ -4005,7 +4005,7 @@
 18	человѣкъ	человѣкъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Norm=человѣкъ|_
 19	Василей	Василей	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	18	appos	_	Norm=Василей|_
 20	Протопоповъ	Протопоповъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	19	flat:name	_	Norm=Протопоповъ|SpaceAfter=No
-21	.	.	PUNCT	_	_	1	punct	_	Norm=.|SpaceAfter=No
+21	.	.	PUNCT	_	_	1	punct	_	Norm=.
 
 # newdoc id = kungur/Kungur_akty_73
 # newpar
@@ -4048,7 +4048,7 @@
 8	лицамъ	лицо	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	5	iobj	_	Norm=лицамъ|_
 9	притѣсненія	притѣснение	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	1	nmod	_	Norm=притѣсненія|SpaceAfter=No
 10	]	]	PUNCT	_	_	1	punct	_	Norm=]|SpaceAfter=No
-11	.	.	PUNCT	_	_	1	punct	_	Norm=.|SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-4
@@ -4425,7 +4425,7 @@
 181	съ	съ	ADP	_	_	183	case	_	Norm=съ|_
 182	мірскими	мирской	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	183	amod	_	Norm=мірскими|_
 183	людми	люди	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	178	obl	_	Norm=людми|SpaceAfter=No
-184	.	.	PUNCT	_	_	16	punct	_	Norm=.|SpaceAfter=No
+184	.	.	PUNCT	_	_	16	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-8
@@ -4578,7 +4578,7 @@
 42	Илюшка	Илюшка	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	41	appos	_	Norm=Илюшка|_
 43	разоряетца	разорятися	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	32	conj	_	Norm=разоряетца|_
 44	вконецъ	вконецъ	ADV	_	Degree=Pos	43	advmod	_	Norm=вконецъ|SpaceAfter=No
-45	.	.	PUNCT	_	_	14	punct	_	Norm=.|SpaceAfter=No
+45	.	.	PUNCT	_	_	14	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-10
@@ -4727,7 +4727,7 @@
 21	Лазарко	Лазарко	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	20	appos	_	Norm=Лазарко|_
 22	нынѣ	нынѣ	ADV	_	Degree=Pos	23	advmod	_	Norm=нынѣ|_
 23	разоренъ	разорити	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	conj	_	Norm=разоренъ|SpaceAfter=No
-24	.	.	PUNCT	_	_	6	punct	_	Norm=.|SpaceAfter=No
+24	.	.	PUNCT	_	_	6	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-13
@@ -4808,7 +4808,7 @@
 74	Украинцову	Украинцовъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	72	flat:name	_	Norm=Украинцову|_
 75	съ	съ	ADP	_	_	76	case	_	Norm=съ|_
 76	товарыщи	товарищь	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	71	nmod	_	Norm=товарыщи|SpaceAfter=No
-77	.	.	PUNCT	_	_	48	punct	_	Norm=.|SpaceAfter=No
+77	.	.	PUNCT	_	_	48	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-14
@@ -4841,7 +4841,7 @@
 20	убить	убити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	18	nmod	_	Norm=убить|_
 21	просителя	проситель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	20	obj	_	Norm=просителя|SpaceAfter=No
 22	]	]	PUNCT	_	_	2	punct	_	Norm=]|SpaceAfter=No
-23	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-16
@@ -5013,7 +5013,7 @@
 43	Украинцову	Украинцовъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	41	flat:name	_	Norm=Украинцову|_
 44	съ	съ	ADP	_	_	45	case	_	Norm=съ|_
 45	товарыщы	товарищь	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	40	nmod	_	Norm=товарыщы|SpaceAfter=No
-46	.	.	PUNCT	_	_	15	punct	_	Norm=.|SpaceAfter=No
+46	.	.	PUNCT	_	_	15	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-20
@@ -5040,7 +5040,7 @@
 14	Шавкуновымъ	Шавкуновъ	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	11	nmod	_	Norm=Шавкуновымъ|_
 15	дѣйствіяхъ	дѣйствие	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	3	nmod	_	Norm=дѣйствіяхъ|SpaceAfter=No
 16	]	]	PUNCT	_	_	2	punct	_	Norm=]|SpaceAfter=No
-17	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-22
@@ -5404,7 +5404,7 @@
 54	Украинцову	Украинцовъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	52	flat:name	_	Norm=Украинцову|_
 55	съ	съ	ADP	_	_	56	case	_	Norm=съ|_
 56	товарыщи	товарищь	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	51	nmod	_	Norm=товарыщи|SpaceAfter=No
-57	.	.	PUNCT	_	_	17	punct	_	Norm=.|SpaceAfter=No
+57	.	.	PUNCT	_	_	17	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-29
@@ -5441,7 +5441,7 @@
 6	въ	въ	ADP	_	_	7	case	_	Norm=въ|SpaceAfter=Yes
 7	Москву	Москва	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	Norm=Москву|SpaceAfter=No
 8	]	]	PUNCT	_	_	1	punct	_	Norm=]|SpaceAfter=No
-9	.	.	PUNCT	_	_	1	punct	_	Norm=.|SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-32
@@ -5731,7 +5731,7 @@
 82	Украинцову	Украинцовъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	80	flat:name	_	Norm=Украинцову|SpaceAfter=Yes
 83	съ	съ	ADP	_	_	84	case	_	Norm=съ|SpaceAfter=Yes
 84	товарыщы	товарищь	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	79	nmod	_	Norm=товарыщы|SpaceAfter=No
-85	.	.	PUNCT	_	_	36	punct	_	Norm=.|SpaceAfter=No
+85	.	.	PUNCT	_	_	36	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-36
@@ -5915,7 +5915,7 @@
 5	февраля	февраль	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	flat	_	Norm=февраля|SpaceAfter=Yes
 6	въ	въ	ADP	_	_	7	case	_	Norm=въ|SpaceAfter=Yes
 7	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	Norm=день|SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	Norm=.|SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-40
@@ -5941,7 +5941,7 @@
 13	въ	въ	ADP	_	_	14	case	_	Norm=въ|SpaceAfter=Yes
 14	Москву	Москва	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	11	nmod	_	Norm=Москву|SpaceAfter=No
 15	]	]	PUNCT	_	_	2	punct	_	Norm=]|SpaceAfter=No
-16	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-42
@@ -6153,7 +6153,7 @@
 90	Украинцову	Украинцовъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	88	flat:name	_	Norm=Украинцову|SpaceAfter=Yes
 91	съ	съ	ADP	_	_	92	case	_	Norm=съ|SpaceAfter=Yes
 92	товарыщы	товарищь	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	87	nmod	_	Norm=товарыщы|SpaceAfter=No
-93	.	.	PUNCT	_	_	10	punct	_	Norm=.|SpaceAfter=No
+93	.	.	PUNCT	_	_	10	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-45
@@ -6328,7 +6328,7 @@
 18	въ	въ	ADP	_	_	20	case	_	Norm=въ|SpaceAfter=Yes
 19	26	26	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit	20	amod	_	Norm=26|SpaceAfter=Yes
 20	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	17	nmod	_	Norm=день|SpaceAfter=No
-21	.	.	PUNCT	_	_	12	punct	_	Norm=.|SpaceAfter=No
+21	.	.	PUNCT	_	_	12	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-48
@@ -6352,7 +6352,7 @@
 11	продажу	продажа	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	Norm=продажу|SpaceAfter=Yes
 12	табаку	табакъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	nmod	_	Norm=табаку|SpaceAfter=No
 13	]	]	PUNCT	_	_	2	punct	_	Norm=]|SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-50
@@ -6508,7 +6508,7 @@
 86	Ромодановскому	Ромодановский	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	84	flat:name	_	Norm=Ромодановскому|SpaceAfter=Yes
 87	съ	съ	ADP	_	_	88	case	_	Norm=съ|SpaceAfter=Yes
 88	товарыщы	товарищь	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	82	nmod	_	Norm=товарыщы|SpaceAfter=No
-89	.	.	PUNCT	_	_	33	punct	_	Norm=.|SpaceAfter=No
+89	.	.	PUNCT	_	_	33	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-53
@@ -6531,7 +6531,7 @@
 10	питейной	питейный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	Norm=питейной|SpaceAfter=Yes
 11	прибыли	прибыль	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	conj	_	Norm=прибыли|SpaceAfter=No
 12	]	]	PUNCT	_	_	2	punct	_	Norm=]|SpaceAfter=No
-13	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-55
@@ -6771,7 +6771,7 @@
 69	Прозоровскому	Прозоровский	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	67	flat:name	_	Norm=Прозоровскому|SpaceAfter=Yes
 70	съ	съ	ADP	_	_	71	case	_	Norm=съ|SpaceAfter=Yes
 71	товарыщи	товарищь	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	65	nmod	_	Norm=товарыщи|SpaceAfter=No
-72	.	.	PUNCT	_	_	15	punct	_	Norm=.|SpaceAfter=No
+72	.	.	PUNCT	_	_	15	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-58
@@ -6794,7 +6794,7 @@
 10	и	и	CCONJ	_	_	11	cc	_	Norm=и|SpaceAfter=Yes
 11	др	другой	ADJ	_	Abbr=Yes	5	conj	_	Norm=др|SpaceAfter=No
 12	]	]	PUNCT	_	_	3	punct	_	Norm=]|SpaceAfter=No
-13	.	.	PUNCT	_	_	3	punct	_	Norm=.|SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-60
@@ -7123,7 +7123,7 @@
 14	Стрешневу	Стрешневъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	12	flat:name	_	Norm=Стрешневу|SpaceAfter=Yes
 15	съ	съ	ADP	_	_	16	case	_	Norm=съ|SpaceAfter=Yes
 16	товарыщы	товарищь	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	11	nmod	_	Norm=товарыщы|SpaceAfter=No
-17	.	.	PUNCT	_	_	5	punct	_	Norm=.|SpaceAfter=No
+17	.	.	PUNCT	_	_	5	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-65
@@ -7155,7 +7155,7 @@
 19	сборныхъ	сборный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	20	amod	_	Norm=сборныхъ|SpaceAfter=Yes
 20	денегъ	деньга	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	Norm=денегъ|SpaceAfter=No
 21	]	]	PUNCT	_	_	5	punct	_	Norm=]|SpaceAfter=No
-22	.	.	PUNCT	_	_	5	punct	_	Norm=.|SpaceAfter=No
+22	.	.	PUNCT	_	_	5	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-67
@@ -7287,7 +7287,7 @@
 23	бѣжалъ	бѣжати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	Norm=бѣжалъ|SpaceAfter=Yes
 24	невѣдомо	невѣдомо	ADV	_	Degree=Pos	25	advmod	_	Norm=невѣдомо|SpaceAfter=Yes
 25	куды	куды	ADV	_	Degree=Pos	23	advmod	_	Norm=куды|SpaceAfter=No
-26	.	.	PUNCT	_	_	23	punct	_	Norm=.|SpaceAfter=No
+26	.	.	PUNCT	_	_	23	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-71
@@ -7305,7 +7305,7 @@
 5	Кунгурѣ	Кунгуръ	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	Norm=Кунгурѣ|SpaceAfter=Yes
 6	табаку	табакъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	Norm=табаку|SpaceAfter=No
 7	]	]	PUNCT	_	_	3	punct	_	Norm=]|SpaceAfter=No
-8	.	.	PUNCT	_	_	3	punct	_	Norm=.|SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	Norm=.
 
 # newpar
 # sent_id = Kungur_akty_73-73
@@ -7639,7 +7639,7 @@
 3	акта	актъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Norm=акта|SpaceAfter=Yes
 4	утраченъ	утратити	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Norm=утраченъ|SpaceAfter=No
 5	]	]	PUNCT	_	_	4	punct	_	Norm=]|SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	_	Norm=.|SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	Norm=.
 
 # newdoc id = st_kn/Kniga_Stepen_02
 # newpar
@@ -7664,7 +7664,7 @@
 17	ФЕОПЕНТЪ	Феопентъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	15	appos	_	Norm=ФЕОПЕНТЪ|SpaceAfter=Yes
 18	И	и	CCONJ	_	_	19	cc	_	Norm=И|SpaceAfter=Yes
 19	ЛАРІОНЪ	Ларионъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	17	conj	_	Norm=ЛАРІОНЪ|SpaceAfter=No
-20	.	.	PUNCT	_	_	3	punct	_	Norm=.|SpaceAfter=No
+20	.	.	PUNCT	_	_	3	punct	_	Norm=.
 
 # newpar
 # sent_id = Kniga_Stepen_02-2
@@ -7678,7 +7678,7 @@
 7	ГЕОРГІИ	Георгий	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	6	appos	_	Norm=ГЕОРГІИ|SpaceAfter=Yes
 8	ЯРОСЛАВѢ	Ярославъ	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	7	appos	_	Norm=ЯРОСЛАВѢ|SpaceAfter=Yes
 9	ВЛАДИМЕРИЧИ	Владимеричь	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	8	flat:name	_	Norm=ВЛАДИМЕРИЧИ|SpaceAfter=No
-10	.	.	PUNCT	_	_	6	punct	_	Norm=.|SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	Norm=.
 
 # newpar
 # sent_id = Kniga_Stepen_02-3
@@ -8063,7 +8063,7 @@
 15	прилѣжно	прилежно	ADV	_	Degree=Pos	17	advmod	_	Norm=прилѣжно|SpaceAfter=Yes
 16	самъ	самъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	17	acl	_	Norm=самъ|SpaceAfter=Yes
 17	почиташе	почитати	VERB	Tense=Imp	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	Norm=почиташе|SpaceAfter=No
-18	.	.	PUNCT	_	_	4	punct	_	Norm=.|SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	Norm=.
 
 # newpar
 # sent_id = Kniga_Stepen_02-13
@@ -8514,7 +8514,7 @@
 6	побежаемъ	побѣжати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	Norm=побежаемъ|SpaceAfter=Yes
 7	новопросвѣщенными	новопросвѣщенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	Norm=новопросвѣщенными|SpaceAfter=Yes
 8	людьми	люди	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	6	obl:agent	_	Norm=людьми|SpaceAfter=No
-9	.	.	PUNCT	_	_	4	punct	_	Norm=.|SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	Norm=.
 
 # newpar
 # sent_id = Kniga_Stepen_02-29
@@ -8685,7 +8685,7 @@
 19	по	по	ADP	_	_	20	case	_	Norm=по|SpaceAfter=Yes
 20	имени	имя	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	17	obl	_	Norm=имени|SpaceAfter=Yes
 21	своему	свой	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	20	det	_	Norm=своему|SpaceAfter=No
-22	.	.	PUNCT	_	_	3	punct	_	Norm=.|SpaceAfter=No
+22	.	.	PUNCT	_	_	3	punct	_	Norm=.
 
 # newpar
 # sent_id = Kniga_Stepen_02-38
@@ -8906,7 +8906,7 @@
 58	въ	въ	ADP	_	_	59	case	_	Norm=въ|SpaceAfter=Yes
 59	Патерице	патерикъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	50	conj	_	Norm=Патерице|SpaceAfter=Yes
 60	Печерскомъ	печерский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	59	amod	_	Norm=Печерскомъ|SpaceAfter=No
-61	.	.	PUNCT	_	_	23	punct	_	Norm=.|SpaceAfter=No
+61	.	.	PUNCT	_	_	23	punct	_	Norm=.
 
 # newpar
 # sent_id = Kniga_Stepen_02-47
@@ -9171,7 +9171,7 @@
 20	украсити	украсити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	xcomp	_	Norm=украсити|SpaceAfter=Yes
 21	церковное	церковный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	Norm=церковное|SpaceAfter=Yes
 22	исполненіе	исполнение	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	20	obj	_	Norm=исполненіе|SpaceAfter=No
-23	.	.	PUNCT	_	_	6	punct	_	Norm=.|SpaceAfter=No
+23	.	.	PUNCT	_	_	6	punct	_	Norm=.
 
 # newpar
 # sent_id = Kniga_Stepen_02-60
@@ -9267,7 +9267,7 @@
 54	сердечьное	сердечный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	53	nmod	_	Norm=сердечьное|SpaceAfter=Yes
 55	къ	къ	ADP	_	_	56	case	_	Norm=къ|SpaceAfter=Yes
 56	Богу	Богъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	53	nmod	_	Norm=Богу|SpaceAfter=No
-57	.	.	PUNCT	_	_	4	punct	_	Norm=.|SpaceAfter=No
+57	.	.	PUNCT	_	_	4	punct	_	Norm=.
 
 # newpar
 # sent_id = Kniga_Stepen_02-64
@@ -9564,7 +9564,7 @@
 19	церкви	церковь	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	15	obl	_	Norm=церкви|SpaceAfter=Yes
 20	святыя	святой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	Norm=святыя|SpaceAfter=Yes
 21	Софіи	София	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	Norm=Софіи|SpaceAfter=No
-22	.	.	PUNCT	_	_	5	punct	_	Norm=.|SpaceAfter=No
+22	.	.	PUNCT	_	_	5	punct	_	Norm=.
 
 # newpar
 # sent_id = Kniga_Stepen_02-77
@@ -9687,7 +9687,7 @@
 56	Георгія	Георгий	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	54	nmod	_	Norm=Георгія|SpaceAfter=Yes
 57	въ	въ	ADP	_	_	54	case	_	Norm=въ|SpaceAfter=Yes
 58	монастыри	монастырь	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	54	nmod	_	Norm=монастыри|SpaceAfter=No
-59	.	.	PUNCT	_	_	11	punct	_	Norm=.|SpaceAfter=No
+59	.	.	PUNCT	_	_	11	punct	_	Norm=.
 
 # newpar
 # sent_id = Kniga_Stepen_02-81
@@ -9699,7 +9699,7 @@
 5	КОНЕЦЪ	конецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	Norm=КОНЕЦЪ|SpaceAfter=Yes
 6	ГРАНИ	грань	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	Norm=ГРАНИ|SpaceAfter=Yes
 7	ВТОРЫЯ	второй	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	Norm=ВТОРЫЯ|SpaceAfter=No
-8	.	.	PUNCT	_	_	3	punct	_	Norm=.|SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	Norm=.
 
 # newdoc id = mosk_del_byt_pism-1/11c
 # newpar
@@ -9847,7 +9847,7 @@
 13	Григоревы	григоревъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|Variant=Short	14	amod	_	Norm=Григоревы|SpaceAfter=Yes
 14	кнгни	княгиня	NOUN	_	Abbr=Yes|Case=Gen|Gender=Fem|Number=Sing	2	obl	_	Norm=кнгни|SpaceAfter=Yes
 15	Семеновича	Семеновичь	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	Norm=Семеновича|SpaceAfter=Yes
-16	Куракина	Куракинъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	15	flat:name	_	Norm=Куракина|SpaceAfter=No
+16	Куракина	Куракинъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	15	flat:name	_	Norm=Куракина
 
 # newpar
 # sent_id = mosk_del_byt_pism-1\11c-8
@@ -9856,7 +9856,7 @@
 2	моему	мой	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	1	det	_	Norm=моему|SpaceAfter=Yes
 3	кнзю	князь	NOUN	_	Abbr=Yes|Case=Dat|Gender=Masc|Number=Sing	1	appos	_	Norm=кнзю|SpaceAfter=Yes
 4	Василью	Василий	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	3	appos	_	Norm=Василью|SpaceAfter=Yes
-5	Васильевичю	Васильевичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	4	flat:name	_	Norm=Васильевичю|SpaceAfter=No
+5	Васильевичю	Васильевичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	4	flat:name	_	Norm=Васильевичю
 
 # newpar
 # sent_id = mosk_del_byt_pism-1\11c-9
@@ -9874,7 +9874,7 @@
 11	Уварова	Уваровъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	Norm=Уварова|SpaceAfter=Yes
 12	денщик	денщикъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nsubj	_	Norm=денщик|SpaceAfter=Yes
 13	Купряшка	Купряшка	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	appos	_	Norm=Купряшка|SpaceAfter=Yes
-14	Корнеевъ	Корнеевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	flat:name	_	Norm=Корнеевъ|SpaceAfter=No
+14	Корнеевъ	Корнеевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	flat:name	_	Norm=Корнеевъ
 
 # newdoc id = mosk_del_byt_pism-1/11b
 # newpar
@@ -10004,7 +10004,7 @@
 4	гсдрю	государь	NOUN	_	Abbr=Yes|Case=Dat|Gender=Masc|Number=Sing	3	appos	_	Norm=гсдрю|SpaceAfter=Yes
 5	моему	мой	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	Norm=моему|SpaceAfter=Yes
 6	челом	чело	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	7	iobj	_	Norm=челом|SpaceAfter=Yes
-7	бью	бити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Norm=бью|SpaceAfter=No
+7	бью	бити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Norm=бью
 
 # newpar
 # sent_id = mosk_del_byt_pism-1\11b-7
@@ -10013,7 +10013,7 @@
 2	моему	мой	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	1	det	_	Norm=моему|SpaceAfter=Yes
 3	кнзю	князь	NOUN	_	Abbr=Yes|Case=Dat|Gender=Masc|Number=Sing	1	appos	_	Norm=кнзю|SpaceAfter=Yes
 4	Василью	Василий	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	3	appos	_	Norm=Василью|SpaceAfter=Yes
-5	Васильевичю	Васильевичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	4	flat:name	_	Norm=Васильевичю|SpaceAfter=No
+5	Васильевичю	Васильевичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	4	flat:name	_	Norm=Васильевичю
 
 # newpar
 # sent_id = mosk_del_byt_pism-1\11b-8
@@ -10025,7 +10025,7 @@
 5	подал	подати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	Norm=подал|SpaceAfter=Yes
 6	грамотку	грамотка	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Norm=грамотку|SpaceAfter=Yes
 7	Борис	Борисъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Norm=Борис|SpaceAfter=Yes
-8	Мертвои	Мертвый	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	Norm=Мертвои|SpaceAfter=No
+8	Мертвои	Мертвый	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	Norm=Мертвои
 
 # newdoc id = mosk_del_byt_pism-1/2g
 # newpar
@@ -10324,7 +10324,7 @@
 12	отннѣ	отнынѣ	ADV	_	Abbr=Yes|Degree=Pos	3	advmod	_	Norm=отннѣ|SpaceAfter=Yes
 13	и	и	CCONJ	_	_	15	cc	_	Norm=и|SpaceAfter=Yes
 14	до	до	ADP	_	_	15	case	_	Norm=до|SpaceAfter=Yes
-15	века	векъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	conj	_	Norm=века|SpaceAfter=No
+15	века	векъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	conj	_	Norm=века
 
 # newpar
 # sent_id = mosk_del_byt_pism-1\2g-12
@@ -10333,7 +10333,7 @@
 2	моему	мой	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	1	det	_	Norm=моему|SpaceAfter=Yes
 3	кнзь	князь	NOUN	_	Abbr=Yes|Case=Nom|Gender=Masc|Number=Sing	4	compound	_	Norm=кнзь|SpaceAfter=Yes
 4	Василью	Василий	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	Norm=Василью|SpaceAfter=Yes
-5	Васильевичю	Васильевичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	4	flat:name	_	Norm=Васильевичю|SpaceAfter=No
+5	Васильевичю	Васильевичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	4	flat:name	_	Norm=Васильевичю
 
 # newpar
 # sent_id = mosk_del_byt_pism-1\2g-13
@@ -10350,7 +10350,7 @@
 10	приказу	приказъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Norm=приказу|SpaceAfter=Yes
 11	денщик	денщикъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Norm=денщик|SpaceAfter=Yes
 12	Купряшка	Купряшка	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	Norm=Купряшка|SpaceAfter=Yes
-13	Корнеевъ	Корнеевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	Norm=Корнеевъ|SpaceAfter=No
+13	Корнеевъ	Корнеевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	Norm=Корнеевъ
 
 # newdoc id = mosk_del_byt_pism-1/9b
 # newpar
@@ -10508,7 +10508,7 @@
 7	и	и	CCONJ	_	_	10	cc	_	Norm=и|SpaceAfter=Yes
 8	мног	много	ADV	_	Degree=Pos	10	obl	_	Norm=мног|SpaceAfter=Yes
 9	челом	чело	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	10	iobj	_	Norm=челом|SpaceAfter=Yes
-10	бью	бити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Norm=бью|SpaceAfter=No
+10	бью	бити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Norm=бью
 
 # newpar
 # sent_id = mosk_del_byt_pism-1\9b-6
@@ -10518,7 +10518,7 @@
 3	батюшку	батюшка	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	Norm=батюшку|SpaceAfter=Yes
 4	кнзю	князь	NOUN	_	Abbr=Yes|Case=Dat|Gender=Masc|Number=Sing	3	appos	_	Norm=кнзю|SpaceAfter=Yes
 5	Василью	Василий	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	Norm=Василью|SpaceAfter=Yes
-6	Васильевичю	Васильевичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	5	flat:name	_	Norm=Васильевичю|SpaceAfter=No
+6	Васильевичю	Васильевичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	5	flat:name	_	Norm=Васильевичю
 
 # newpar
 # sent_id = mosk_del_byt_pism-1\9b-7
@@ -10535,7 +10535,7 @@
 10	стрелец	стрѣлецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Norm=стрелец|SpaceAfter=Yes
 11	Захарко	Захарко	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	Norm=Захарко|SpaceAfter=Yes
 12	Ѡндреевъ	Ондрѣевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	Norm=Ѡндреевъ|SpaceAfter=Yes
-13	снъ	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	Norm=снъ|SpaceAfter=No
+13	снъ	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	Norm=снъ
 
 # newdoc id = amg/AMG_1_091
 # newpar
@@ -10770,7 +10770,7 @@
 5	смилуйся	смиловатися	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	Norm=смилуйся|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Norm=,|SpaceAfter=Yes
 7	пожалуй	пожаловати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	5	parataxis	_	Norm=пожалуй|SpaceAfter=No
-8	!	!	PUNCT	_	_	5	punct	_	Norm=!|SpaceAfter=No
+8	!	!	PUNCT	_	_	5	punct	_	Norm=!
 
 # newpar
 # sent_id = AMG_1_091-7
@@ -10793,14 +10793,14 @@
 16	на	на	ADP	_	_	17	case	_	Norm=на|SpaceAfter=Yes
 17	мѣсяцъ	мѣсяцъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	Norm=мѣсяцъ|SpaceAfter=No
 18	»	»	PUNCT	_	_	13	punct	_	Norm=»|SpaceAfter=No
-19	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=No
+19	.	.	PUNCT	_	_	2	punct	_	Norm=.
 
 # newdoc id = drama/Drama_2_4
 # newpar
 # sent_id = Drama_2_4-1
 # text = {л._601_об.} ПРОЛОГ
 1	{л._601_об.}	{л._601_об.}	X	_	_	2	dep	_	Norm={л._601_об.}|SpaceAfter=Yes
-2	ПРОЛОГ	прологъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	0	root	_	Norm=ПРОЛОГ|SpaceAfter=No
+2	ПРОЛОГ	прологъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	0	root	_	Norm=ПРОЛОГ
 
 # newpar
 # sent_id = Drama_2_4-2
@@ -10811,7 +10811,7 @@
 4	,	,	PUNCT	_	_	1	punct	_	Norm=,|SpaceAfter=Yes|# newpar
 5	государие	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Norm=государие|SpaceAfter=Yes
 6	премилостивии	премилостивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	Norm=премилостивии|SpaceAfter=No
-7	!	!	PUNCT	_	_	5	punct	_	Norm=!|SpaceAfter=No
+7	!	!	PUNCT	_	_	5	punct	_	Norm=!
 
 # newpar
 # sent_id = Drama_2_4-3
@@ -10829,7 +10829,7 @@
 11	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	13	nsubj	_	Norm=что|SpaceAfter=Yes
 12	делом	дело	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	13	obl	_	Norm=делом|SpaceAfter=Yes
 13	явится	явитися	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	6	advcl	_	Norm=явится|SpaceAfter=No
-14	.	.	PUNCT	_	_	6	punct	_	Norm=.|SpaceAfter=No
+14	.	.	PUNCT	_	_	6	punct	_	Norm=.
 
 # newpar
 # sent_id = Drama_2_4-4
@@ -10843,7 +10843,7 @@
 7	и	и	CCONJ	_	_	9	cc	_	Norm=и|SpaceAfter=Yes
 8	чином	чинъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	9	obl	_	Norm=чином|SpaceAfter=Yes
 9	вершити	вершити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	conj	_	Norm=вершити|SpaceAfter=No
-10	.	.	PUNCT	_	_	6	punct	_	Norm=.|SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	Norm=.
 
 # newpar
 # sent_id = Drama_2_4-5
@@ -10863,7 +10863,7 @@
 13	узрит	узрити	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	_	Norm=узрит|SpaceAfter=Yes
 14	милость	милость	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	Norm=милость|SpaceAfter=Yes
 15	ваша	вашъ	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det	_	Norm=ваша|SpaceAfter=No
-16	.	.	PUNCT	_	_	3	punct	_	Norm=.|SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	Norm=.
 
 # newpar
 # sent_id = Drama_2_4-6
@@ -10893,7 +10893,7 @@
 23	без	безъ	ADP	_	_	24	case	_	Norm=без|SpaceAfter=Yes
 24	премен	премена	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	25	obl	_	Norm=премен|SpaceAfter=Yes
 25	бывает	бывати	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	Norm=бывает|SpaceAfter=No
-26	.	.	PUNCT	_	_	6	punct	_	Norm=.|SpaceAfter=No
+26	.	.	PUNCT	_	_	6	punct	_	Norm=.
 
 # newpar
 # sent_id = Drama_2_4-7
@@ -10924,7 +10924,7 @@
 24	но	но	CCONJ	_	_	25	cc	_	Norm=но|SpaceAfter=Yes
 25	душам	душа	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	22	conj	_	Norm=душам|SpaceAfter=Yes
 26	спасенна	спасти	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	18	conj	_	Norm=спасенна|SpaceAfter=No
-27	.	.	PUNCT	_	_	1	punct	_	Norm=.|SpaceAfter=No
+27	.	.	PUNCT	_	_	1	punct	_	Norm=.
 
 # newpar
 # sent_id = Drama_2_4-8
@@ -10939,7 +10939,7 @@
 8	изволте	изволити	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	3	conj	_	Norm=изволте|SpaceAfter=Yes
 9	прилежно	прилежно	ADV	_	Degree=Pos	10	advmod	_	Norm=прилежно|SpaceAfter=Yes
 10	внимати	внимати	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	_	Norm=внимати|SpaceAfter=No
-11	.	.	PUNCT	_	_	3	punct	_	Norm=.|SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	Norm=.
 
 # newpar
 # sent_id = Drama_2_4-9
@@ -10949,13 +10949,13 @@
 3	ПРИТЧИ	притча	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	Norm=ПРИТЧИ|SpaceAfter=Yes
 4	О	о	ADP	_	_	6	case	_	Norm=О|SpaceAfter=Yes
 5	БЛУДНЕМ	блудный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	Norm=БЛУДНЕМ|SpaceAfter=Yes
-6	СЫНЕ	сынъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	Norm=СЫНЕ|SpaceAfter=No
+6	СЫНЕ	сынъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	Norm=СЫНЕ
 
 # newpar
 # sent_id = Drama_2_4-10
 # text = ЧАСТЬ 1
 1	ЧАСТЬ	часть	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Norm=ЧАСТЬ|SpaceAfter=Yes
-2	1	1	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumForm=Digit	1	appos	_	Norm=1|SpaceAfter=No
+2	1	1	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumForm=Digit	1	appos	_	Norm=1
 
 # newpar
 # sent_id = Drama_2_4-11
@@ -10975,14 +10975,14 @@
 13	начнет	начати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	Norm=начнет|SpaceAfter=Yes
 14	глаголати	глаголати	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	xcomp	_	Norm=глаголати|SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=No
-16	</i>	</i>	X	_	_	2	dep	_	NoIndex=Yes|SpaceAfter=No
+16	</i>	</i>	X	_	_	2	dep	_	NoIndex=Yes
 
 # newpar
 # sent_id = Drama_2_4-12
 # text = <em>Отец</em>
 1	<em>	<em>	X	_	_	2	dep	_	NoIndex=Yes|SpaceAfter=No
 2	Отец	отецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Norm=Отец|SpaceAfter=No
-3	</em>	</em>	X	_	_	2	dep	_	NoIndex=Yes|SpaceAfter=No
+3	</em>	</em>	X	_	_	2	dep	_	NoIndex=Yes
 
 # newpar
 # sent_id = Drama_2_4-13
@@ -10991,7 +10991,7 @@
 2	глаголет	глаголати	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Norm=глаголет|SpaceAfter=Yes
 3	к	къ	ADP	_	_	4	case	_	Norm=к|SpaceAfter=Yes
 4	сынома	сынъ	NOUN	_	Case=Dat|Gender=Masc|Number=Dual	2	obl	_	Norm=сынома|SpaceAfter=No
-5	</i>	</i>	X	_	_	2	dep	_	NoIndex=Yes|SpaceAfter=No
+5	</i>	</i>	X	_	_	2	dep	_	NoIndex=Yes
 
 # newpar
 # sent_id = Drama_2_4-14
@@ -11007,7 +11007,7 @@
 9	земля	земля	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	obl	_	Norm=земля|SpaceAfter=Yes
 10	созда	создати	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	Norm=созда|SpaceAfter=Yes
 11	человека	человекъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	Norm=человека|SpaceAfter=No
-12	!	!	PUNCT	_	_	1	punct	_	Norm=!|SpaceAfter=No
+12	!	!	PUNCT	_	_	1	punct	_	Norm=!
 
 # newpar
 # sent_id = Drama_2_4-15
@@ -11026,7 +11026,7 @@
 12	своя	свой	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	14	det	_	Norm=своя|SpaceAfter=Yes
 13	правит	правити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	Norm=правит|SpaceAfter=Yes
 14	люди	люди	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	13	obj	_	Norm=люди|SpaceAfter=No
-15	!	!	PUNCT	_	_	2	punct	_	Norm=!|SpaceAfter=No
+15	!	!	PUNCT	_	_	2	punct	_	Norm=!
 
 # newpar
 # sent_id = Drama_2_4-16
@@ -11046,7 +11046,7 @@
 13	всех	весь	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	14	det	_	Norm=всех|SpaceAfter=Yes
 14	живых	живой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	15	nmod	_	Norm=живых|SpaceAfter=Yes
 15	питатель	питатель	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	conj	_	Norm=питатель|SpaceAfter=No
-16	.	.	PUNCT	_	_	3	punct	_	Norm=.|SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	Norm=.
 
 # newpar
 # sent_id = Drama_2_4-17
@@ -11061,7 +11061,7 @@
 8	никако	никако	ADV	_	Degree=Pos|Polarity=Neg	10	advmod	_	Norm=никако|SpaceAfter=Yes
 9	господь	господь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Norm=господь|SpaceAfter=Yes
 10	оставляет	оставляти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Norm=оставляет|SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	Norm=.|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	Norm=.
 
 # newpar
 # sent_id = Drama_2_4-18
@@ -11079,7 +11079,7 @@
 11	живуща	жити	VERB	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	9	obl	_	Norm=живуща|SpaceAfter=Yes
 12	в	въ	ADP	_	_	13	case	_	Norm=в|SpaceAfter=Yes
 13	небе	нѣбо	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	11	obl	_	Norm=небе|SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	Norm=.
 
 # newpar
 # sent_id = Drama_2_4-19
@@ -11112,7 +11112,7 @@
 26	господь	господь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	Norm=господь|SpaceAfter=Yes
 27	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	26	det	_	Norm=мой|SpaceAfter=Yes
 28	предрагий	предрагий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	Norm=предрагий|SpaceAfter=No
-29	.	.	PUNCT	_	_	6	punct	_	Norm=.|SpaceAfter=No
+29	.	.	PUNCT	_	_	6	punct	_	Norm=.
 
 # newpar
 # sent_id = Drama_2_4-20
@@ -11129,7 +11129,7 @@
 10	сынов	сынъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	Norm=сынов|SpaceAfter=Yes
 11	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	12	iobj	_	Norm=мне|SpaceAfter=Yes
 12	подати	подати	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	Norm=подати|SpaceAfter=No
-13	.	.	PUNCT	_	_	3	punct	_	Norm=.|SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	Norm=.
 
 # newpar
 # sent_id = Drama_2_4-21
@@ -11164,7 +11164,7 @@
 28	и	и	CCONJ	_	_	29	cc	_	Norm=и|SpaceAfter=Yes
 29	красна	красный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	26	conj	_	Norm=красна|SpaceAfter=Yes
 30	полата	полата	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	29	nsubj	_	Norm=полата|SpaceAfter=No
-31	.	.	PUNCT	_	_	10	punct	_	Norm=.|SpaceAfter=No
+31	.	.	PUNCT	_	_	10	punct	_	Norm=.
 
 # newpar
 # sent_id = Drama_2_4-22
@@ -11182,7 +11182,7 @@
 11	правде	правда	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	9	conj	_	Norm=правде|SpaceAfter=Yes
 12	ему	она	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj	_	Norm=ему|SpaceAfter=Yes
 13	послужити	послужити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	conj	_	Norm=послужити|SpaceAfter=No
-14	.	.	PUNCT	_	_	3	punct	_	Norm=.|SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	Norm=.
 
 # newpar
 # sent_id = Drama_2_4-23
