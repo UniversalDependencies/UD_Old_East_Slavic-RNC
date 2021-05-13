@@ -99,7 +99,7 @@
 66	казну	казна	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Sing	61	obl	_	_
 67	на	на	ADP	_	_	69	case	_	_
 68	два	два	NUM	_	Case=Acc|Gender=Masc	69	nummod	_	_
-69	срока	срокъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Adnum	61	obl	_	SpaceAfter=No
+69	срока	срокъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Count	61	obl	_	SpaceAfter=No
 70	,	,	PUNCT	_	_	72	punct	_	_
 71	на	на	ADP	_	_	72	case	_	_
 72	Рождество	рождество	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Neut|Number=Sing	69	appos	_	_
@@ -318,7 +318,7 @@
 285	,	,	PUNCT	_	_	288	punct	_	_
 286	за	за	ADP	_	_	288	case	_	_
 287	оба	оба	NUM	_	Case=Acc|Gender=Masc	288	nummod	_	_
-288	сроки	срокъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Adnum	290	obl	_	SpaceAfter=No
+288	сроки	срокъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Count	290	obl	_	SpaceAfter=No
 289	,	,	PUNCT	_	_	288	punct	_	_
 290	править	правити	VERB	Transit=Tran	Aspect=Imp|VerbForm=Inf|Voice=Act	291	xcomp	_	_
 291	велѣно	велѣти	VERB	Transit=Tran	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	32	conj	_	_
@@ -1309,7 +1309,7 @@
 88	или	или	CCONJ	_	_	90	cc	_	_
 89	въ	въ	ADP	_	_	91	case	_	_
 90	три	три	NUM	_	Case=Acc|Gender=Masc	87	conj	_	_
-91	года	годъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Adnum	83	conj	_	SpaceAfter=No
+91	года	годъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Count	83	conj	_	SpaceAfter=No
 92	,	,	PUNCT	_	_	97	punct	_	_
 93	и	и	CCONJ	_	_	97	cc	_	_
 94	по	по	ADP	_	_	96	case	_	_
@@ -1866,7 +1866,7 @@
 89	году	годъ	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Sing	92	nmod	_	_
 90	на	на	ADP	_	_	92	case	_	_
 91	три	три	NUM	_	Case=Acc|Gender=Masc	92	nummod:gov	_	_
-92	срока	срокъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Adnum	84	obl	_	SpaceAfter=No
+92	срока	срокъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Count	84	obl	_	SpaceAfter=No
 93	,	,	PUNCT	_	_	95	punct	_	_
 94	по	по	ADP	_	_	95	case	_	_
 95	третямъ	треть	NOUN	Animacy[lex]=Inan	Case=Dat|Gender=Fem|Number=Plur	84	obl	_	SpaceAfter=No
@@ -2067,7 +2067,7 @@
 49	годъ	годъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Sing	52	nmod	_	_
 50	на	на	ADP	_	_	52	case	_	_
 51	два	два	NUM	_	Case=Acc|Gender=Masc	52	nummod:gov	_	_
-52	срока	срокъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Adnum	41	obl	_	SpaceAfter=No
+52	срока	срокъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Count	41	obl	_	SpaceAfter=No
 53	,	,	PUNCT	_	_	55	punct	_	_
 54	первую	первый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	55	amod	_	_
 55	половину	половина	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Sing	41	advcl	_	_
@@ -2225,7 +2225,7 @@
 81	году	годъ	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Sing	84	nmod	_	_
 82	на	на	ADP	_	_	84	case	_	_
 83	два	два	NUM	_	Case=Acc|Gender=Masc	84	nummod:gov	_	_
-84	срока	срокъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Adnum	59	obl	_	SpaceAfter=No
+84	срока	срокъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Count	59	obl	_	SpaceAfter=No
 85	,	,	PUNCT	_	_	87	punct	_	_
 86	въ	въ	ADP	_	_	87	case	_	_
 87	декабрѣ	декабрь	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Sing	84	appos	_	_
@@ -2420,8 +2420,8 @@
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	которые	который	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	13	nsubj	_	_
 13	вѣдомы	вѣдати	VERB	Transit=Tran	Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	10	acl:relcl	_	_
-14	въ	въ	ADP	_	_	15	case	_	_
-15	новгородскомъ	новгородский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+14	въ	въ	ADP	_	_	28	case	_	_
+15	новгородскомъ	новгородский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	_
 17	и	и	CCONJ	_	_	19	cc	_	_
 18	въ	въ	ADP	_	_	19	case	_	_
@@ -2430,11 +2430,11 @@
 21	и	и	CCONJ	_	_	23	cc	_	_
 22	въ	въ	ADP	_	_	23	case	_	_
 23	володимерскомъ	володимерский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No
-24	,	,	PUNCT	_	_	28	punct	_	_
-25	и	и	CCONJ	_	_	28	cc	_	_
-26	въ	въ	ADP	_	_	28	case	_	_
-27	галицкомъ	галицкий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	_
-28	приказѣхъ	приказъ	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Plur	15	conj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	27	punct	_	_
+25	и	и	CCONJ	_	_	27	cc	_	_
+26	въ	въ	ADP	_	_	27	case	_	_
+27	галицкомъ	галицкий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	15	conj	_	_
+28	приказѣхъ	приказъ	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Plur	13	obl	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	13	punct	_	_
 30	посадскимъ	посадский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	31	amod	_	_
 31	людемъ	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	124	iobj	_	_
@@ -2627,7 +2627,7 @@
 218	году	годъ	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Sing	221	nmod	_	_
 219	на	на	ADP	_	_	221	case	_	_
 220	два	два	NUM	_	Case=Acc|Gender=Masc	221	nummod:gov	_	_
-221	срока	срокъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Adnum	191	obl	_	SpaceAfter=No
+221	срока	срокъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Count	191	obl	_	SpaceAfter=No
 222	,	,	PUNCT	_	_	224	punct	_	_
 223	въ	въ	ADP	_	_	224	case	_	_
 224	декабрѣ	декабрь	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Sing	221	appos	_	_
@@ -3851,7 +3851,7 @@
 17	с	съ	ADP	_	_	18	case	_	_
 18	товарищи	товарищь	NOUN	Animacy[lex]=Anim	Case=Ins|Gender=Masc|Number=Plur	15	nmod	_	_
 19	3	3	NUM	_	Case=Acc|Gender=Masc|NumForm=Digit	20	nummod:gov	_	_
-20	человека	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Acc|Gender=Masc|Number=Adnum	18	nmod	_	_
+20	человека	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Acc|Gender=Masc|Number=Count	18	nmod	_	_
 21	привели	привести	VERB	Transit=Tran	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	7	parataxis	_	_
 22	иноземку	иноземка	NOUN	Animacy[lex]=Anim	Case=Acc|Gender=Masc|Number=Sing	21	obj	_	_
 23	Петра	Петръ	PROPN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	_
@@ -4520,11 +4520,11 @@
 22	немец	немецъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	25	punct	_	_
 24	две	два	NUM	_	Case=Acc|Gender=Fem	25	nummod:gov	_	_
-25	немки	немка	NOUN	Animacy[lex]=Anim	Case=Acc|Gender=Fem|Number=Adnum	7	conj	_	SpaceAfter=No
+25	немки	немка	NOUN	Animacy[lex]=Anim	Case=Acc|Gender=Fem|Number=Count	7	conj	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	29	punct	_	_
 27	всего	всего	ADV	_	Degree=Pos	29	advmod	_	_
 28	24	24	NUM	_	Case=Nom|Gender=Masc|NumForm=Digit	29	nummod:gov	_	_
-29	человека	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Adnum	7	appos	_	_
+29	человека	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Count	7	appos	_	_
 30	[	[	PUNCT	_	_	29	punct	_	SpaceAfter=No
 31	...	...	PUNCT	_	_	29	punct	_	SpaceAfter=No
 32	]	]	PUNCT	_	_	29	punct	_	_
@@ -4583,7 +4583,7 @@
 5	В	въ	ADP	_	_	6	case	_	_
 6	обыску	обыскъ	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
 7	один	одинъ	NUM	_	Case=Nom|Gender=Masc|Number=Sing	8	nummod	_	_
-8	человек	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Adnum	10	nsubj	_	_
+8	человек	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Count	10	nsubj	_	_
 9	переводчик	переводчикъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	_
 10	сказал	сказати	VERB	Transit=Tran	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
@@ -4665,7 +4665,7 @@
 # sent_id = Delo_duel_1637-30
 # text = 1 человек ротмистр сказал, слышел де он от людей, что саржант Петр Фальк з Григорьем вызывался на поединок, а как хто ково поколол и о какову пору, тово не ведает.
 1	1	1	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumForm=Digit	2	nummod	_	_
-2	человек	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Adnum	4	nsubj	_	_
+2	человек	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Count	4	nsubj	_	_
 3	ротмистр	ротмистръ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
 4	сказал	сказати	VERB	Transit=Tran	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
@@ -4789,7 +4789,7 @@
 28	двора	дворъ	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Sing	25	obl	_	_
 29	серебряника	серебреникъ	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	_
 30	два	два	NUM	_	Case=Nom|Gender=Masc	31	nummod:gov	_	_
-31	немчина	немчинъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Adnum	25	nsubj	_	SpaceAfter=No
+31	немчина	немчинъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Count	25	nsubj	_	SpaceAfter=No
 32	,	,	PUNCT	_	_	35	punct	_	_
 33	и	и	CCONJ	_	_	35	cc	_	_
 34	у	у	ADP	_	_	35	case	_	_
@@ -4859,7 +4859,7 @@
 47	де	де	PART	_	_	46	advmod	_	_
 48	было	быти	AUX	Transit=Intr	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes	50	cop	_	_
 49	2	2	NUM	_	Case=Nom|NumForm=Digit	50	nummod:gov	_	_
-50	рубли	рубль	NOUN	Animacy[lex]=Inan	Case=Nom|Gender=Masc|Number=Adnum	36	conj	_	SpaceAfter=No
+50	рубли	рубль	NOUN	Animacy[lex]=Inan	Case=Nom|Gender=Masc|Number=Count	36	conj	_	SpaceAfter=No
 51	,	,	PUNCT	_	_	58	punct	_	_
 52	и	и	CCONJ	_	_	58	cc	_	_
 53	за	за	ADP	_	_	54	case	_	_
@@ -6849,7 +6849,7 @@
 2	ж	жъ	PART	_	_	1	advmod	_	_
 3	на	на	ADP	_	_	5	case	_	_
 4	обѣ	оба	NUM	_	Case=Acc|Gender=Fem	5	nummod	_	_
-5	сторонѣ	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	1	obl	_	SpaceAfter=No
+5	сторонѣ	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Count	1	obl	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 47-42
@@ -6884,7 +6884,7 @@
 28	Васил[ь]евичем	Васильевичь	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	27	flat:name	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	25	punct	_	_
 30	ѡдинъ	одинъ	NUM	_	Case=Nom|Gender=Masc|Number=Sing	31	nummod	_	_
-31	ч[е]л[овѣ]къ	человѣкъ	NOUN	_	Case=Nom|Gender=Masc|Number=Adnum	5	advcl	_	SpaceAfter=No
+31	ч[е]л[овѣ]къ	человѣкъ	NOUN	_	Case=Nom|Gender=Masc|Number=Count	5	advcl	_	SpaceAfter=No
 32	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 47-43
@@ -7931,7 +7931,7 @@
 13	ꙋ	у	ADP	_	_	14	case	_	_
 14	него	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	_
 15	две	два	NUM	_	Case=Acc|Gender=Fem	16	nummod:gov	_	_
-16	китаики	китайка	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	12	obj	_	_
+16	китаики	китайка	NOUN	_	Case=Acc|Gender=Fem|Number=Count	12	obj	_	_
 17	аднꙋ	одинъ	NUM	_	Case=Acc|Gender=Fem|Number=Sing	18	amod	_	_
 18	темънолазоревꙋю	темнолазоревый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	appos	_	_
 19	а	а	CCONJ	_	_	21	cc	_	_
@@ -8207,7 +8207,7 @@
 5	было	быти	AUX	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes	6	aux	_	_
 6	послано	послати	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
 7	два	два	NUM	_	Case=Nom|Gender=Masc	8	nummod:gov	_	_
-8	списка	списокъ	NOUN	_	Case=Nom|Gender=Masc|Number=Adnum	6	nsubj:pass	_	_
+8	списка	списокъ	NOUN	_	Case=Nom|Gender=Masc|Number=Count	6	nsubj:pass	_	_
 9	с	съ	ADP	_	_	10	case	_	_
 10	челобитнои	челобитная	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
 11	и	и	CCONJ	_	_	13	cc	_	_
@@ -8856,7 +8856,7 @@
 30	стрельцом	стрѣлецъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	37	iobj	_	_
 31	в	въ	ADP	_	_	33	case	_	_
 32	четыре	четыре	NUM	_	Case=Acc|Gender=Masc	33	nummod:gov	_	_
-33	похода	походъ	NOUN	_	Case=Acc|Gender=Masc|Number=Adnum	37	obl	_	_
+33	похода	походъ	NOUN	_	Case=Acc|Gender=Masc|Number=Count	37	obl	_	_
 34	в	въ	ADP	_	_	35	case	_	_
 35	Одуев	Одуевъ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	37	obl	_	_
 36	подводы	подвода	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	37	obj	_	_
@@ -9266,7 +9266,7 @@
 21	восмь	восмь	NUM	_	Case=Nom	22	nummod:gov	_	_
 22	алтын	алтынъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	_
 23	две	два	NUM	_	Case=Nom|Gender=Fem	24	nummod	_	_
-24	деньги	деньги	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	22	nmod	_	SpaceAfter=No
+24	деньги	деньги	NOUN	_	Case=Nom|Gender=Fem|Number=Count	22	nmod	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	56	punct	_	_
 26	и	и	CCONJ	_	_	56	cc	_	_
 27	всех	весь	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	56	nmod	_	_
@@ -11612,7 +11612,7 @@
 8	и	и	CCONJ	_	_	9	cc	_	_
 9	посѣче	посѣчи	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
 10	4	4	NUM	_	Case=Acc|Gender=Masc|NumForm=Digit	11	nummod:gov	_	_
-11	боярина	бояринъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Adnum	9	obj	_	SpaceAfter=No
+11	боярина	бояринъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Count	9	obj	_	SpaceAfter=No
 12	:	:	PUNCT	_	_	13	punct	_	_
 13	посадника	посадникъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	11	appos	_	_
 14	новгородцкаго	новгородский	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
@@ -11816,7 +11816,7 @@
 11	множество	множество	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
 12	с	съ	ADP	_	_	14	case	_	_
 13	обѣ	оба	NUM	_	Case=Acc|Gender=Fem|Number=Dual	14	nummod	_	_
-14	половинѣ	половина	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	9	obl	_	SpaceAfter=No
+14	половинѣ	половина	NOUN	_	Case=Acc|Gender=Fem|Number=Count	9	obl	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	19	punct	_	_
 16	а	а	CCONJ	_	_	19	cc	_	_
 17	двинянѣ	двинянинъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	_
@@ -12615,7 +12615,7 @@
 9	Новагорода	Новгородъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	_
 10	въ	въ	ADP	_	_	12	case	_	_
 11	дву	два	NUM	_	Case=Loc|Gender=Masc	12	nummod	_	_
-12	носаду	носадъ	NOUN	_	Case=Loc|Gender=Masc|Number=Adnum	5	obl	_	SpaceAfter=No
+12	носаду	носадъ	NOUN	_	Case=Loc|Gender=Masc|Number=Count	5	obl	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	_
 14	по	по	ADP	_	_	15	case	_	_
 15	пошлинѣ	пошлина	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
@@ -12940,7 +12940,7 @@
 19	тиуна	тиунъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	22	orphan	_	_
 20	по	по	ADP	_	_	22	case	_	_
 21	двѣ	два	NUM	_	Case=Acc|Gender=Fem	22	nummod	_	_
-22	дългѣи	долгий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Adnum	15	conj	_	SpaceAfter=No
+22	дългѣи	долгий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Count	15	conj	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = GVNP_010-26
@@ -12964,7 +12964,7 @@
 17	имати	имати	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
 18	по	по	ADP	_	_	20	case	_	_
 19	двѣ	два	NUM	_	Case=Acc|Gender=Fem	20	nummod	_	_
-20	вѣкшѣ	вѣкша	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	17	obl	_	SpaceAfter=No
+20	вѣкшѣ	вѣкша	NOUN	_	Case=Acc|Gender=Fem|Number=Count	17	obl	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	24	punct	_	_
 22	и	и	CCONJ	_	_	24	cc	_	_
 23	от	отъ	ADP	_	_	24	case	_	_
@@ -13308,7 +13308,7 @@
 11	города	городъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
 12	ходу	ходъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	14	nsubj	_	_
 13	двѣ	два	NUM	_	Case=Nom|Gender=Fem	14	nummod:gov	_	_
-14	недели	недѣля	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	0	root	_	SpaceAfter=No
+14	недели	недѣля	NOUN	_	Case=Nom|Gender=Fem|Number=Count	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = Nakaz_Pashkovu-3
@@ -15829,7 +15829,7 @@
 9	погоню	погоня	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
 10	на	на	ADP	_	_	12	case	_	_
 11	две	два	NUM	_	Case=Acc|Gender=Fem	12	nummod	_	_
-12	дороги	дорога	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	7	obl	_	SpaceAfter=No
+12	дороги	дорога	NOUN	_	Case=Acc|Gender=Fem|Number=Count	7	obl	_	SpaceAfter=No
 13	:	:	PUNCT	_	_	7	punct	_	_
 14	Алексея	Алексѣй	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	parataxis	_	_
 15	Бушуева	Бушуевъ	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	14	flat:name	_	_
@@ -15921,7 +15921,7 @@
 44	не	не	PART	_	Polarity=Neg	45	advmod	_	_
 45	поехали	поехати	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	26	conj	_	_
 46	ш	жъ	PART	_	_	45	advmod	_	SpaceAfter=No
-47	.	.	PUNCT	_	_	21	punct	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	21	punct	_	_
 
 # newpar
 # sent_id = 237_Morozov-7
@@ -15929,7 +15929,7 @@
 1	Государю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
 2	Борису	Борисъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
 3	Ивановичю	Ивановичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/247_Morozov
 # newpar
@@ -16026,7 +16026,7 @@
 3	смилуйся	смиловатися	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	пожалуй	пожаловати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
 
 # newpar
 # sent_id = 247_Morozov-6
@@ -16132,7 +16132,7 @@
 3	смилуйся	смиловатися	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	пожалуй	пожаловати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
 
 # newdoc id = morozov/219_Morozov
 # newpar
@@ -16265,7 +16265,7 @@
 10	людцких	людской	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur	11	amod	_	_
 11	колымагах	колымага	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	12	obl	_	_
 12	ходят	ходити	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	_
 
 # newdoc id = morozov/222_Morozov
 # newpar
@@ -16526,7 +16526,7 @@
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	челом	чело	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	7	iobj	_	_
 7	бью	бити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
 
 # newpar
 # sent_id = 222_Morozov-10
@@ -16534,7 +16534,7 @@
 1	Государю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
 2	Степану	Степанъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
 3	Микитичю	Микитичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/252_Morozov
 # newpar
@@ -16588,7 +16588,7 @@
 # sent_id = 252_Morozov-4
 # text = И будет им здесь быть, и вам бы указать, на коих пустошах пасти.
 1	И	и	CCONJ	_	_	5	cc	_	_
-2	будет	будетъ	SCONJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	mark	_	_
+2	будет	будетъ	SCONJ	_	_	5	mark	_	_
 3	им	она	PRON	_	Case=Dat|Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	iobj	_	_
 4	здесь	здѣсь	ADV	_	Degree=Pos	5	advmod	_	_
 5	быть	быти	VERB	_	VerbForm=Inf|Voice=Act	10	advcl	_	SpaceAfter=No
@@ -16626,7 +16626,7 @@
 18	да	да	CCONJ	_	_	21	cc	_	_
 19	руских	русский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	21	nmod	_	_
 20	3	3	NUM	_	Case=Nom|Gender=Fem	21	nummod	_	_
-21	семьи	семья	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	13	conj	_	_
+21	семьи	семья	NOUN	_	Case=Nom|Gender=Fem|Number=Count	13	conj	_	_
 22	на	на	ADP	_	_	24	case	_	_
 23	3-х	3	NUM	_	Case=Loc|Gender=Fem	24	nummod	_	_
 24	пустошах	пустошь	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	8	conj	_	SpaceAfter=No
@@ -16899,7 +16899,7 @@
 8	много	много	ADV	_	Degree=Pos	10	advmod	_	_
 9	челом	чело	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	10	iobj	_	_
 10	бью	бити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
 
 # newpar
 # sent_id = 252_Morozov-19
@@ -16908,7 +16908,7 @@
 2	моему	мой	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	1	det	_	_
 3	Стефану	Стефанъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
 4	Никитичю	Никитичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/257_Morozov
 # newpar
@@ -17038,7 +17038,7 @@
 25	на	на	ADP	_	_	26	case	_	_
 26	дворе	дворъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	27	obl	_	_
 27	нет	нѣтъ	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	21	ccomp	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	6	punct	_	_
 
 # newdoc id = morozov/227_Morozov
 # newpar
@@ -17085,7 +17085,7 @@
 26	,	,	PUNCT	_	_	27	punct	_	_
 27	г.	государь	NOUN	_	Abbr=Yes	25	parataxis	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	27	punct	_	_
-29	яблони	яблоня	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	30	nsubj:pass	_	_
+29	яблони	яблоня	NOUN	_	Case=Nom|Gender=Fem|Number=Count	30	nsubj:pass	_	_
 30	присланы	прислати	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	conj	_	_
 31	преже	преже	ADP	_	_	32	case	_	_
 32	тово	то	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	30	obl	_	SpaceAfter=No
@@ -17493,7 +17493,7 @@
 11	о	о	ADP	_	_	13	case	_	_
 12	тех	тотъ	DET	_	Case=Loc|Gender=Masc|Number=Plur|PronType=Dem	13	det	_	_
 13	пеньках	пенекъ	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
 
 # newpar
 # sent_id = 227_Morozov-17
@@ -17501,7 +17501,7 @@
 1	Государю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
 2	Борису	Борисъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
 3	Ивановичю	Ивановичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newpar
 # sent_id = 227_Morozov-18
@@ -17511,7 +17511,7 @@
 3	в	въ	ADP	_	_	5	case	_	_
 4	1	1	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit	5	amod	_	_
 5	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
 
 # newdoc id = morozov/242_Morozov
 # newpar
@@ -17748,7 +17748,7 @@
 26	т.	твой	DET	_	Abbr=Yes|PronType=Dem	25	det	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	25	punct	_	_
 28	послал	послати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	2	conj	_	SpaceAfter=No
-29	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	2	punct	_	_
 
 # newpar
 # sent_id = 242_Morozov-11
@@ -17756,7 +17756,7 @@
 1	Государю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
 2	Борису	Борисъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
 3	Ивановичю	Ивановичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newpar
 # sent_id = 242_Morozov-12
@@ -17769,7 +17769,7 @@
 6	подал	подати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
 7	Никонко	Никонко	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 8	Садовник	Садовникъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	_
 
 # newpar
 # sent_id = 242_Morozov-13
@@ -17857,7 +17857,7 @@
 6	Иванович	Ивановичь	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	3	punct	_	_
 8	пожалуй	пожаловати	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	1	parataxis	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
 
 # newpar
 # sent_id = 242_Morozov-17
@@ -17944,7 +17944,7 @@
 34	пропущать	пропущати	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	32	conj	_	_
 35	без	безъ	ADP	_	_	36	case	_	_
 36	задержания	задержание	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	34	obl	_	SpaceAfter=No
-37	.	.	PUNCT	_	_	16	punct	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	16	punct	_	_
 
 # newdoc id = morozov/232_Morozov
 # newpar
@@ -18035,7 +18035,7 @@
 17	выбрать	выбрати	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	xcomp	_	_
 18	весь	весь	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	17	acl	_	_
 19	сполна	сполна	ADV	_	Degree=Pos	17	advmod	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	16	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	16	punct	_	_
 
 # newdoc id = morozov/241_Morozov
 # newpar
@@ -18187,7 +18187,7 @@
 24	твое	твой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	23	det	_	_
 25	государева	государевъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes|Variant=Short	23	amod	_	_
 26	мешкоетца	мешкатися	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	21	conj	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	9	punct	_	_
 
 # newpar
 # sent_id = 241_Morozov-8
@@ -18195,7 +18195,7 @@
 1	Государю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
 2	Борису	Борисъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
 3	Ивановичю	Ивановичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/231_Morozov
 # newpar
@@ -18233,7 +18233,7 @@
 20	-	-	PUNCT	_	_	22	punct	_	_
 21	сколько	сколько	NUM	_	Case=Acc	22	obj	_	_
 22	доведетца	довестися	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	18	conj	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	16	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	16	punct	_	_
 
 # newdoc id = morozov/254_Morozov
 # newpar
@@ -18327,7 +18327,7 @@
 26	под	подъ	ADP	_	_	27	case	_	_
 27	рожью	рожь	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	25	nmod	_	_
 28	4	4	NUM	_	Case=Nom|Gender=Fem	29	nummod:gov	_	_
-29	дес.	десятина	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	25	nmod	_	SpaceAfter=No
+29	дес.	десятина	NOUN	_	Case=Nom|Gender=Fem|Number=Count	25	nmod	_	SpaceAfter=No
 30	,	,	PUNCT	_	_	25	punct	_	_
 31	и	и	CCONJ	_	_	37	cc	_	_
 32	у	у	ADP	_	_	33	case	_	_
@@ -18342,7 +18342,7 @@
 41	паринине	паринина	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	11	conj	_	_
 42	де	де	PART	_	_	41	advmod	_	_
 43	2	2	NUM	_	Case=Nom|Gender=Fem	44	nummod	_	_
-44	дес.	десятина	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	41	nsubj	_	_
+44	дес.	десятина	NOUN	_	Case=Nom|Gender=Fem|Number=Count	41	nsubj	_	_
 45	розпаханых	розпахати	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	44	amod	_	SpaceAfter=No
 46	,	,	PUNCT	_	_	49	punct	_	_
 47	да	да	CCONJ	_	_	49	cc	_	_
@@ -18350,7 +18350,7 @@
 49	паринине	паринина	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	41	conj	_	_
 50	же	же	PART	_	_	49	advmod	_	_
 51	2	2	NUM	_	Case=Nom|Gender=Fem	52	nummod	_	_
-52	дес.	десятина	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	49	nsubj	_	_
+52	дес.	десятина	NOUN	_	Case=Nom|Gender=Fem|Number=Count	49	nsubj	_	_
 53	же	же	PART	_	_	52	advmod	_	_
 54	взломных	взломный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	52	nmod	_	SpaceAfter=No
 55	;	;	PUNCT	_	_	70	punct	_	_
@@ -18384,7 +18384,7 @@
 4	Климку	Климко	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	3	appos	_	_
 5	Стефанову	Стефановъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	4	flat:name	_	_
 6	3	3	NUM	_	Case=Acc|Gender=Fem	7	nummod:gov	_	_
-7	дес.	десятина	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	8	obj	_	_
+7	дес.	десятина	NOUN	_	Case=Acc|Gender=Fem|Number=Count	8	obj	_	_
 8	вымерить	вымѣрити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -18456,7 +18456,7 @@
 18	постави[ть]	поставити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	xcomp	_	_
 19	и	и	CCONJ	_	_	20	cc	_	_
 20	кормить	кормити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	conj	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	15	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	15	punct	_	_
 
 # newdoc id = morozov/224_Morozov
 # newpar
@@ -18524,7 +18524,7 @@
 10	гулять	гуляти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	xcomp	_	_
 11	не	не	PART	_	Polarity=Neg	12	advmod	_	_
 12	давали	давати	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	6	ccomp	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	_
 
 # newdoc id = morozov/238_Morozov
 # newpar
@@ -18583,7 +18583,7 @@
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	написано	написати	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
 7	42	42	NUM	_	Case=Nom|Gender=Fem	8	nummod:gov	_	_
-8	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	6	nsubj:pass	_	SpaceAfter=No
+8	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	6	nsubj:pass	_	SpaceAfter=No
 9	;	;	PUNCT	_	_	16	punct	_	_
 10	против	противъ	ADP	_	_	14	case	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
@@ -18665,7 +18665,7 @@
 43	под	подъ	ADP	_	_	45	case	_	_
 44	сею	сей	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Dem	45	det	_	_
 45	отпискою	отписка	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	36	obl	_	SpaceAfter=No
-46	.	.	PUNCT	_	_	36	punct	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	36	punct	_	_
 
 # newpar
 # sent_id = 238_Morozov-5
@@ -18699,12 +18699,12 @@
 2	рыбы	рыба	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	5	punct	_	_
 4	3	3	NUM	_	Case=Nom|Gender=Fem	5	nummod:gov	_	_
-5	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	2	appos	_	_
+5	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	2	appos	_	_
 6	в	въ	ADP	_	_	7	case	_	_
 7	аршин	аршинъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	_
 8	з	съ	ADP	_	_	10	case	_	_
 9	двема	два	NUM	_	Case=Ins|Gender=Masc	10	nummod	_	_
-10	вершки	вершокъ	NOUN	_	Case=Ins|Gender=Masc|Number=Adnum	7	nmod	_	SpaceAfter=No
+10	вершки	вершокъ	NOUN	_	Case=Ins|Gender=Masc|Number=Count	7	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	16	punct	_	_
 12	а	а	CCONJ	_	_	16	cc	_	_
 13	одна	одинъ	NUM	_	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
@@ -18714,7 +18714,7 @@
 17	гораздо	гораздо	ADV	_	Degree=Pos	16	advmod	_	SpaceAfter=No
 18	;	;	PUNCT	_	_	20	punct	_	_
 19	2	2	NUM	_	Case=Nom|Gender=Fem	20	nummod:gov	_	_
-20	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	5	conj	_	_
+20	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	5	conj	_	_
 21	в	въ	ADP	_	_	22	case	_	_
 22	аршин	аршинъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
 23	;	;	PUNCT	_	_	24	punct	_	_
@@ -18733,7 +18733,7 @@
 36	аршин	аршинъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	31	nmod	_	SpaceAfter=No
 37	;	;	PUNCT	_	_	39	punct	_	_
 38	3	3	NUM	_	Case=Nom|Gender=Fem	39	nummod	_	_
-39	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	5	conj	_	_
+39	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	5	conj	_	_
 40	в	въ	ADP	_	_	41	case	_	_
 41	аршин	аршинъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	39	nmod	_	_
 42	бес	безъ	ADP	_	_	44	case	_	_
@@ -18741,7 +18741,7 @@
 44	вершков	вершокъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	41	nmod	_	SpaceAfter=No
 45	;	;	PUNCT	_	_	47	punct	_	_
 46	4	4	NUM	_	Case=Nom|Gender=Fem	47	nummod:gov	_	_
-47	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	5	conj	_	_
+47	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	5	conj	_	_
 48	11	11	NUM	_	Case=Nom|NumForm=Digit	49	nummod:gov	_	_
 49	вершков	вершокъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	47	nmod	_	SpaceAfter=No
 50	;	;	PUNCT	_	_	52	punct	_	_
@@ -18765,14 +18765,14 @@
 10	вершки	вершокъ	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
 11	;	;	PUNCT	_	_	13	punct	_	_
 12	2	2	NUM	_	Case=Nom|Gender=Fem	13	nummod:gov	_	_
-13	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	5	conj	_	_
+13	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	5	conj	_	_
 14	в	въ	ADP	_	_	15	case	_	_
 15	аршин	аршинъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	nmod	_	_
 16	без	безъ	ADP	_	_	17	case	_	_
 17	вершка	вершокъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
 18	;	;	PUNCT	_	_	20	punct	_	_
 19	2	2	NUM	_	Case=Nom|Gender=Fem	20	nummod	_	_
-20	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	5	conj	_	_
+20	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	5	conj	_	_
 21	в	въ	ADP	_	_	22	case	_	_
 22	аршин	аршинъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	20	nmod	_	_
 23	без	безъ	ADP	_	_	25	case	_	_
@@ -18787,7 +18787,7 @@
 32	вершков	вершокъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	29	nmod	_	SpaceAfter=No
 33	;	;	PUNCT	_	_	35	punct	_	_
 34	2	2	NUM	_	Case=Nom|Gender=Fem	35	nummod:gov	_	_
-35	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	5	conj	_	_
+35	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	5	conj	_	_
 36	3-х	3	NUM	_	Case=Gen|Gender=Fem	37	nummod	_	_
 37	чети	четь	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	35	nmod	_	SpaceAfter=No
 38	.	.	PUNCT	_	_	2	punct	_	_
@@ -18823,7 +18823,7 @@
 18	вершков	вершокъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	21	punct	_	_
 20	3	3	NUM	_	Case=Nom|Gender=Masc|NumForm=Digit	21	nummod	_	_
-21	леща	лещь	NOUN	_	Case=Nom|Gender=Masc|Number=Adnum	6	conj	_	_
+21	леща	лещь	NOUN	_	Case=Nom|Gender=Masc|Number=Count	6	conj	_	_
 22	11	11	NUM	_	Case=Gen|NumForm=Digit	23	nummod	_	_
 23	вершков	вершокъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	SpaceAfter=No
 24	;	;	PUNCT	_	_	25	punct	_	_
@@ -18833,7 +18833,7 @@
 28	;	;	PUNCT	_	_	29	punct	_	_
 29	лещ	лещь	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	conj	_	_
 30	3	3	NUM	_	Case=Nom|Gender=Fem	31	nummod	_	_
-31	четверти	четверть	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	29	nmod	_	SpaceAfter=No
+31	четверти	четверть	NOUN	_	Case=Nom|Gender=Fem|Number=Count	29	nmod	_	SpaceAfter=No
 32	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 238_Morozov-11
@@ -18854,7 +18854,7 @@
 2	всех	весь	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	4	nmod	_	_
 3	8	8	NUM	_	Case=Nom|NumForm=Digit	4	nummod:gov	_	_
 4	лещей	лещь	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
 
 # newpar
 # sent_id = 238_Morozov-13
@@ -18862,7 +18862,7 @@
 1	Государю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
 2	Борису	Борисъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
 3	Ивановичю	Ивановичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/248_Morozov
 # newpar
@@ -19153,7 +19153,7 @@
 15	долю	доля	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	obl	_	_
 16	не	не	PART	_	Polarity=Neg	17	advmod	_	_
 17	вступался	вступатися	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Mid	9	conj	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	9	punct	_	_
 
 # newdoc id = morozov/221_Morozov
 # newpar
@@ -19273,7 +19273,7 @@
 27	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	30	nmod	_	_
 28	по	по	ADP	_	_	30	case	_	_
 29	4	4	NUM	_	Case=Acc|Gender=Masc|NumForm=Digit	30	nummod:gov	_	_
-30	человека	человѣкъ	NOUN	_	Case=Acc|Gender=Masc|Number=Adnum	23	obl	_	SpaceAfter=No
+30	человека	человѣкъ	NOUN	_	Case=Acc|Gender=Masc|Number=Count	23	obl	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 221_Morozov-5
@@ -19296,7 +19296,7 @@
 16	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	nmod	_	_
 17	по	по	ADP	_	_	19	case	_	_
 18	3	3	NUM	_	Case=Acc|Gender=Masc|NumForm=Digit	19	nummod:gov	_	_
-19	человека	человѣкъ	NOUN	_	Case=Acc|Gender=Masc|Number=Adnum	13	obl	_	SpaceAfter=No
+19	человека	человѣкъ	NOUN	_	Case=Acc|Gender=Masc|Number=Count	13	obl	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	26	punct	_	_
 21	а	а	CCONJ	_	_	26	cc	_	_
 22	пеньки	пенекъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	26	obj	_	SpaceAfter=No
@@ -19344,10 +19344,10 @@
 11	самим	самъ	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	16	acl	_	_
 12	ни	ни	PART	_	Polarity=Neg	14	advmod	_	_
 13	за	за	ADP	_	_	14	case	_	_
-14	што	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	16	obl	_	_
+14	што	што	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	16	obl	_	_
 15	не	не	PART	_	Polarity=Neg	16	advmod	_	_
 16	принятца	принятися	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	advcl	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	3	punct	_	_
 
 # newpar
 # sent_id = 221_Morozov-8
@@ -19355,7 +19355,7 @@
 1	Государю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
 2	Борису	Борисъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
 3	Ивановичю	Ивановичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/251_Morozov
 # newpar
@@ -19590,7 +19590,7 @@
 29	людей	человѣкъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	28	obj	_	_
 30	и	и	CCONJ	_	_	31	cc	_	_
 31	лошадей	лошадь	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur	29	conj	_	SpaceAfter=No
-32	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	9	punct	_	_
 
 # newpar
 # sent_id = 251_Morozov-8
@@ -19598,7 +19598,7 @@
 1	Государю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
 2	Борису	Борисъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
 3	Ивановичю	Ивановичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/258_Morozov
 # newpar
@@ -19902,7 +19902,7 @@
 7	с	съ	ADP	_	_	8	case	_	_
 8	Трофимом	Трофимъ	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	2	obl	_	_
 9	Левашевым	Левашевъ	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	8	flat:name	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
 
 # newpar
 # sent_id = 258_Morozov-13
@@ -19910,7 +19910,7 @@
 1	Государю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
 2	Борису	Борисъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
 3	Ивановичю	Ивановичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/228_Morozov
 # newpar
@@ -19958,7 +19958,7 @@
 27	и	и	CCONJ	_	_	28	cc	_	_
 28	малых	малый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	26	conj	_	_
 29	54	54	NUM	_	Case=Nom|Gender=Masc|NumForm=Digit	30	nummod:gov	_	_
-30	леща	лещь	NOUN	_	Case=Nom|Gender=Masc|Number=Adnum	25	appos	_	SpaceAfter=No
+30	леща	лещь	NOUN	_	Case=Nom|Gender=Masc|Number=Count	25	appos	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	38	punct	_	_
 32	да	да	CCONJ	_	_	38	cc	_	_
 33	купленых	купити	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	38	amod	_	SpaceAfter=No
@@ -20048,7 +20048,7 @@
 8	с	съ	ADP	_	_	10	case	_	_
 9	1-го	1-й	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|NumForm=Digit	10	amod	_	_
 10	числа	число	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	_
 
 # newpar
 # sent_id = 228_Morozov-5
@@ -20056,7 +20056,7 @@
 1	Государю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
 2	Борису	Борисъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
 3	Ивановичю	Ивановичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newpar
 # sent_id = 228_Morozov-6
@@ -20141,7 +20141,7 @@
 7	,	,	PUNCT	_	_	5	punct	_	_
 8	челом	чело	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	9	iobj	_	_
 9	бью	бити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
 
 # newdoc id = morozov/234_Morozov
 # newpar
@@ -20487,7 +20487,7 @@
 7	ходить	ходити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	csubj	_	_
 8	будет	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	cop	_	_
 9	далеко	далекий	ADJ	AdjType=Predic	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
 
 # newpar
 # sent_id = 234_Morozov-16
@@ -20499,7 +20499,7 @@
 5	чюдотворцу	чудотворецъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
 6	[с]старцом	старецъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	1	obl:agent	_	_
 7	Тимофеем	Тимофѣй	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
 
 # newpar
 # sent_id = 234_Morozov-17
@@ -20507,7 +20507,7 @@
 1	Государю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
 2	Борису	Борисъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
 3	Ивановичю	Ивановичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newpar
 # sent_id = 234_Morozov-18
@@ -20639,7 +20639,7 @@
 7	много	много	ADV	_	Degree=Pos	9	advmod	_	_
 8	челом	чело	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	9	iobj	_	_
 9	бью	бити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
 
 # newpar
 # sent_id = 234_Morozov-23
@@ -20648,7 +20648,7 @@
 2	моему	мой	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	1	det	_	_
 3	Степану	Степанъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	_
 4	Никитичю	Никитичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = zagovor/Zagovor_189
 # newpar
@@ -21144,7 +21144,7 @@
 74	дми	дмити	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	67	conj	_	Norm=дми|_
 75	в	въ	ADP	_	_	76	case	_	Norm=в|_
 76	дуло	дуло	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	74	obl	_	Norm=дуло|SpaceAfter=No
-77	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=No
+77	.	.	PUNCT	_	_	2	punct	_	Norm=.
 
 # newdoc id = zagovor/Zagovor_190
 # created = 1650-1675
@@ -21291,7 +21291,7 @@
 # sent_id = Zagovor_190-8
 # text = Аминь.
 1	Аминь	аминь	INTJ	_	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = rd/RD_10_30
 # newpar
@@ -22157,7 +22157,7 @@
 10	въ	въ	ADP	_	_	12	case	_	Norm=въ|SpaceAfter=Yes
 11	7	7	ADJ	_	NumForm=Digit	12	amod	_	Norm=7|SpaceAfter=Yes
 12	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	Norm=день|SpaceAfter=No
-13	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	Norm=.
 
 # newpar
 # sent_id = RIB_18_64_01-10
