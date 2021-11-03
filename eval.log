@@ -1,13 +1,13 @@
 Running the following version of UD tools:
-commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
+commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 6 20:16:19 2021 +0200
+Date:   Tue Nov 2 22:17:19 2021 +0100
 Evaluating the following revision of UD_Old_East_Slavic-RNC:
-commit c33eafb007e0091ac92ebb540c8fa5a851769eaa
-Merge: cb76fc3 8cd82b9
+commit bd5722399b68b14ef4c7f5a2bebe5d6669750ea5
+Merge: 08566e1 5e37bfe
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 30330 of 30330 words (nodes).
-Size: min(0, log((N/1000)**2)) = 6.82427464340098.
+Size: counted 34903 of 34903 words (nodes).
+Size: min(0, log((N/1000)**2)) = 7.10514557079886.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,14 +15,14 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 18780 out of 30330 total words have one or more features.
+Features: 21737 out of 34903 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL        451
-Udapi: found 451 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 30330 words.
+               TOTAL        459
+Udapi: found 459 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 34903 words.
 Genres: found 2 out of 17 known.
 validate.py --lang orv --max-err=10 UD_Old_East_Slavic-RNC/orv_rnc-ud-test.conllu
 *** PASSED ***
@@ -32,11 +32,11 @@ Validity: 1
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
 (weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.493957470103555) = 0.126655761565014
+(weight=0.256410256410256) * (score{size}=0.514287585752879) = 0.131868611731507
 (weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
 (weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
-(weight=0.307692307692308) * (score{udapi}=0.851302340916584) = 0.261939181820487
+(weight=0.307692307692308) * (score{udapi}=0.868492679712346) = 0.267228516834568
 (weight=0.0769230769230769) * (score{udeprels}=0.918918918918919) = 0.0706860706860707
-(TOTAL score=0.733458992955433) * (availability=1) * (validity=1) = 0.733458992955433
+(TOTAL score=0.743961178136007) * (availability=1) * (validity=1) = 0.743961178136007
 STARS = 3.5
-UD_Old_East_Slavic-RNC	0.733458992955433	3.5
+UD_Old_East_Slavic-RNC	0.743961178136007	3.5
