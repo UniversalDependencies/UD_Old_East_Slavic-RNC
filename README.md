@@ -82,6 +82,9 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 
 # Changelog
 
+* 2021-05-15 v2.10
+  * Metadata added
+
 * 2021-11-15 v2.9
   * Train data expanded  
   * Minor corrections after validation  
