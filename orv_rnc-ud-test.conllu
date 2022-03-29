@@ -21124,8 +21124,8 @@
 4	на	на	ADP	_	_	2	orphan	_	Norm=на|SpaceAfter=No
 5	...	...	PUNCT	_	_	2	punct	_	Norm=...|_
 6	глаголи	глаголати	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	parataxis	_	Norm=глаголи|_
-7	3	трижъ	ADV	_	Degree=Pos	6	advmod	_	Norm=3|_
-8	ж	жъ	PART	_	_	7	goeswith	_	Norm=ж|_
+7	3	трижъ	ADV	_	Degree=Pos|Typo=Yes	6	advmod	_	Norm=3|_
+8	ж	_	X	_	_	7	goeswith	_	Norm=ж|_
 9	молитву	молитва	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Norm=молитву|_
 10	Божую	божий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	Norm=Божую|_
 11	да	да	CCONJ	_	_	15	cc	_	Norm=да|_

@@ -9880,7 +9880,7 @@
 # sent_id = mosk_del_byt_pism-1\11c-9
 # text = РПЅ г сентябрѧ въ Ѕ де подал грамотку Михаилова приказу Уварова денщик Купряшка Корнеевъ
 1	РПЅ	РПЅ	NUM	_	Case=Nom|NumForm=Cyril	3	amod	_	Norm=РПЅ
-2	г	й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1	goeswith	_	Norm=г
+2	г	й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1	list	_	Norm=г
 3	сентябрѧ	сентябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	Norm=сентябрѧ
 4	въ	въ	ADP	_	_	6	case	_	Norm=въ
 5	Ѕ	Ѕ	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	Norm=Ѕ
@@ -10361,7 +10361,7 @@
 # sent_id = mosk_del_byt_pism-1\2g-13
 # text = РПЅ г сентябрѧ въ Ѕ де подал грамотку Михаилова приказу денщик Купряшка Корнеевъ
 1	РПЅ	РПЅ	NUM	_	NumForm=Cyril	3	amod	_	Norm=РПЅ
-2	г	й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1	goeswith	_	Norm=г
+2	г	й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1	list	_	Norm=г
 3	сентябрѧ	сентябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	Norm=сентябрѧ
 4	въ	въ	ADP	_	_	6	case	_	Norm=въ
 5	Ѕ	Ѕ	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	Norm=Ѕ
