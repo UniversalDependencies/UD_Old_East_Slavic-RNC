@@ -5714,6 +5714,7 @@
 16	.	.	PUNCT	_	_	15	punct	_	_
 
 # newdoc = duhdog/47
+# title = Докончание великого князя Василия Васильевича с великим князем рязанским Иваном Федоровичем. Грамота в. кн. Василия Васильевича в. кн. Ивану Федоровичу
 # created = 1447
 # sent_id = 47-1
 # text = На сем, брате молѡдшіи, кнꙗз[ь] велики Иван Федѡрович, цѣлꙋи ко мнѣ кр[е]стъ, къ своемꙋ братꙋ старѣишемꙋ, великомꙋ кн[ѧ]зю Васил[ь]ю Васил[ь]евичю, и к моемꙋ братꙋ молодшемꙋ, ко кн[ѧ]зю Иванꙋ Андрѣевичю, и к нашемꙋ братꙋ молодшемꙋ, ко кн[ѧ]зю Михаилꙋ Андрѣевичю, и к нашемꙋ братꙋ молѡдшемꙋ, кн[ѧ]зю Васил[ь]ю ꙗрославичю.
@@ -7031,6 +7032,7 @@
 29	.	.	PUNCT	_	_	7	punct	_	_
 
 # newdoc = gramotki/157_158_159_160_Anichkov
+# title = Л. Аничков В.Т. Вындомскому
 # created = 1650-1720
 # sent_id = 157_158_159_160_Anichkov-1
 # text = Приятель мои гсдрь Вавила Тихановичь блгополꙋчьно на вѣки здравствуи Лаврентиико Аничьков з женишком і з дѣтишками челомъ бьем да челомъ бьемъ за твою млсть что жалуеш
@@ -8440,6 +8442,7 @@
 10	Тихановичю	Тихоновичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	9	flat:name	_	_
 
 # newdoc = apd/Akty_pistsovogo_dela_62
+# title = Челобитная посадских людей Вязьмы об обложении их посильным сошным окладом по дозору писцов С. И. Воейкова и Д. Прокофьева
 # created = 1646
 # sent_id = Akty_pistsovogo_dela_62-1
 # text = 155-го октября в 14 день боярин Григорей Гавриловичь Пушкин отдал дьяку Мине Грязеву вязьмичь, посадцких людей, челобитную, а велел о том деле выписать к государю в доклад, а в челобитной пишет.
@@ -9809,6 +9812,7 @@
 6	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc = bldr/BLDR-11_11
+# title = Иван Грозный. Послание польскому королю Стефану Баторию 1579 года
 # created = 1579
 # sent_id = BLDR-11_11-1
 # text = ГРАМОТА ГОСУДАРЯ ЦАРЯ И ВЕЛИКОГО КНЯЗЯ ИВАНА ВАСИЛЬЕВИЧА ВСЕА РУСИИ К СТЕПАНУ КОРОЛЮ ПОЛСКОМУ
@@ -11208,6 +11212,7 @@
 27	.	.	PUNCT	_	_	15	punct	_	_
 
 # newdoc = bldr/BLDR-7_09
+# title = Новгородская повесть о походе Ивана III Васильевича на Новгород
 # created = 1471-1473
 # sent_id = BLDR-7_09-1
 # text = В лѣто 6979 вверже князь великий Иванъ Васильевич нелюбие на Великий Новъгород, нача рать свою копити и нача посылати на новъгородцкиа волости.
@@ -12290,6 +12295,7 @@
 8	.	.	PUNCT	_	_	3	punct	_	_
 
 # newdoc = gvnp/GVNP_010
+# title = Договорные грамоты Новгорода с тверским великим князем Михаилом Ярославичем. Грамота тверская
 # created = 1307-1308
 # sent_id = GVNP_010-1
 # text = † Благословление от владыцѣ, поклонъ от посадника, и от тысячкого, и от всѣхъ старѣишиихъ, и от всѣхъ мѣншиихъ, и от всего Новагорода господину князю великому Михаилу.
@@ -13273,6 +13279,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # newdoc = zother/Nakaz_Pashkovu
+# title = Наказ Афанасию Филипповичу Пашкову на воеводство в Даурской земле
 # created = 1655
 # sent_id = Nakaz_Pashkovu-1
 # text = [...] свѣтлица, казенки и суды, изъ чево пьютъ, всѣ серебряные, золочены.
@@ -14741,6 +14748,7 @@
 153	.	.	PUNCT	_	_	13	punct	_	_
 
 # newdoc = jaroslav_etc/Simon_1501
+# title = Послание митрополита Симона великокняжескому наместнику Великой Перми князю Матвею Михайловичу, всем мирянам и духовенству Великой Перми с предписанием строго соблюдать христианскую обрядность, не поклоняться языческому идолу Войпелю и прекратить заключение браков по татарскому обычаю левирата
 # created = 1501
 # sent_id = Simon_1501-1
 # text = Послание Симона митрополита всея Русии в Великую Пермь.
@@ -15722,6 +15730,8 @@
 15	.	.	PUNCT	_	_	2	punct	_	_
 
 # newdoc id = morozov/237_Morozov
+# title = А. Дементьев. Отписка приказчика с. Павловского (Звенигород. у.) А. Дементьева Б. И. Морозову о побеге крестьян дер. Пискова М. Титова и А. Васильева и об отказе слуг ехать за ними в погоню
+# created = 1652
 # newpar
 # sent_id = 237_Morozov-1
 # text = Государю Борису Ивановичю холоп твой Алешка Дементеев челом бьет.
@@ -15932,6 +15942,8 @@
 4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/247_Morozov
+# title = И. Перфильев. Челобитные крестьян с. Городня (Твер. у.) И. Перфильева с тов. о даче им на оброк 8 дес. земли, расчищенной И. Брылкиным, и о разрешении им расчистить лес отдельно от мира
+# created = 1652
 # newpar
 # sent_id = 247_Morozov-1
 # text = Государю Борису Ивановичю бьет челом сирота твой села Горо[д]н[я] крестиянин Ивашко Перфильев с товарищи.
@@ -16135,6 +16147,8 @@
 6	.	.	PUNCT	_	_	3	punct	_	_
 
 # newdoc id = morozov/219_Morozov
+# title = Память Б. И. Морозова И. Рахмангулу о высылке в Москву лошадей из с. Павловского (Звенигород. у.) // Акты хозяйства Б. И. Морозова
+# created = 1652
 # newpar
 # sent_id = 219_Morozov-1
 # text = От Бориса Ивановича память Ивану Рахмангулу.
@@ -16268,6 +16282,8 @@
 13	.	.	PUNCT	_	_	6	punct	_	_
 
 # newdoc id = morozov/222_Morozov
+# title = М. Андреев. Отписка М. Андреева из с. Котельников (Москов. у.) московскому приказчику С. Н. Киселеву о трудностях расчистки леса в болотах близ пус. Казаринова
+# created = 1652
 # newpar
 # sent_id = 222_Morozov-1
 # text = Государю Степану Микитичю Мартемьянко Ондреев челом бьет.
@@ -16537,6 +16553,8 @@
 4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/252_Morozov
+# title = И. Брылкин. Отписка приказчика с. Лотошина (Твер. у.) И. Брылкина московскому приказчику С. Н. Киселеву с запросом о месте для выпаса лошадей
+# created = 1652
 # newpar
 # sent_id = 252_Morozov-1
 # text = Государю моему Степану Никитичю Ивашко Брылкин челом бьет.
@@ -16911,6 +16929,8 @@
 5	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/257_Morozov
+# title = А. Дементьев. Отписка приказчика с. Павловского (Звенигород. у.) А. Дементьева Б. И. Морозову о посылке в Москву крестьянина Окульки Дементьева с челобитной о приеме его в вотчину
+# created = 1652
 # newpar
 # sent_id = 257_Morozov-1
 # text = Государю Борису Ивановичю холоп твой Олешка Дементьев [челом бьет].
@@ -17041,6 +17061,8 @@
 28	.	.	PUNCT	_	_	6	punct	_	_
 
 # newdoc id = morozov/227_Morozov
+# title = А. Дементьев. Отписка приказчика с. Павловского (Звенигород. у.) А. Дементьева Б. И. Морозову о посадке и прививке плодовых деревьев в с. Павловском и в Онуфриеве монастыре
+# created = 1652
 # newpar
 # sent_id = 227_Morozov-1
 # text = Государю Борису Ивановичю холоп твой Олешка Дементьев челом бьет.
@@ -17514,6 +17536,8 @@
 6	.	.	PUNCT	_	_	2	punct	_	_
 
 # newdoc id = morozov/242_Morozov
+# title = А. Дементьев, Б. И. Морозов, Т. Нощокина. Отписка приказчика с. Павловского (Звенигород. у.) А. Дементьева Б. И. Морозову с запросом по поводу перенятого плота вдовы Т. Нащокиной, разрушившего мост
+# created = 1652
 # newpar
 # sent_id = 242_Morozov-1
 # text = Государю Борису Ивановичю холоп твой Олешка Дементьев челом бьет.
@@ -17947,6 +17971,8 @@
 37	.	.	PUNCT	_	_	16	punct	_	_
 
 # newdoc id = morozov/232_Morozov
+# title = Память Б. И. Морозова приказчику с. Едимонова (Твер. у.) С. Гольцову о выдаче скудным крестьянам хлеба на семена по их челобитью
+# created = 1652
 # newpar
 # sent_id = 232_Morozov-1
 # text = От Бориса Ивановича память Смирному Гольцову.
@@ -18038,6 +18064,8 @@
 20	.	.	PUNCT	_	_	16	punct	_	_
 
 # newdoc id = morozov/241_Morozov
+# title = Отписка приказчика с. Павловского (Звенигород. у.) В. Гнездова и К. Нагаева Б. И. Морозову с донесением о ходе расчистки леса в Плушкине и с запросом о месте дальнейших работ
+# created = 1652
 # newpar
 # sent_id = 241_Morozov-1
 # text = Государю Борису Ивановичю холопи твои Васька Гнездов да Куземка Нагаев челом бием.
@@ -18198,6 +18226,8 @@
 4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/231_Morozov
+# title = Память Б. И. Морозова приказчику с. Котельников (Москов. у.) В. Гнездову о выдаче К. Нагаеву по его требованию овса
+# created = 1652
 # newpar
 # sent_id = 231_Morozov-1
 # text = От Бориса Ивановича память Василью Гнез[до]ву.
@@ -18236,6 +18266,8 @@
 23	.	.	PUNCT	_	_	16	punct	_	_
 
 # newdoc id = morozov/254_Morozov
+# title = Грамота Б. И. Морозова приказчику с. Городня (Твер. у.) С. Гольцову о засеве расчищенной И. Брылкиным земли, об отводе 3 дес. земли новому крестьянину К. Стефанову, об уходе за лошадьми и пр
+# created = 1652
 # newpar
 # sent_id = 254_Morozov-1
 # text = От Бориса Ивановича в тверскую мою вотчину в село Городень человеку моему Смирному Гольцову.
@@ -18459,6 +18491,8 @@
 21	.	.	PUNCT	_	_	15	punct	_	_
 
 # newdoc id = morozov/224_Morozov
+# title = Память Б. И. Морозова приказчику с. Котельников (Москов. у.) В. Гнездову с указаниями по расчистке леса у пус. Казариновой и Глинковой
+# created = 1652
 # newpar
 # sent_id = 224_Morozov-1
 # text = От Бориса Ивановича память Василью Гнездову.
@@ -18527,6 +18561,8 @@
 13	.	.	PUNCT	_	_	6	punct	_	_
 
 # newdoc id = morozov/238_Morozov
+# title = Отписка приказчика с. Павловского (Звенигород. у.) А. Дементьева Б. И. Морозову о получении рыбы, присланной из Москвы с Л. Афанасьевым
+# created = 1652
 # newpar
 # sent_id = 238_Morozov-1
 # text = Государю Борису Ивановичю холоп твой Олешка Дементьев челом бьет.
@@ -18865,6 +18901,8 @@
 4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/248_Morozov
+# title = Грамота Б. И. Морозова приказчику с. Городня (Твер. у.) С. Гольцову с отказом на челобитье крестьян, И. Перфильева с тов., и с распоряжением о засеве боярскими семенами земли, расчищенной И. Брылкиным, и об отводе леса для расчистки всем крестьянам с. Городня
+# created = 1652
 # newpar
 # sent_id = 248_Morozov-1
 # text = От Бориса Ивановича в тверскую мою вотчину в село Городень человеку моему Смирнову Гольцову.
@@ -19156,6 +19194,8 @@
 18	.	.	PUNCT	_	_	9	punct	_	_
 
 # newdoc id = morozov/221_Morozov
+# title = В. Гнездов. Отписка приказчика с. Котельников (Москов. у.) В. Гнездова Б. И. Морозову о ходе посадки и прививки плодовых деревьев
+# created = 1652
 # newpar
 # sent_id = 221_Morozov-1
 # text = Государю Борису Ивановичю холоп твой Васька Гнездов челом бию.
@@ -19358,6 +19398,8 @@
 4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/251_Morozov
+# title = Отписка приказчика с. Павловского (Звенигород. у.) А. Дементьева Б. И. Морозову о переводе в конюхи трубачей С. Лукьянова и Я. Маршалка
+# created = 1652
 # newpar
 # sent_id = 251_Morozov-1
 # text = Государю Борису Ивановичю холоп твой Олешка Дементьев челом бьет.
@@ -19601,6 +19643,8 @@
 4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/258_Morozov
+# title = А. Дементьев. Отписка приказчика с. Павловского (Звенигород. у.) А. Дементьева Б. И. Морозову о приезде мастера рудника Михаила и о его работе
+# created = 1652
 # newpar
 # sent_id = 258_Morozov-1
 # text = Государю Борису Ивановичю холоп твой Олешка Дементьев челом бьет.
@@ -19913,6 +19957,8 @@
 4	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = morozov/228_Morozov
+# title = А. Дементьев, П. Дмитриев. Отписки 1) приказчика с. Павловского (Звенигород. у.) А. Дементьева Б. И. Морозову и 2) Петра Дмитриева московскому приказчику С. Н. Киселеву — о доставке в Павловское живых лещей и состоянии их
+# created = 1652
 # newpar
 # sent_id = 228_Morozov-1
 # text = Государю Борису Ивановичю холоп твой Олешка Дементьев челом бьет.
@@ -20144,6 +20190,8 @@
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # newdoc id = morozov/234_Morozov
+# title = А. Дементьев. Две отписки приказчика с. Павловского (Звенигород. у.) А. Дементьева в Москву Б. И. Морозову и приказчику С. Н. Киселеву о прибытии деловых людей, о ходе работ по расчистке леса, об озорстве и непослушании деловых людей
+# created = 1652
 # newpar
 # sent_id = 234_Morozov-1
 # text = Государю Борису Ивановичю холоп твой Олешка Дементьев челом бьет.
@@ -20651,6 +20699,8 @@
 5	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = zagovor/Zagovor_189
+# title = Охотничий заговор
+# created = 1650-1675
 # newpar
 # sent_id = Zagovor_189-1
 # text = Господи, Боже, благослови, отче!
@@ -21074,8 +21124,8 @@
 4	на	на	ADP	_	_	2	orphan	_	Norm=на|SpaceAfter=No
 5	...	...	PUNCT	_	_	2	punct	_	Norm=...|_
 6	глаголи	глаголати	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	parataxis	_	Norm=глаголи|_
-7	3	трижъ	ADV	_	Degree=Pos	6	advmod	_	Norm=3|_
-8	ж	жъ	PART	_	_	7	goeswith	_	Norm=ж|_
+7	3	трижъ	ADV	_	Degree=Pos|Typo=Yes	6	advmod	_	Norm=3|_
+8	ж	_	X	_	_	7	goeswith	_	Norm=ж|_
 9	молитву	молитва	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Norm=молитву|_
 10	Божую	божий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	Norm=Божую|_
 11	да	да	CCONJ	_	_	15	cc	_	Norm=да|_
@@ -21147,6 +21197,7 @@
 77	.	.	PUNCT	_	_	2	punct	_	Norm=.
 
 # newdoc id = zagovor/Zagovor_190
+# title = Заговор от грыжи
 # created = 1650-1675
 # newpar
 # sent_id = Zagovor_190-1
@@ -21294,6 +21345,7 @@
 2	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = rd/RD_10_30
+# title = Ввозная грамота (от имени воевод бояр кн. Дмитрия Тимофеевича Трубецкого и Ивана Мартыновича Заруцкого) Сююш мирзе Исуповичу на поместье его отца и братьев сс. Богородицкое, Никольское, Понгило и др. в Романовском у. с условием содержания служилых татар
 # newpar
 # sent_id = RD_10_30-1
 # text = Московского государства от бояр и воевод от князя Дмитрея Тимофеевича Трубецкого да от Ивана Мартыновича Заруцкого в Романовской уезд в село Богородицкое з деревнями да в село Николское з деревнями, да в село Понгило з деревнями, да в село Пшеничное з деревнями, да в половину села Чиркова з деревнями, что были те села и деревни в поместье за Иль мурзою Исуповым, и Иль мурзы не стало, а во 119-м году те села з деревнями даны Суюшу мурзе да Ибай мурзе Иль мурзиным детем Исупова, всем крестьянам, которые в тех селех и деревнях живут.
@@ -21547,23 +21599,761 @@
 44	.	.	PUNCT	_	_	8	punct	_	_
 
 # newdoc id = rib/RIB_18_64_01
+# title = Войсковая отписка о переходе некоторых нагайских мурз в холопство государя, о предстоящем походе турок и крымцев под Азов весною и о необходимости исправить укрепления в Азове
+# created = 1639
 # newpar
 # sent_id = RIB_18_64_01-1
-# text = А которые, государь, выхотцы выходет к нам ис Турской земли и из Крымьской, и наша братья Донские козаки, которые летось в неволю попались, а в роспросе, государь, они нам розсказывают, что подлинна де Турской царь Крымскому царю и всем ратным велел быть готовым и каторгам, а итить де ему, царю Крымъскому, укозал под Озов град, все ратным людем и каторгам на весну.
+# text = {л._1} Государю царю і великому князю Михаилу Ѳедоровичю всеа Русии холопи твои государевы, Донские атоманы и козаки Наумъка Васильевъ и все Войско Донское челомъ бьютъ.
+1	{л._1}	{л._1}	X	OOV	_	26	dep	_	_
+2	Государю	государь	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	26	iobj	_	_
+3	царю	царь	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	2	appos	_	_
+4	і	и	CCONJ	_	_	6	cc	_	_
+5	великому	великий	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	князю	князь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	conj	_	_
+7	Михаилу	Михаилъ	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	3	appos	_	_
+8	Ѳедоровичю	Федоровичь	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	7	flat:name	_	_
+9	всеа	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	11	det	_	_
+10	Русии	Русия	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+11	холопи	холопъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	26	nsubj	_	_
+12	твои	твой	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	11	det	_	_
+13	государевы	государевъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	11	amod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	Донские	донской	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	16	amod	_	_
+16	атоманы	атаманъ	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	11	appos	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	козаки	казакъ	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	16	conj	_	_
+19	Наумъка	Наумка	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	_
+20	Васильевъ	Васильевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	19	flat:name	_	_
+21	и	и	CCONJ	_	_	23	cc	_	_
+22	все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	23	det	_	_
+23	Войско	войско	NOUN	OOV	Case=Nom|Gender=Neut|Number=Sing	19	conj	_	_
+24	Донское	донской	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+25	челомъ	чело	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	26	iobj	_	_
+26	бьютъ	бити	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	26	punct	_	_
+
+# sent_id = RIB_18_64_01-2
+# text = Прошлого, государь, 147 года, которыхъ покоралъ Господь Богъ нашу братью Донскихъ козаковъ въ неволю въ Турскою землю, и были они проданы въ Царь-Городъ, а изъ Цяря-города посожены на каторгу; и стали они просить у всемилостивого Спаса милости и у Пречистные Богородицы помощи, а твоимъ государьскимъ счастьемъ, переговоря они межъ собою, какъ бы имъ той неволи отбыть, нашу катаржнова и людей Турскихъ на каторгѣ всехъ порубили, а сами, государь, они пришли каторгою въ Озовъ къ Войску, августа въ 1 день.
+1	Прошлого	прошлый	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	vocative	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	147	147	ADJ	OOV	NumForm=Digit	6	amod	_	_
+6	года	годъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	которыхъ	который	PRON	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	13	det	_	_
+9	покоралъ	покарати	VERB	OOV	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
+10	Господь	господь	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+11	Богъ	богъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
+12	нашу	нашъ	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	13	det	_	_
+13	братью	братия	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+14	Донскихъ	донской	ADJ	OOV	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	15	amod	_	_
+15	козаковъ	казакъ	NOUN	OOV	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	13	appos	_	_
+16	въ	въ	ADP	_	_	17	case	_	_
+17	неволю	неволя	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
+18	въ	въ	ADP	_	_	20	case	_	_
+19	Турскою	турский	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	землю	земля	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	25	punct	_	_
+22	и	и	CCONJ	_	_	25	cc	_	_
+23	были	быти	AUX	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	25	aux:pass	_	_
+24	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	25	nsubj:pass	_	_
+25	проданы	продати	VERB	OOV	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	conj	_	_
+26	въ	въ	ADP	_	_	27	case	_	_
+27	Царь-Городъ	Царь-городъ	PROPN	OOV	Case=Acc|Gender=Masc|Number=Sing	25	obl	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	32	punct	_	_
+29	а	а	CCONJ	_	_	32	cc	_	_
+30	изъ	изъ	ADP	_	_	31	case	_	_
+31	Цяря-города	Царь-городъ	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	32	obl	_	_
+32	посожены	посадити	VERB	OOV	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	conj	_	_
+33	на	на	ADP	_	_	34	case	_	_
+34	каторгу	каторга	NOUN	OOV	Case=Acc|Gender=Fem|Number=Sing	32	obl	_	SpaceAfter=No
+35	;	;	PUNCT	_	_	37	punct	_	_
+36	и	и	CCONJ	_	_	37	cc	_	_
+37	стали	стати	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	9	conj	_	_
+38	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	37	nsubj	_	_
+39	просить	просити	VERB	_	VerbForm=Inf|Voice=Act	37	xcomp	_	_
+40	у	у	ADP	_	_	42	case	_	_
+41	всемилостивого	всемилостивый	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	42	amod	_	_
+42	Спаса	спасъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	39	obl	_	_
+43	милости	милость	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	39	obj	_	_
+44	и	и	CCONJ	_	_	48	cc	_	_
+45	у	у	ADP	_	_	47	case	_	_
+46	Пречистные	пречистый	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Typo=Yes	47	amod	_	_
+47	Богородицы	богородица	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	48	orphan	_	_
+48	помощи	помощь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	39	conj	_	SpaceAfter=No
+49	,	,	PUNCT	_	_	75	punct	_	_
+50	а	а	CCONJ	_	_	75	cc	_	_
+51	твоимъ	твой	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Prs	53	det	_	_
+52	государьскимъ	государский	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	53	amod	_	_
+53	счастьемъ	счастие	NOUN	OOV	Case=Ins|Gender=Neut|Number=Sing	75	obl	_	SpaceAfter=No
+54	,	,	PUNCT	_	_	55	punct	_	_
+55	переговоря	переговорити	VERB	OOV	Tense=Pres|VerbForm=Conv|Voice=Act	75	advcl	_	_
+56	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	55	nsubj	_	_
+57	межъ	межу	ADP	_	_	58	case	_	_
+58	собою	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	55	obl	_	SpaceAfter=No
+59	,	,	PUNCT	_	_	65	punct	_	_
+60	какъ	какъ	ADV	_	Degree=Pos	65	advmod	_	_
+61	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	65	aux	_	_
+62	имъ	они	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	65	iobj	_	_
+63	той	тотъ	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	64	det	_	_
+64	неволи	неволя	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	65	obj	_	_
+65	отбыть	отбыти	VERB	OOV	VerbForm=Inf|Voice=Act	55	ccomp	_	SpaceAfter=No
+66	,	,	PUNCT	_	_	55	punct	_	_
+67	нашу	нашъ	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	68	det	_	_
+68	катаржнова	каторжный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	75	obj	_	_
+69	и	и	CCONJ	_	_	70	cc	_	_
+70	людей	люди	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	68	conj	_	_
+71	Турскихъ	турский	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	70	amod	_	_
+72	на	на	ADP	_	_	73	case	_	_
+73	каторгѣ	каторга	NOUN	OOV	Case=Loc|Gender=Fem|Number=Sing	75	obl	_	_
+74	всехъ	весь	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	70	det	_	_
+75	порубили	порубити	VERB	OOV	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	37	conj	_	SpaceAfter=No
+76	,	,	PUNCT	_	_	83	punct	_	_
+77	а	а	CCONJ	_	_	83	cc	_	_
+78	сами	самъ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot|Variant=Short	82	acl	_	SpaceAfter=No
+79	,	,	PUNCT	_	_	80	punct	_	_
+80	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	78	vocative	_	SpaceAfter=No
+81	,	,	PUNCT	_	_	80	punct	_	_
+82	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	83	nsubj	_	_
+83	пришли	приити	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	75	conj	_	_
+84	каторгою	каторга	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	83	obl	_	_
+85	въ	въ	ADP	_	_	86	case	_	_
+86	Озовъ	Озовъ	PROPN	OOV	Case=Acc|Gender=Masc|Number=Sing	83	obl	_	_
+87	къ	къ	ADP	_	_	88	case	_	_
+88	Войску	войско	NOUN	OOV	Case=Dat|Gender=Neut|Number=Sing	83	obl	_	SpaceAfter=No
+89	,	,	PUNCT	_	_	90	punct	_	_
+90	августа	августъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	83	obl	_	_
+91	въ	въ	ADP	_	_	93	case	_	_
+92	1	1	ADJ	OOV	NumForm=Digit	93	amod	_	_
+93	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	90	nmod	_	SpaceAfter=No
+94	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = RIB_18_64_01-3
+# text = А всехъ, государь, нашей братьи пришло каторгою въ Озовъ къ Войску сто тритцать семь человѣкъ да три Арапа, и те, государь, Арапы стали у насъ, холопей твоихъ, проситца къ тебѣ, государю, къ Москве; и мы, государь, отпустили ихъ къ тебѣ, государю, Дономъ рѣкою своими козаками, каторые казаки на каторгѣ животъ свой мучили.
+1	А	а	CCONJ	_	_	8	cc	_	_
+2	всехъ	весь	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	17	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	нашей	нашъ	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Prs	7	det	_	_
+7	братьи	братия	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	17	nmod	_	_
+8	пришло	приити	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
+9	каторгою	каторга	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	8	obl	_	_
+10	въ	въ	ADP	_	_	11	case	_	_
+11	Озовъ	Озовъ	PROPN	OOV	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+12	къ	къ	ADP	_	_	13	case	_	_
+13	Войску	войско	NOUN	OOV	Case=Dat|Gender=Neut|Number=Sing	8	obl	_	_
+14	сто	сто	NUM	_	Case=Acc	15	compound	_	_
+15	тритцать	тридцать	NUM	_	Case=Nom	16	compound	_	_
+16	семь	семь	NUM	_	Case=Acc	17	nummod:gov	_	_
+17	человѣкъ	человѣкъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	8	nsubj	_	_
+18	да	да	CCONJ	_	_	20	cc	_	_
+19	три	трие	NUM	_	Case=Acc|Gender=Masc	20	nummod:gov	_	_
+20	Арапа	арапъ	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	17	conj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	28	punct	_	_
+22	и	и	CCONJ	_	_	28	cc	_	_
+23	те	тотъ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	27	dep	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	23	vocative	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	25	punct	_	_
+27	Арапы	арапъ	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	28	nsubj	_	_
+28	стали	стати	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	8	conj	_	_
+29	у	у	ADP	_	_	30	case	_	_
+30	насъ	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	35	obl	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	холопей	холопъ	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	30	appos	_	_
+33	твоихъ	твой	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Prs	32	det	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	32	punct	_	_
+35	проситца	проситися	VERB	OOV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	28	xcomp	_	_
+36	къ	къ	ADP	_	_	37	case	_	_
+37	тебѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	35	obl	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	39	punct	_	_
+39	государю	государь	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	37	appos	_	SpaceAfter=No
+40	,	,	PUNCT	_	_	39	punct	_	_
+41	къ	къ	ADP	_	_	42	case	_	_
+42	Москве	Москва	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	37	nmod	_	SpaceAfter=No
+43	;	;	PUNCT	_	_	49	punct	_	_
+44	и	и	CCONJ	_	_	49	cc	_	_
+45	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	49	nsubj	_	SpaceAfter=No
+46	,	,	PUNCT	_	_	47	punct	_	_
+47	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	45	vocative	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	47	punct	_	_
+49	отпустили	отпустити	VERB	OOV	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	8	conj	_	_
+50	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	49	obj	_	_
+51	къ	къ	ADP	_	_	52	case	_	_
+52	тебѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	49	obl	_	SpaceAfter=No
+53	,	,	PUNCT	_	_	54	punct	_	_
+54	государю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	52	appos	_	SpaceAfter=No
+55	,	,	PUNCT	_	_	54	punct	_	_
+56	Дономъ	Донъ	PROPN	OOV	Case=Ins|Gender=Masc|Number=Sing	49	obl	_	_
+57	рѣкою	река	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	56	appos	_	_
+58	своими	свой	DET	_	Case=Ins|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	59	det	_	_
+59	козаками	казакъ	NOUN	OOV	Case=Ins|Gender=Masc|Number=Plur	49	obl	_	SpaceAfter=No
+60	,	,	PUNCT	_	_	67	punct	_	_
+61	каторые	который	DET	OOV	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	62	det	_	_
+62	казаки	казакъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	67	nsubj	_	_
+63	на	на	ADP	_	_	64	case	_	_
+64	каторгѣ	каторга	NOUN	OOV	Case=Loc|Gender=Fem|Number=Sing	67	obl	_	_
+65	животъ	животъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	67	obj	_	_
+66	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	65	det	_	_
+67	мучили	мучити	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	59	acl:relcl	_	SpaceAfter=No
+68	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = RIB_18_64_01-4
+# text = Да августа-жъ, государь, въ 4 день, пѣреехали ис Крыму въ Озовъ къ тебѣ, государю царю і великому князю Михаилу Ѳедоровичю всеа Русии, подъ твою царьскою высокою руку въ холопства два мурзы Азомадъ мурза да Одилъ мурза Мансуровы.
+1	Да	да	CCONJ	_	_	12	cc	_	_
+2	августа	августъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	жъ	же	PART	_	_	2	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	въ	въ	ADP	_	_	10	case	_	_
+9	4	4	ADJ	_	NumForm=Digit	10	amod	_	_
+10	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	2	punct	_	_
+12	пѣреехали	переѣхати	VERB	OOV	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
+13	ис	изъ	ADP	_	_	14	case	_	_
+14	Крыму	Крымъ	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	12	obl	_	_
+15	въ	въ	ADP	_	_	16	case	_	_
+16	Озовъ	Озовъ	PROPN	OOV	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	_
+17	къ	къ	ADP	_	_	18	case	_	_
+18	тебѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	12	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	государю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	18	appos	_	_
+21	царю	царь	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	20	appos	_	_
+22	і	и	CCONJ	_	_	24	cc	_	_
+23	великому	великий	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	князю	князь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	21	conj	_	_
+25	Михаилу	Михаилъ	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	21	appos	_	_
+26	Ѳедоровичю	Федоровичь	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	25	flat:name	_	_
+27	всеа	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	28	det	_	_
+28	Русии	Русия	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	34	punct	_	_
+30	подъ	подъ	ADP	_	_	34	case	_	_
+31	твою	твой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	34	det	_	_
+32	царьскою	царский	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
+33	высокою	высокий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
+34	руку	рука	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	_
+35	въ	въ	ADP	_	_	36	case	_	_
+36	холопства	холопство	NOUN	OOV	Case=Acc|Gender=Neut|Number=Sing	12	obl	_	_
+37	два	два	NUM	_	Case=Nom|Gender=Masc	38	nummod:gov	_	_
+38	мурзы	мурза	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	12	nsubj	_	_
+39	Азомадъ	Азамадъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	38	appos	_	_
+40	мурза	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	39	appos	_	_
+41	да	да	CCONJ	_	_	42	cc	_	_
+42	Одилъ	Одилъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	39	conj	_	_
+43	мурза	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	42	appos	_	_
+44	Мансуровы	Мансуровъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Plur	39	flat:name	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = RIB_18_64_01-5
+# text = Да прошлого-жъ, государь, 147-го, прислона къ намъ на Донъ и въ Озовъ твоя государева грамота съ нашею Донскою станицаю съ отоманомъ Тимоѳѣемъ Яковлѣвымъ съ товарыщи, а въ твоей государевой грамоте писона къ намъ, холопямъ твоимъ, чтобъ намъ посылать отъ себя изъ Войска въ Большой Ногай къ мурзамъ и къ улуснымъ ихъ людемъ по честу своихъ Донскихъ Тотаръ, ково пригожей, чтобъ они, мурзы, попомнили твою государьскую къ сѣбѣ милость и жалованья, а шли-бъ они за Донъ съ Крымской стороны на Ногайскую сторону по твою государеву высокою руку на старые кочевные места, подъ Астарахань, а на твое бъ царьское жалованье были надежны безо всякого опасенья.
+1	Да	да	CCONJ	_	_	10	advmod	_	_
+2	прошлого	прошлый	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	жъ	же	PART	_	_	2	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	147-го	147-й	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit	10	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	прислона	прислати	VERB	OOV	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+11	къ	къ	ADP	_	_	12	case	_	_
+12	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	10	obl	_	_
+13	на	на	ADP	_	_	14	case	_	_
+14	Донъ	Донъ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
+15	и	и	CCONJ	_	_	17	cc	_	_
+16	въ	въ	ADP	_	_	17	case	_	_
+17	Озовъ	Озовъ	PROPN	OOV	Case=Acc|Gender=Masc|Number=Sing	14	conj	_	_
+18	твоя	твой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	20	det	_	_
+19	государева	государевъ	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	20	amod	_	_
+20	грамота	грамота	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj:pass	_	_
+21	съ	съ	ADP	_	_	24	case	_	_
+22	нашею	нашъ	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Prs	24	det	_	_
+23	Донскою	донской	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
+24	станицаю	станица	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	10	obl	_	_
+25	съ	съ	ADP	_	_	26	case	_	_
+26	отоманомъ	атоманъ	NOUN	OOV	Case=Ins|Gender=Masc|Number=Sing	24	nmod	_	_
+27	Тимоѳѣемъ	Тимофѣй	PROPN	OOV	Case=Ins|Gender=Masc|Number=Sing	26	appos	_	_
+28	Яковлѣвымъ	Яковлѣвъ	PROPN	OOV	Case=Ins|Gender=Masc|Number=Sing	27	flat:name	_	_
+29	съ	съ	ADP	_	_	30	case	_	_
+30	товарыщи	товарищь	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	37	punct	_	_
+32	а	а	CCONJ	_	_	37	cc	_	_
+33	въ	въ	ADP	_	_	36	case	_	_
+34	твоей	твой	DET	OOV	Case=Loc|Gender=Fem|Number=Sing|PronType=Prs	36	det	_	_
+35	государевой	государевъ	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
+36	грамоте	грамота	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	37	obl	_	_
+37	писона	писати	VERB	OOV	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	conj	_	_
+38	къ	къ	ADP	_	_	39	case	_	_
+39	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	37	obl	_	SpaceAfter=No
+40	,	,	PUNCT	_	_	41	punct	_	_
+41	холопямъ	холопъ	NOUN	OOV	Case=Dat|Gender=Masc|Number=Plur	39	appos	_	_
+42	твоимъ	твой	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Prs	41	det	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	46	punct	_	_
+44	чтобъ	чтобъ	SCONJ	_	_	46	mark	_	_
+45	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	46	iobj	_	_
+46	посылать	посылати	VERB	OOV	VerbForm=Inf|Voice=Act	37	ccomp	_	_
+47	отъ	отъ	ADP	_	_	48	case	_	_
+48	себя	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	46	obl	_	_
+49	изъ	изъ	ADP	_	_	50	case	_	_
+50	Войска	войско	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	46	obl	_	_
+51	въ	въ	ADP	_	_	53	case	_	_
+52	Большой	большой	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	53	amod	_	_
+53	Ногай	Ногай	PROPN	OOV	Case=Acc|Gender=Masc|Number=Sing	46	obl	_	_
+54	къ	къ	ADP	_	_	55	case	_	_
+55	мурзамъ	мурза	NOUN	OOV	Case=Dat|Gender=Masc|Number=Plur	46	obl	_	_
+56	и	и	CCONJ	_	_	60	cc	_	_
+57	къ	къ	ADP	_	_	60	case	_	_
+58	улуснымъ	улусный	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	60	amod	_	_
+59	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	60	det	_	_
+60	людемъ	люди	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	55	conj	_	_
+61	по	по	ADP	_	_	62	case	_	_
+62	честу	честъ	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	46	obl	_	_
+63	своихъ	свой	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	65	det	_	_
+64	Донскихъ	донской	ADJ	OOV	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	65	amod	_	_
+65	Тотаръ	татаринъ	NOUN	OOV	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	46	obj	_	SpaceAfter=No
+66	,	,	PUNCT	_	_	68	punct	_	_
+67	ково	кто	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	68	nsubj	_	_
+68	пригожей	пригожий	ADJ	OOV	Degree=Cmp	65	acl:relcl	_	SpaceAfter=No
+69	,	,	PUNCT	_	_	75	punct	_	_
+70	чтобъ	чтобъ	SCONJ	_	_	75	mark	_	_
+71	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	75	nsubj	_	SpaceAfter=No
+72	,	,	PUNCT	_	_	73	punct	_	_
+73	мурзы	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	71	appos	_	SpaceAfter=No
+74	,	,	PUNCT	_	_	73	punct	_	_
+75	попомнили	попомнити	VERB	OOV	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	46	advcl	_	_
+76	твою	твой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	80	det	_	_
+77	государьскую	государский	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	80	amod	_	_
+78	къ	къ	ADP	_	_	79	case	_	_
+79	сѣбѣ	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	80	nmod	_	_
+80	милость	милость	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	75	obj	_	_
+81	и	и	CCONJ	_	_	82	cc	_	_
+82	жалованья	жалованье	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	80	conj	_	SpaceAfter=No
+83	,	,	PUNCT	_	_	85	punct	_	_
+84	а	а	CCONJ	_	_	85	cc	_	_
+85	шли	итти	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	75	conj	_	SpaceAfter=No
+86	-	-	PUNCT	_	_	87	punct	_	SpaceAfter=No
+87	бъ	бъ	AUX	_	Analyt=Yes|Mood=Cnd	85	aux	_	_
+88	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	85	nsubj	_	_
+89	за	за	ADP	_	_	90	case	_	_
+90	Донъ	Донъ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	85	obl	_	_
+91	съ	съ	ADP	_	_	93	case	_	_
+92	Крымской	крымский	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	93	amod	_	_
+93	стороны	сторона	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	85	obl	_	_
+94	на	на	ADP	_	_	96	case	_	_
+95	Ногайскую	нагайский	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	96	amod	_	_
+96	сторону	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	85	obl	_	_
+97	по	по	ADP	_	_	101	case	_	_
+98	твою	твой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	101	det	_	_
+99	государеву	государевъ	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	101	amod	_	_
+100	высокою	высокий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	101	amod	_	_
+101	руку	рука	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	85	obl	_	_
+102	на	на	ADP	_	_	105	case	_	_
+103	старые	старый	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	105	amod	_	_
+104	кочевные	кочевный	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	105	amod	_	_
+105	места	мѣсто	NOUN	OOV	Case=Acc|Gender=Neut|Number=Plur	85	obl	_	SpaceAfter=No
+106	,	,	PUNCT	_	_	108	punct	_	_
+107	подъ	подъ	ADP	_	_	108	case	_	_
+108	Астарахань	Астарахань	PROPN	OOV	Case=Acc|Gender=Fem|Number=Sing	105	nmod	_	SpaceAfter=No
+109	,	,	PUNCT	_	_	117	punct	_	_
+110	а	а	CCONJ	_	_	117	cc	_	_
+111	на	на	ADP	_	_	115	case	_	_
+112	твое	твой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	115	det	_	_
+113	бъ	бъ	AUX	_	Analyt=Yes|Mood=Cnd	117	aux	_	_
+114	царьское	царский	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	115	amod	_	_
+115	жалованье	жалованье	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	117	obl	_	_
+116	были	быти	AUX	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	117	cop	_	_
+117	надежны	надежный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	75	conj	_	_
+118	безо	безъ	ADP	_	_	120	case	_	_
+119	всякого	всякий	DET	OOV	Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	120	det	_	_
+120	опасенья	опасение	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	117	obl	_	SpaceAfter=No
+121	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = RIB_18_64_01-6
+# text = И мы, государь, холопи твои, противъ твоихъ государевыхъ грамотъ къ нимъ, мурзамъ, въ Ногаи отъ себя, отъ Войска, своихъ Тотаръ Донскихъ посылали по честу и кони, войсковыми деньгоми покупаючи, своимъ Тотаромъ довали, каторыхъ въ Ногаи посылали для твоего государева дела, чтобъ {л._2} они, мурзы, обротились къ тебѣ, праведному государю, подъ твою царьскою высокою руку по прежьнѣму въ холопство.
+1	И	и	CCONJ	_	_	29	cc	_	_
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	29	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	холопи	холопъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	appos	_	_
+7	твои	твой	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	6	det	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	противъ	противъ	ADP	_	_	12	case	_	_
+10	твоихъ	твой	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Prs	12	det	_	_
+11	государевыхъ	государевъ	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	12	amod	_	_
+12	грамотъ	грамота	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	29	obl	_	_
+13	къ	къ	ADP	_	_	14	case	_	_
+14	нимъ	они	PRON	_	Case=Dat|Gender=Fem|Number=Plur|Person=3|PronType=Prs	29	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	мурзамъ	мурза	NOUN	OOV	Case=Dat|Gender=Masc|Number=Plur	14	appos	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	въ	въ	ADP	_	_	19	case	_	_
+19	Ногаи	Ногаи	PROPN	OOV	Case=Acc|Gender=Masc|Number=Plur	29	obl	_	_
+20	отъ	отъ	ADP	_	_	21	case	_	_
+21	себя	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	19	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	отъ	отъ	ADP	_	_	24	case	_	_
+24	Войска	войско	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	21	appos	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	27	punct	_	_
+26	своихъ	свой	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	27	det	_	_
+27	Тотаръ	татаринъ	NOUN	OOV	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	29	obj	_	_
+28	Донскихъ	донской	ADJ	OOV	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	27	amod	_	_
+29	посылали	посылати	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
+30	по	по	ADP	_	_	31	case	_	_
+31	честу	честъ	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	29	obl	_	_
+32	и	и	CCONJ	_	_	41	cc	_	_
+33	кони	конь	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	41	obj	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	37	punct	_	_
+35	войсковыми	войсковой	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur	36	amod	_	_
+36	деньгоми	деньга	NOUN	OOV	Case=Ins|Gender=Fem|Number=Plur	37	iobj	_	_
+37	покупаючи	покупати	VERB	OOV	Tense=Pres|VerbForm=Conv|Voice=Act	41	advcl	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	37	punct	_	_
+39	своимъ	свой	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	40	det	_	_
+40	Тотаромъ	татаринъ	NOUN	OOV	Case=Dat|Gender=Masc|Number=Plur	41	iobj	_	_
+41	довали	давати	VERB	OOV	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	29	conj	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	46	punct	_	_
+43	каторыхъ	который	DET	OOV	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	46	obj	_	_
+44	въ	въ	ADP	_	_	45	case	_	_
+45	Ногаи	Ногаи	PROPN	OOV	Case=Acc|Gender=Masc|Number=Plur	46	obl	_	_
+46	посылали	посылати	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	33	acl:relcl	_	_
+47	для	для	ADP	_	_	50	case	_	_
+48	твоего	твой	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Prs	50	det	_	_
+49	государева	государевъ	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	50	amod	_	_
+50	дела	дѣло	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	46	obl	_	SpaceAfter=No
+51	,	,	PUNCT	_	_	58	punct	_	_
+52	чтобъ	чтобъ	SCONJ	_	_	58	mark	_	_
+53	{л._2}	{л._2}	X	OOV	_	58	dep	_	_
+54	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	58	nsubj	_	SpaceAfter=No
+55	,	,	PUNCT	_	_	56	punct	_	_
+56	мурзы	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	54	appos	_	SpaceAfter=No
+57	,	,	PUNCT	_	_	56	punct	_	_
+58	обротились	обротитися	VERB	OOV	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Mid	29	advcl	_	_
+59	къ	къ	ADP	_	_	60	case	_	_
+60	тебѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	58	obl	_	SpaceAfter=No
+61	,	,	PUNCT	_	_	63	punct	_	_
+62	праведному	праведный	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	63	amod	_	_
+63	государю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	60	appos	_	SpaceAfter=No
+64	,	,	PUNCT	_	_	63	punct	_	_
+65	подъ	подъ	ADP	_	_	69	case	_	_
+66	твою	твой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	69	det	_	_
+67	царьскою	царский	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	69	amod	_	_
+68	высокою	высокий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	69	amod	_	_
+69	руку	рука	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	58	obl	_	_
+70	по	по	ADP	_	_	71	case	_	_
+71	прежьнѣму	прежний	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	58	obl	_	_
+72	въ	въ	ADP	_	_	73	case	_	_
+73	холопство	холопство	NOUN	OOV	Case=Acc|Gender=Neut|Number=Sing	58	obl	_	SpaceAfter=No
+74	.	.	PUNCT	_	_	29	punct	_	_
+
+# sent_id = RIB_18_64_01-7
+# text = И въ нынѣшнемъ, государь, во 148-мъ, сентебря въ 28 день, милостию божию и Пречистые Богородицы помощию, а твоимъ государьскимъ счастьемъ, перѣехали изъ Большого Ногаю къ намъ, къ Войску, въ Озовъ мурзы подъ твою государеву высокою руку въ холопство: Кейкуватъ Енмебетъ мурза Тинмотетевъ з женами и з детьми своими и съ людьми; а детей, государь, ево съ нимъ: Емурча мурза, да Янъ мурза, да Иль мурза, да Иръ мурза, да Солтомратъ мурза, да Контемирь мурза, да Агишъ мурза.
+1	И	и	CCONJ	_	_	27	cc	_	_
+2	въ	въ	ADP	_	_	8	case	_	_
+3	нынѣшнемъ	нынѣшний	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	vocative	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	во	въ	ADP	_	_	8	case	_	_
+8	148-мъ	148-й	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit	27	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	сентебря	сентябрь	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+11	въ	въ	ADP	_	_	13	case	_	_
+12	28	28	ADJ	OOV	NumForm=Digit	13	amod	_	_
+13	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	8	punct	_	_
+15	милостию	милость	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	27	obl	_	_
+16	божию	божий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+17	и	и	CCONJ	_	_	20	cc	_	_
+18	Пречистые	пречистый	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	Богородицы	богородица	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+20	помощию	помощь	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	15	conj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	25	punct	_	_
+22	а	а	CCONJ	_	_	25	cc	_	_
+23	твоимъ	твой	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Prs	25	det	_	_
+24	государьскимъ	государский	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	счастьемъ	счастие	NOUN	OOV	Case=Ins|Gender=Neut|Number=Sing	16	conj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	15	punct	_	_
+27	перѣехали	переѣхати	VERB	OOV	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
+28	изъ	изъ	ADP	_	_	30	case	_	_
+29	Большого	большой	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+30	Ногаю	Ногай	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	27	obl	_	_
+31	къ	къ	ADP	_	_	32	case	_	_
+32	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	27	obl	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	35	punct	_	_
+34	къ	къ	ADP	_	_	35	case	_	_
+35	Войску	войско	NOUN	OOV	Case=Dat|Gender=Neut|Number=Sing	32	appos	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	35	punct	_	_
+37	въ	въ	ADP	_	_	38	case	_	_
+38	Озовъ	Озовъ	PROPN	OOV	Case=Acc|Gender=Masc|Number=Sing	27	obl	_	_
+39	мурзы	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	27	nsubj	_	_
+40	подъ	подъ	ADP	_	_	44	case	_	_
+41	твою	твой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	44	det	_	_
+42	государеву	государевъ	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	44	amod	_	_
+43	высокою	высокий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	44	amod	_	_
+44	руку	рука	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	27	obl	_	_
+45	въ	въ	ADP	_	_	46	case	_	_
+46	холопство	холопство	NOUN	OOV	Case=Acc|Gender=Neut|Number=Sing	27	obl	_	SpaceAfter=No
+47	:	:	PUNCT	_	_	48	punct	_	_
+48	Кейкуватъ	Кейкуватъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	39	appos	_	_
+49	Енмебетъ	Енмебетъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	48	flat:name	_	_
+50	мурза	мурза	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	48	appos	_	_
+51	Тинмотетевъ	Тинмотетевъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	48	flat:name	_	_
+52	з	зъ	ADP	_	_	53	case	_	_
+53	женами	жена	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	48	nmod	_	_
+54	и	и	CCONJ	_	_	56	cc	_	_
+55	з	зъ	ADP	_	_	56	case	_	_
+56	детьми	дѣтя	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	53	conj	_	_
+57	своими	свой	DET	_	Case=Ins|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	56	det	_	_
+58	и	и	CCONJ	_	_	60	cc	_	_
+59	съ	съ	ADP	_	_	60	case	_	_
+60	людьми	люди	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	53	conj	_	SpaceAfter=No
+61	;	;	PUNCT	_	_	63	punct	_	_
+62	а	а	CCONJ	_	_	63	cc	_	_
+63	детей	дѣтя	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	27	conj	_	SpaceAfter=No
+64	,	,	PUNCT	_	_	65	punct	_	_
+65	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	63	vocative	_	SpaceAfter=No
+66	,	,	PUNCT	_	_	65	punct	_	_
+67	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	63	det	_	_
+68	съ	съ	ADP	_	_	69	case	_	_
+69	нимъ	онъ	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	63	nmod	_	SpaceAfter=No
+70	:	:	PUNCT	_	_	71	punct	_	_
+71	Емурча	Емурча	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	63	list	_	_
+72	мурза	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	71	appos	_	SpaceAfter=No
+73	,	,	PUNCT	_	_	75	punct	_	_
+74	да	да	CCONJ	_	_	75	cc	_	_
+75	Янъ	Янъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	71	conj	_	_
+76	мурза	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	75	appos	_	SpaceAfter=No
+77	,	,	PUNCT	_	_	79	punct	_	_
+78	да	да	CCONJ	_	_	79	cc	_	_
+79	Иль	Иль	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	71	conj	_	_
+80	мурза	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	79	appos	_	SpaceAfter=No
+81	,	,	PUNCT	_	_	83	punct	_	_
+82	да	да	CCONJ	_	_	83	cc	_	_
+83	Иръ	Иръ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	71	conj	_	_
+84	мурза	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	83	appos	_	SpaceAfter=No
+85	,	,	PUNCT	_	_	87	punct	_	_
+86	да	да	CCONJ	_	_	87	cc	_	_
+87	Солтомратъ	Солтомратъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	71	conj	_	_
+88	мурза	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	87	appos	_	SpaceAfter=No
+89	,	,	PUNCT	_	_	91	punct	_	_
+90	да	да	CCONJ	_	_	91	cc	_	_
+91	Контемирь	Контемирь	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	71	conj	_	_
+92	мурза	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	91	appos	_	SpaceAfter=No
+93	,	,	PUNCT	_	_	95	punct	_	_
+94	да	да	CCONJ	_	_	95	cc	_	_
+95	Агишъ	Агишъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	71	conj	_	_
+96	мурза	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	95	flat:name	_	SpaceAfter=No
+97	.	.	PUNCT	_	_	27	punct	_	_
+
+# sent_id = RIB_18_64_01-8
+# text = Да изъ Большего-жъ, государь, Ногаю пѣрѣехалъ Есинѣй мурза з жоною и з детьми, сынъ Аканбетъ мурза да Урусъ мурза.
+1	Да	да	CCONJ	_	_	10	cc	_	_
+2	изъ	изъ	ADP	_	_	3	case	_	_
+3	Большего	большой	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	SpaceAfter=No
+4	-	-	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	жъ	же	PART	_	_	3	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	vocative	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	Ногаю	Ногай	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	10	obl	_	_
+10	пѣрѣехалъ	переѣхати	VERB	OOV	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
+11	Есинѣй	Есинѣй	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+12	мурза	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	_
+13	з	зъ	ADP	_	_	14	case	_	_
+14	жоною	жена	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	11	nmod	_	_
+15	и	и	CCONJ	_	_	17	cc	_	_
+16	з	зъ	ADP	_	_	17	case	_	_
+17	детьми	дѣтя	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	14	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	сынъ	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
+20	Аканбетъ	Аканбетъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	19	appos	_	_
+21	мурза	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	20	appos	_	_
+22	да	да	CCONJ	_	_	23	cc	_	_
+23	Урусъ	Урусъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	20	conj	_	_
+24	мурза	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	23	appos	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = RIB_18_64_01-8a
+# text = А пришодъ, государь, они, мурзы, къ намъ, къ Войску, въ Озовъ, стали кочевать блиско Азова, а иные мурзы и въ городе живутъ, а кормъ, государь, мы имъ, мурзамъ, даемъ запасъ, деньги на мяса и вина своей братьи Данскихъ козаковъ, збирая сябя, оскудя, для твоего царьского имени, и чтобъ иные мурзы за ними обротились подъ твою государеву высокою руку.
+1	А	а	CCONJ	_	_	19	cc	_	_
+2	пришодъ	приити	VERB	OOV	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	19	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	мурзы	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	6	appos	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	къ	къ	ADP	_	_	11	case	_	_
+11	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	къ	къ	ADP	_	_	14	case	_	_
+14	Войску	войско	NOUN	OOV	Case=Dat|Gender=Neut|Number=Sing	11	appos	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	въ	въ	ADP	_	_	17	case	_	_
+17	Озовъ	Озовъ	PROPN	OOV	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	2	punct	_	_
+19	стали	стати	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
+20	кочевать	кочевати	VERB	OOV	VerbForm=Inf|Voice=Act	19	xcomp	_	_
+21	блиско	близко	ADP	_	_	22	case	_	_
+22	Азова	Азовъ	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	30	punct	_	_
+24	а	а	CCONJ	_	_	30	cc	_	_
+25	иные	иной	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	26	det	_	_
+26	мурзы	мурза	NOUN	OOV	Case=Acc|Gender=Masc|Number=Plur	30	nsubj	_	_
+27	и	и	PART	_	_	29	advmod	_	_
+28	въ	въ	ADP	_	_	29	case	_	_
+29	городе	городъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	30	obl	_	_
+30	живутъ	жити	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	42	punct	_	_
+32	а	а	CCONJ	_	_	42	cc	_	_
+33	кормъ	кормъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	42	obj	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	35	punct	_	_
+35	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	33	vocative	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	35	punct	_	_
+37	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	42	nsubj	_	_
+38	имъ	они	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	42	iobj	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	40	punct	_	_
+40	мурзамъ	мурза	NOUN	OOV	Case=Dat|Gender=Masc|Number=Plur	38	appos	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	40	punct	_	_
+42	даемъ	даяти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	_
+43	запасъ	запасъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	42	obl	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	55	punct	_	_
+45	деньги	деньга	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	55	obj	_	_
+46	на	на	ADP	_	_	47	case	_	_
+47	мяса	мясо	NOUN	OOV	Case=Acc|Gender=Neut|Number=Plur	45	nmod	_	_
+48	и	и	CCONJ	_	_	49	cc	_	_
+49	вина	вино	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	47	conj	_	_
+50	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	51	det	_	_
+51	братьи	братия	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	45	nmod	_	_
+52	Данскихъ	данский	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	53	amod	_	_
+53	козаковъ	казакъ	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	51	appos	_	SpaceAfter=No
+54	,	,	PUNCT	_	_	55	punct	_	_
+55	збирая	сбирати	VERB	OOV	Tense=Pres|VerbForm=Conv|Voice=Act	42	advcl	_	_
+56	сябя	себя	PRON	OOV	Case=Gen|PronType=Prs|Reflex=Yes	55	obl	_	SpaceAfter=No
+57	,	,	PUNCT	_	_	58	punct	_	_
+58	оскудя	оскудити	VERB	OOV	Tense=Pres|VerbForm=Conv|Voice=Act	55	advcl	_	SpaceAfter=No
+59	,	,	PUNCT	_	_	63	punct	_	_
+60	для	для	ADP	_	_	63	case	_	_
+61	твоего	твой	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Prs	63	det	_	_
+62	царьского	царский	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	63	amod	_	_
+63	имени	имѣние	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	42	obl	_	SpaceAfter=No
+64	,	,	PUNCT	_	_	71	punct	_	_
+65	и	и	CCONJ	_	_	71	cc	_	_
+66	чтобъ	чтобъ	SCONJ	_	_	71	mark	_	_
+67	иные	иной	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	68	det	_	_
+68	мурзы	мурза	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	71	nsubj	_	_
+69	за	за	ADP	_	_	70	case	_	_
+70	ними	они	PRON	_	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	71	obl	_	_
+71	обротились	обротитися	VERB	OOV	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Mid	42	advcl	_	_
+72	подъ	подъ	ADP	_	_	76	case	_	_
+73	твою	твой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	76	det	_	_
+74	государеву	государевъ	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	76	amod	_	_
+75	высокою	высокий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	76	amod	_	_
+76	руку	рука	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	71	obl	_	SpaceAfter=No
+77	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = RIB_18_64_01-9
+# text = А се, государь, за ними мурзами улусные люди ихъ з животию ещо не бували, а чаютъ, государь, они, мурзы, за собою своихъ улусныхъ людей вскоре.
+1	А	а	CCONJ	_	_	16	cc	_	_
+2	се	се	PART	_	_	16	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	vocative	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	за	за	ADP	_	_	7	case	_	_
+7	ними	они	PRON	_	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	obl	_	_
+8	мурзами	мурза	NOUN	OOV	Case=Ins|Gender=Masc|Number=Plur	7	appos	_	_
+9	улусные	улусный	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	_
+10	люди	люди	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
+11	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	det	_	_
+12	з	зъ	ADP	_	_	13	case	_	_
+13	животию	животь	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	_
+14	ещо	еще	ADV	_	Degree=Pos	16	advmod	_	_
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	_
+16	бували	бывати	VERB	OOV	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	а	а	CCONJ	_	_	19	cc	_	_
+19	чаютъ	чаяти	VERB	OOV	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	vocative	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	мурзы	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	23	appos	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	25	punct	_	_
+27	за	за	ADP	_	_	28	case	_	_
+28	собою	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	19	obl	_	_
+29	своихъ	свой	DET	_	Case=Gen|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	31	det	_	_
+30	улусныхъ	улусный	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	31	amod	_	_
+31	людей	люди	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	19	obj	_	_
+32	вскоре	вскорѣ	ADV	_	Degree=Pos	19	advmod	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = RIB_18_64_01-10
+# text = Да мы-жъ, государь, холопи твои, ещо къ инымъ мурзамъ въ Большой Ногай послали своихъ Донскихъ Тотаръ мурзъ призывать подъ твою государеву высокою руку, а Енмометъ мурза тожъ послалъ своихъ людей мурзъ перезывать и улусныхъ людей.
+1	Да	да	CCONJ	_	_	18	cc	_	_
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	nsubj	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	жъ	же	PART	_	_	2	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	холопи	холопъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	appos	_	_
+9	твои	твой	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	8	det	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	ещо	еще	ADV	_	Degree=Pos	18	advmod	_	_
+12	къ	къ	ADP	_	_	14	case	_	_
+13	инымъ	иной	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Tot	14	det	_	_
+14	мурзамъ	мурза	NOUN	OOV	Case=Dat|Gender=Masc|Number=Plur	18	obl	_	_
+15	въ	въ	ADP	_	_	17	case	_	_
+16	Большой	большой	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	Ногай	Ногай	PROPN	OOV	Case=Acc|Gender=Masc|Number=Sing	18	obl	_	_
+18	послали	послати	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
+19	своихъ	свой	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	22	det	_	_
+20	Донскихъ	донской	ADJ	OOV	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	21	amod	_	_
+21	Тотаръ	татаринъ	NOUN	OOV	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	18	obj	_	_
+22	мурзъ	мурза	NOUN	OOV	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	23	obj	_	_
+23	призывать	призывати	VERB	OOV	VerbForm=Inf|Voice=Act	18	xcomp	_	_
+24	подъ	подъ	ADP	_	_	28	case	_	_
+25	твою	твой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	28	det	_	_
+26	государеву	государевъ	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	28	amod	_	_
+27	высокою	высокий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	руку	рука	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	23	obl	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	34	punct	_	_
+30	а	а	CCONJ	_	_	34	cc	_	_
+31	Енмометъ	Енмометъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	34	nsubj	_	_
+32	мурза	мурза	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	31	appos	_	_
+33	тожъ	тоже	ADV	_	Degree=Pos	34	advmod	_	_
+34	послалъ	послати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	18	conj	_	_
+35	своихъ	свой	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	36	det	_	_
+36	людей	люди	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	34	obj	_	_
+37	мурзъ	мурза	NOUN	OOV	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	36	appos	_	_
+38	перезывать	перезывати	VERB	OOV	VerbForm=Inf|Voice=Act	34	xcomp	_	_
+39	и	и	CCONJ	_	_	41	cc	_	_
+40	улусныхъ	улусный	ADJ	OOV	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	41	amod	_	_
+41	людей	люди	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	38	obj	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = RIB_18_64_01-11
+# text = А которые, государь, выхотцы выходетъ къ намъ ис Турской земли и изъ Крымьской, и наша братья Донские козаки, которые летось въ неволю попались, а въ роспросе, государь, они намъ розсказываютъ, что подлинна де Турской царь Крымскому царю и всемъ ратнымъ велелъ быть готовымъ и каторгамъ, а итить де ему, царю Крымъскому, укозалъ подъ Озовъ градъ, все ратнымъ людемъ и каторгамъ на весну.
 1	А	а	CCONJ	_	_	37	cc	_	_
 2	которые	который	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	det	_	Norm=который|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	Norm=государь|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	выхотцы	выходецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
-7	выходет	выходити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	acl:relcl	_	_
-8	к	къ	ADP	_	_	9	case	_	_
-9	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	obl	_	_
+7	выходетъ	выходити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	acl:relcl	_	_
+8	къ	къ	ADP	_	_	9	case	_	_
+9	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	obl	_	_
 10	ис	изъ	ADP	_	_	12	case	_	_
 11	Турской	турский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
 12	земли	земля	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	_
 13	и	и	CCONJ	_	_	15	cc	_	_
-14	из	изъ	ADP	_	_	15	case	_	_
+14	изъ	изъ	ADP	_	_	15	case	_	_
 15	Крымьской	крымский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	Norm=крымский|SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	_
 17	и	и	CCONJ	_	_	19	cc	_	_
@@ -21574,19 +22364,19 @@
 22	,	,	PUNCT	_	_	27	punct	_	_
 23	которые	который	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	27	nsubj	_	_
 24	летось	летось	ADV	_	Degree=Pos	27	advmod	_	_
-25	в	въ	ADP	_	_	26	case	_	_
+25	въ	въ	ADP	_	_	26	case	_	_
 26	неволю	неволя	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	27	obl	_	_
 27	попались	попастися	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Mid	21	acl:relcl	_	Norm=попастися|SpaceAfter=No
 28	,	,	PUNCT	_	_	27	punct	_	_
 29	а	а	CCONJ	_	_	37	cc	_	_
-30	в	въ	ADP	_	_	31	case	_	_
+30	въ	въ	ADP	_	_	31	case	_	_
 31	роспросе	роспросъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	27	obl	_	Norm=роспросъ|SpaceAfter=No
 32	,	,	PUNCT	_	_	33	punct	_	_
 33	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	27	vocative	_	Norm=государь|SpaceAfter=No
 34	,	,	PUNCT	_	_	33	punct	_	_
 35	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	37	nsubj	_	_
-36	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	37	iobj	_	_
-37	розсказывают	розсказывати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Norm=розсказывати|SpaceAfter=No
+36	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	37	iobj	_	_
+37	розсказываютъ	розсказывати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Norm=розсказывати|SpaceAfter=No
 38	,	,	PUNCT	_	_	49	punct	_	_
 39	что	что	SCONJ	_	_	49	mark	_	_
 40	подлинна	подлинно	ADV	_	Degree=Pos	49	advmod	_	_
@@ -21596,13 +22386,13 @@
 44	Крымскому	крымский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	45	amod	_	_
 45	царю	царь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	49	iobj	_	_
 46	и	и	CCONJ	_	_	48	cc	_	_
-47	всем	весь	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Tot	48	det	_	_
-48	ратным	ратный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	45	conj	_	_
-49	велел	велѣти	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	37	ccomp	_	_
+47	всемъ	весь	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Tot	48	det	_	_
+48	ратнымъ	ратный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	45	conj	_	_
+49	велелъ	велѣти	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	37	ccomp	_	_
 50	быть	быти	AUX	_	VerbForm=Inf|Voice=Act	51	cop	_	_
-51	готовым	готовый	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	49	xcomp	_	_
+51	готовымъ	готовый	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	49	xcomp	_	_
 52	и	и	CCONJ	_	_	53	cc	_	_
-53	каторгам	каторга	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	45	conj	_	Norm=каторга|SpaceAfter=No
+53	каторгамъ	каторга	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	45	conj	_	Norm=каторга|SpaceAfter=No
 54	,	,	PUNCT	_	_	63	punct	_	_
 55	а	а	CCONJ	_	_	63	cc	_	_
 56	итить	итти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	63	xcomp	_	_
@@ -21612,39 +22402,39 @@
 60	царю	царь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	58	appos	_	_
 61	Крымъскому	крымский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	60	amod	_	Norm=крымский|SpaceAfter=No
 62	,	,	PUNCT	_	_	60	punct	_	_
-63	укозал	укозати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	49	conj	_	_
-64	под	подъ	ADP	_	_	65	case	_	_
-65	Озов	Озовъ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	56	obl	_	_
-66	град	градъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	65	appos	_	Norm=градъ|SpaceAfter=No
+63	укозалъ	укозати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	49	conj	_	_
+64	подъ	подъ	ADP	_	_	65	case	_	_
+65	Озовъ	Озовъ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	56	obl	_	_
+66	градъ	градъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	65	appos	_	Norm=градъ|SpaceAfter=No
 67	,	,	PUNCT	_	_	70	punct	_	_
 68	все	все	ADV	_	Degree=Pos	70	advmod	_	_
-69	ратным	ратный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	70	amod	_	_
-70	людем	люди	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	60	conj	_	_
+69	ратнымъ	ратный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	70	amod	_	_
+70	людемъ	люди	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	60	conj	_	_
 71	и	и	CCONJ	_	_	72	cc	_	_
-72	каторгам	каторга	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	70	conj	_	_
+72	каторгамъ	каторга	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	70	conj	_	_
 73	на	на	ADP	_	_	74	case	_	_
 74	весну	весна	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	56	obl	_	Norm=весна|SpaceAfter=No
 75	.	.	PUNCT	_	_	37	punct	_	_
 
-# sent_id = RIB_18_64_01-2
-# text = А топерь, государь, у нас окола твоего государева Азова города в ыном месте стены оболились, а башни все не покрыты; а город, государь, старой, покрепить, города и башни поновить нам нечем; козны, государь, у нас своей войсковой нету, да и самим, государь, нам к осадному делу, или и не к осадному, тож есть, и носить нечева: всем скудны; акроме Бога и тебя, праведного государя, надежи держать неноково; а что было твое государева жалованья прислана к нам с отоманом Тимофеем Яковлевым хлебные зопасы и деньги, {л._3} и то твое государева жалованья, хлебные зопасы поели, а денежною твоею государевою козною городовую стену заделоли, а дастольное твое государева жалованья деньги по себе роздуванили.
+# sent_id = RIB_18_64_01-12
+# text = А топерь, государь, у насъ окола твоего государева Азова города въ ыномъ месте стены оболялись, а башни все не покрыты; а городъ, государь, старой, покрепить, города и башни покрыть намъ нечемъ; козны, государь, у насъ свой войсковой нету, да и самимъ, государь, намъ къ осадному делу, или и не къ осадному, тожъ есть, и носить нечева: всемъ скудны; акроме Бога и тебя, праведного государя, надежи держать неноково; а что было твое государева жалованья прислана къ намъ съ отоманомъ Тимоѳѣемъ Яковлевымъ хлебные зопасы и деньги, {л._3} и то твое государева жалованья, хлебные зопасы поели, а денежною твоею государевою козною городовую стену заделоли, а дастольное твое государева жалованья деньги по себе роздуванили.
 1	А	а	CCONJ	_	_	17	cc	_	_
 2	топерь	топерь	ADV	_	Degree=Pos	17	advmod	_	Norm=топерь|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	vocative	_	Norm=государь|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	у	у	ADP	_	_	7	case	_	_
-7	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	17	obl	_	_
+7	насъ	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	17	obl	_	_
 8	окола	около	ADP	_	_	11	case	_	_
 9	твоего	твой	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
 10	государева	государевъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	11	amod	_	_
 11	Азова	Азовъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	17	obl	_	_
 12	города	городъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	appos	_	_
-13	в	въ	ADP	_	_	15	case	_	_
-14	ыном	иной	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+13	въ	въ	ADP	_	_	15	case	_	_
+14	ыномъ	иной	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
 15	месте	мѣсто	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	17	obl	_	_
 16	стены	стена	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	17	nsubj	_	_
-17	оболились	оболитися	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Mid	0	root	_	Norm=оболитися|SpaceAfter=No
+17	оболялись	оболитися	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Mid	0	root	_	Norm=оболитися|SpaceAfter=No
 18	,	,	PUNCT	_	_	23	punct	_	_
 19	а	а	CCONJ	_	_	23	cc	_	_
 20	башни	башня	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	23	nsubj:pass	_	_
@@ -21653,7 +22443,7 @@
 23	покрыты	покрыти	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	17	conj	_	Norm=покрыти|SpaceAfter=No
 24	;	;	PUNCT	_	_	30	punct	_	_
 25	а	а	CCONJ	_	_	30	cc	_	_
-26	город	городъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	Norm=городъ|SpaceAfter=No
+26	городъ	городъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	Norm=городъ|SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	_
 28	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	26	vocative	_	Norm=государь|SpaceAfter=No
 29	,	,	PUNCT	_	_	28	punct	_	_
@@ -21664,45 +22454,45 @@
 34	города	городъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	37	obj	_	_
 35	и	и	CCONJ	_	_	36	cc	_	_
 36	башни	башня	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	34	conj	_	_
-37	поновить	поновити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	32	conj	_	_
-38	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	39	iobj	_	_
-39	нечем	нѣчемъ	VERB	_	Case=Ins|Polarity=Neg	30	conj	_	Norm=нѣчемъ|SpaceAfter=No
+37	покрыть	покрыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	32	conj	_	_
+38	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	39	iobj	_	_
+39	нечемъ	нѣчемъ	VERB	_	Case=Ins|Polarity=Neg	30	conj	_	Norm=нѣчемъ|SpaceAfter=No
 40	;	;	PUNCT	_	_	49	punct	_	_
 41	козны	козна	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	49	nsubj	_	Norm=козна|SpaceAfter=No
 42	,	,	PUNCT	_	_	43	punct	_	_
 43	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	41	vocative	_	Norm=государь|SpaceAfter=No
 44	,	,	PUNCT	_	_	43	punct	_	_
 45	у	у	ADP	_	_	46	case	_	_
-46	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	49	obl	_	_
-47	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	41	det	_	_
+46	насъ	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	49	obl	_	_
+47	свой	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Typo=Yes	41	det	_	_
 48	войсковой	войсковой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	_
 49	нету	нѣту	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	Norm=нѣту|SpaceAfter=No
 50	,	,	PUNCT	_	_	73	punct	_	_
 51	да	да	CCONJ	_	_	73	cc	_	_
 52	и	и	CCONJ	_	_	51	fixed	_	_
-53	самим	самъ	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	57	amod	_	Norm=самъ|SpaceAfter=No
+53	самимъ	самъ	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	57	amod	_	Norm=самъ|SpaceAfter=No
 54	,	,	PUNCT	_	_	55	punct	_	_
 55	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	53	vocative	_	Norm=государь|SpaceAfter=No
 56	,	,	PUNCT	_	_	55	punct	_	_
-57	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	73	iobj	_	_
-58	к	къ	ADP	_	_	60	case	_	_
+57	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	73	iobj	_	_
+58	къ	къ	ADP	_	_	60	case	_	_
 59	осадному	осадный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	60	amod	_	_
 60	делу	дѣло	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	73	obl	_	Norm=дѣло|SpaceAfter=No
 61	,	,	PUNCT	_	_	66	punct	_	_
 62	или	или	CCONJ	_	_	66	cc	_	_
 63	и	и	PART	_	_	64	advmod	_	_
 64	не	не	PART	_	Polarity=Neg	66	advmod	_	_
-65	к	къ	ADP	_	_	66	case	_	_
+65	къ	къ	ADP	_	_	66	case	_	_
 66	осадному	осадный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	60	conj	_	Norm=осадный|SpaceAfter=No
 67	,	,	PUNCT	_	_	66	punct	_	_
-68	тож	тожъ	ADV	_	Degree=Pos	69	advmod	_	_
+68	тожъ	тожъ	ADV	_	Degree=Pos	69	advmod	_	_
 69	есть	быти	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	73	csubj	_	Norm=быти|SpaceAfter=No
 70	,	,	PUNCT	_	_	72	punct	_	_
 71	и	и	CCONJ	_	_	72	cc	_	_
 72	носить	носити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	69	conj	_	_
 73	нечева	нѣчего	VERB	_	Aspect=Imp|Case=Gen|Polarity=Neg	17	conj	_	Norm=нѣчего|SpaceAfter=No
 74	:	:	PUNCT	_	_	76	punct	_	_
-75	всем	все	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Tot	76	obl	_	_
+75	всемъ	все	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Tot	76	obl	_	_
 76	скудны	скудный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Variant=Short	73	parataxis	_	Norm=скудный|SpaceAfter=No
 77	;	;	PUNCT	_	_	88	punct	_	_
 78	акроме	акроме	ADP	_	_	79	case	_	_
@@ -21724,12 +22514,12 @@
 94	государева	государевъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes|Variant=Short	95	amod	_	_
 95	жалованья	жалованье	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	96	nsubj:pass	_	_
 96	прислана	прислати	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	110	acl:relcl	_	_
-97	к	къ	ADP	_	_	98	case	_	_
-98	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	96	obl	_	_
-99	с	съ	ADP	_	_	100	case	_	_
-100	отоманом	отоманъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	96	obl	_	_
-101	Тимофеем	Тимофей	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	100	appos	_	_
-102	Яковлевым	Яковлевъ	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	101	flat:name	_	_
+97	къ	къ	ADP	_	_	98	case	_	_
+98	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	96	obl	_	_
+99	съ	съ	ADP	_	_	100	case	_	_
+100	отоманомъ	отоманъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	96	obl	_	_
+101	Тимоѳѣемъ	Тимофей	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	100	appos	_	_
+102	Яковлевымъ	Яковлевъ	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	101	flat:name	_	_
 103	хлебные	хлѣбный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	104	amod	_	_
 104	зопасы	зопасъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	95	appos	_	_
 105	и	и	CCONJ	_	_	106	cc	_	_
@@ -21766,7 +22556,7 @@
 136	роздуванили	роздуванити	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	117	conj	_	Norm=роздуванити|SpaceAfter=No
 137	.	.	PUNCT	_	_	17	punct	_	_
 
-# sent_id = RIB_18_64_01-3
+# sent_id = RIB_18_64_01-13
 # text = Да въ прошлыхъ, государь, годехъ котороя наша братья Донские козаки въ станицахъ выхаживали къ тебѣ, государю, къ Москвѣ, а отпускъ имъ назадъ бувалъ да Воронѣжа на подводахъ, а съ Воронежа на Донъ да Войска въ судехъ, и гребцы твои государевы давоны имъ да Войска на низъ.
 1	Да	да	CCONJ	_	_	15	cc	_	Norm=Да|SpaceAfter=Yes
 2	въ	въ	ADP	_	_	7	case	_	Norm=въ|SpaceAfter=Yes
@@ -21823,7 +22613,7 @@
 53	низъ	низъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	48	obl	_	Norm=низъ|SpaceAfter=No
 54	.	.	PUNCT	_	_	28	punct	_	Norm=.|SpaceAfter=Yes
 
-# sent_id = RIB_18_64_01-4
+# sent_id = RIB_18_64_01-14
 # text = И ныне твой государевъ указь есть, что намъ гребцы довать, да воеводы твои государевы гребцовъ нашей братьи Донскимъ козакомъ, которые выезжаютъ въ станицахъ не даютъ.
 1	И	и	CCONJ	_	_	6	cc	_	Norm=И|SpaceAfter=Yes
 2	ныне	нынѣ	ADV	_	Degree=Pos	6	advmod	_	Norm=ныне|SpaceAfter=Yes
@@ -21855,7 +22645,7 @@
 28	даютъ	давати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	Norm=даютъ|SpaceAfter=No
 29	.	.	PUNCT	_	_	6	punct	_	Norm=.|SpaceAfter=Yes
 
-# sent_id = RIB_18_64_01-5
+# sent_id = RIB_18_64_01-15
 # text = Да сталъ, государь, намъ, холопямъ твоимъ, говорить Енъ Мобетъ мурза, чтобъ ево однова сына отпустить къ тебѣ, государю, къ Москве съ нашею станицаю; и мы, государь, отпустили ево сына Емурчу мурзу къ тебѣ, государю, да Одилъ мурзу да Есиней мурзу Еросланова, а людей, государь съ ними съ тремя мурзами семьнатцать человѣкъ.
 1	Да	да	CCONJ	_	_	2	cc	_	Norm=Да|SpaceAfter=Yes
 2	сталъ	стати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	Norm=сталъ|SpaceAfter=No
@@ -21924,7 +22714,7 @@
 65	человѣкъ	человѣкъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	2	conj	_	Norm=человѣкъ|SpaceAfter=No
 66	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=Yes
 
-# sent_id = RIB_18_64_01-6
+# sent_id = RIB_18_64_01-16
 # text = Да отпустили съ ними, мурзами, станицу своихъ Донскихъ козаковъ: атомана Сидора Алхимова, да есоула Беляя Лукьянова, а съ ними козаки: Михайла Яковлевъ, Корнѣй Ивановъ, Степанъ Григорьевъ, Кирила Стеѳановъ, Родивонъ Григорьевъ, Олексѣя Стеѳанова, Оѳромѣя Семенова, Лукьяна Гологтивонова, Олексѣя Дмитрѣева, Ондрѣя Дмитрѣева, Микулая Совостьянова, Первова Семенова, Ѳому Осипова, Клима Кузьмина, Семена Ѳедорова, Оверю Олексѣва, Тимоѳѣя Яковлева, Івана Обакумова, Корнѣя Яковлѣва, Івана Григорьева, Лукьяна Обрамова, Ѳедора Ондреева, Олексѣя Сидорова, Петра Онтипова, Байтерека Тотарина, Івана Микиѳорова, Тимоѳея Дмитрѣева, Василья Васильева, Ѳилипа Шеломова, Емурлука Тотарина, Ондрѣя Микиѳорова, Бориса Іванова, Чупая Тотарина, Антипа Григорьева, Логвина Семенова, Антона Яковлева, Ѳедора Стеѳанова, Олексѣя Іванова, Купрѣяна Тимоѳѣева, Яшика Тотарина, Екима Дементѣева, Кондратья Ондросова, Михайла Мосеева, Ѳедора Обакумова.
 1	Да	да	CCONJ	_	_	2	cc	_	Norm=Да|SpaceAfter=Yes
 2	отпустили	отпустити	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	Norm=отпустили|SpaceAfter=Yes
@@ -22085,7 +22875,7 @@
 157	Обакумова	Обакумовъ	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	156	flat:name	_	Norm=Обакумова|SpaceAfter=No
 158	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=Yes
 
-# sent_id = RIB_18_64_01-7
+# sent_id = RIB_18_64_01-17
 # text = А потому, государь, многихъ людей отпустилъ для проезду отъ Тотаръ и отъ Литовскихъ людей: поехать малыми людьми невозможна.
 1	А	а	CCONJ	_	_	8	cc	_	Norm=А|SpaceAfter=Yes
 2	потому	потому	ADV	_	Degree=Pos	8	advmod	_	Norm=потому|SpaceAfter=No
@@ -22110,7 +22900,7 @@
 21	невозможна	невозможный	ADJ	AdjType=Predic	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Variant=Short	8	parataxis	_	Norm=невозможна|SpaceAfter=No
 22	.	.	PUNCT	_	_	8	punct	_	Norm=.|SpaceAfter=Yes
 
-# sent_id = RIB_18_64_01-8
+# sent_id = RIB_18_64_01-18
 # text = Да о томъ у тебя, государя, милости просимъ, чтобъ нашей станицы у себя, государя, на Москве не зодержать, отпустить къ намъ въ Озовъ.
 1	Да	да	CCONJ	_	_	10	cc	_	Norm=Да|SpaceAfter=Yes
 2	о	о	ADP	_	_	3	case	_	Norm=о|SpaceAfter=Yes
@@ -22143,7 +22933,7 @@
 29	Озовъ	Озовъ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	25	obl	_	Norm=Озовъ|SpaceAfter=No
 30	.	.	PUNCT	_	_	10	punct	_	Norm=.|SpaceAfter=Yes
 
-# sent_id = RIB_18_64_01-9
+# sent_id = RIB_18_64_01-19
 # text = А отпущена, государь, станица изъ Азова октебря въ 7 день.
 1	А	а	CCONJ	_	_	2	cc	_	Norm=А|SpaceAfter=Yes
 2	отпущена	отпустити	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Norm=отпущена|SpaceAfter=No
@@ -22160,7 +22950,7 @@
 13	.	.	PUNCT	_	_	2	punct	_	Norm=.
 
 # newpar
-# sent_id = RIB_18_64_01-10
+# sent_id = RIB_18_64_01-20
 # text = На л. 1 об.: Государю царю і великому князю Михаилу Ѳедровичю всеа Русии.
 1	На	на	ADP	_	_	2	case	_	Norm=На|NoIndex=Yes|SpaceAfter=Yes
 2	л.	листъ	NOUN	_	Abbr=Yes	0	root	_	Norm=л.|NoIndex=Yes|SpaceAfter=Yes
@@ -22173,12 +22963,12 @@
 9	великому	великий	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	Norm=великому|SpaceAfter=Yes
 10	князю	князь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	conj	_	Norm=князю|SpaceAfter=Yes
 11	Михаилу	Михаилъ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	appos	_	Norm=Михаилу|SpaceAfter=Yes
-12	Ѳедровичю	Ѳедровичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	11	flat:name	_	Norm=Ѳедровичю|SpaceAfter=Yes
+12	Ѳедровичю	Федоровичь	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	11	flat:name	_	Norm=Ѳедровичю|SpaceAfter=Yes
 13	всеа	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	14	det	_	Norm=всеа|SpaceAfter=Yes
 14	Русии	Русия	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	Norm=Русии|SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=Yes
 
-# sent_id = RIB_18_64_01-11
+# sent_id = RIB_18_64_01-21
 # text = 148-го, ноября въ 3 день, з Донскою станицею, съ атаманомъ съ Сидоромъ Олѳимовымъ.
 1	148-го	148-й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit	0	root	_	Norm=148-го|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	Norm=,|SpaceAfter=Yes
