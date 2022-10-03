@@ -12084,7 +12084,7 @@
 21	,	,	PUNCT	_	_	27	punct	_	_
 22	но	но	CCONJ	_	_	27	cc	_	_
 23	вся	весь	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	27	obj	_	_
-24	яже	иже	DET	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_
+24	яже	иже	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	27	nsubj	_	_
 25	во	въ	ADP	_	_	26	case	_	_
 26	гради	градъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	27	obl	_	_
 27	погубити	погубити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	conj	_	_
@@ -22508,7 +22508,7 @@
 88	неноково	нѣнакого	VERB	_	Polarity=Neg	17	conj	_	Norm=нѣнакого|SpaceAfter=No
 89	;	;	PUNCT	_	_	117	punct	_	_
 90	а	а	CCONJ	_	_	117	cc	_	_
-91	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	96	nsubj	_	_
+91	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	95	det	_	_
 92	было	быти	AUX	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	96	cop	_	_
 93	твое	твой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	95	det	_	_
 94	государева	государевъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes|Variant=Short	95	amod	_	_

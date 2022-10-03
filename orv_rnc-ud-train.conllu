@@ -12381,7 +12381,7 @@
 70	мнꙗ	мнѣти	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	73	advcl	_	Norm=мнꙗ
 71	безⸯ	безъ	ADP	_	_	72	case	_	Norm=безъ
 72	похваленій	похваление	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	73	obl	_	Norm=похваленій
-73	оставити	оставити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	68	csubj	_	Norm=оставити|SpaceAfter=No
+73	оставити	оставити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	68	xcomp	_	Norm=оставити|SpaceAfter=No
 74	;	;	PUNCT	_	_	78	punct	_	Norm=;
 75	но	но	CCONJ	_	_	78	cc	_	Norm=но
 76	премного	прѣмного	ADV	_	Degree=Pos	77	advmod	_	Norm=премного
@@ -14246,7 +14246,7 @@
 15	многое	многий	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	16	det	_	Norm=многое
 16	времꙗ	врѣмя	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	Norm=времꙗ
 17	непрв(д)ное	неправедный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	Norm=неправедное
-18	ꙋде(р)жаніе	удержание	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	31	nsubj	_	Norm=ꙋдержаніе
+18	ꙋде(р)жаніе	удержание	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	Norm=ꙋдержаніе
 19	не	не	PART	_	Polarity=Neg	22	advmod	_	Norm=не
 20	токмо	токмо	PART	_	_	19	fixed	_	Norm=токмо
 21	многихъ	многий	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	22	det	_	Norm=многихъ
@@ -14613,7 +14613,7 @@
 56	потщасꙗ	потщитися	VERB	Tense=Aor	Aspect=Perf|Reflex=Yes|Tense=Past|VerbForm=Conv|Voice=Mid	62	advcl	_	Norm=потщасꙗ
 57	превести	превести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	56	xcomp	_	Norm=превести
 58	чрезⸯ	чрезъ	ADP	_	_	59	case	_	Norm=чрезъ
-59	иныхъ	иной	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Tot	57	obl	_	Norm=иныхъ|SpaceAfter=No
+59	иныхъ	иной	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Tot	57	obl	_	Norm=иныхъ|SpaceAfter=No
 60	,	,	PUNCT	_	_	56	punct	_	Norm=,
 61	не	не	PART	_	Polarity=Neg	62	advmod	_	Norm=не
 62	престаетъ	прѣстати	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	conj	_	Norm=престаетъ
