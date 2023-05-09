@@ -10,7 +10,7 @@
     <dev><sentences>482</sentences><tokens>10262</tokens><words>10262</words><fused>0</fused></dev>
     <test><sentences>648</sentences><tokens>20877</tokens><words>20877</words><fused>0</fused></test>
   </size>
-  <lemmas unique="5760" /><!-- ,, и, ., въ, съ, а, на, да, государь, тотъ, онъ, не, у, по, быти -->
+  <lemmas unique="5772" /><!-- ,, и, ., въ, съ, а, на, да, государь, тотъ, онъ, не, у, по, быти -->
   <forms unique="11558" /><!-- ,, и, ., а, в, с, на, да, въ, не, по, у, ;, чети, съ -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -18,7 +18,7 @@
     <tag name="ADJ">4295</tag><!-- великий, государевъ, оржаной, мѣдный, святой, божий, иной, вытный, 178-й, людской -->
     <tag name="ADP">5580</tag><!-- въ, съ, на, у, по, къ, отъ, за, изъ, о -->
     <tag name="ADV">792</tag><!-- всего, нынѣ, тако, какъ, гдѣ, впредъ, здѣ, тогда, еще, всегда -->
-    <tag name="AUX">340</tag><!-- быти, бы, бъ -->
+    <tag name="AUX">341</tag><!-- быти, бы, бъ -->
     <tag name="CCONJ">4037</tag><!-- и, а, да, или, но, ни, же, ино, также, али -->
     <tag name="DET">2059</tag><!-- тотъ, твой, весь, свой, сей, мой, нашъ, всякий, оный, который -->
     <tag name="INTJ">14</tag><!-- о, аминь, оле -->
@@ -30,7 +30,7 @@
     <tag name="PUNCT">7208</tag><!-- ,, ., ;, :, ], [, -, !, ?, — -->
     <tag name="SCONJ">419</tag><!-- что, яко, чтобъ, какъ, егда, аще, ино, чтобы, буде, убо -->
     <tag name="SYM">1</tag><!-- † -->
-    <tag name="VERB">4143</tag><!-- взяти, велѣти, смѣрити, послати, бити, быти, дати, приняти, пожаловати, писати -->
+    <tag name="VERB">4142</tag><!-- взяти, велѣти, смѣрити, послати, бити, быти, дати, приняти, пожаловати, писати -->
     <tag name="X">205</tag><!-- _, sic, </i>, <i>, {л._219}, </em>, <em>, etc., {3_reg_:_10.}, {4_reg_:_11.} -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -51,17 +51,17 @@
     <feat name="Degree" value="Pos" upos="ADJ,ADV,NUM">4739</feat><!-- великого, великому, всего, оржанои, вытным, тако, люцкои, медные, государева, как -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">48</feat><!-- Бл҃гочестивѣйшаго, мꙋжестве(н)нѣйшаго, святейши, Бл҃гочестивѣйшаꙗ, Бл҃гочестивѣйше(м), Бл҃гочестивѣйшіи, Всевысочаⸯшиⸯ, бл҃годатнѣⸯший, бл҃гополꙋчнѣйше, бл҃гочестивѣⸯшаго -->
     <feat name="Foreign" value="Yes" upos="X">1</feat><!-- etc. -->
-    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">6416</feat><!-- чети, гривенок, гривенки, две, муки, Москвѣ, Москве, оржанои, д(е)р(е)вни, земли -->
+    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">6415</feat><!-- чети, гривенок, гривенки, две, муки, Москвѣ, Москве, оржанои, д(е)р(е)вни, земли -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SCONJ,VERB">14108</feat><!-- весу, году, великого, воза, государь, государю, государя, де[нь], день, два -->
-    <feat name="Gender" value="Neut" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">3855</feat><!-- смерено, что, взято, то, принето, челом, велѣно, было, тово, челомъ -->
+    <feat name="Gender" value="Neut" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">3856</feat><!-- смерено, что, взято, то, принето, челом, велѣно, было, тово, челомъ -->
     <feat name="Mood" value="Cnd" upos="AUX,SCONJ,VERB">113</feat><!-- бы, б, чтобъ, было, бъ, чтоб, чтобы, былъ, сбирали, были -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">221</feat><!-- пожалуй, пожалꙋи, буди, вели, пожалуи, смилуйся, походи, возми, здравствꙋи, Возведи -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">1252</feat><!-- есть, будет, бы, бьет, бысть, еси, есте, бьетъ, будутъ, бью -->
     <feat name="NameType" value="Geo" upos="PROPN">163</feat><!-- Кон(ь)кова, Москве, Тел(ь)чеи, Кон(ь)кове, Уткинои, Кан(ь)кова, Брагинои, Москвы, Назаркова, Назаркове -->
     <feat name="NameType" value="Giv" upos="PROPN">494</feat><!-- Ивашки, Ивашка, Янка, Иван, Сидору, Ывашки, Андрюшки, Васки, Гришки, Фомки -->
     <feat name="NameType" value="Pat" upos="PROPN">20</feat><!-- Ил(ь)ич, Ил(ь)ича, Аврамьевич, Аврамьевича, Ильич, Микитин, Костина, Лук(ь)янов, Михаиловича, Ортемьев -->
-    <feat name="NameType" value="Prs" upos="PROPN">18</feat><!-- Колокол(ь)ня, Пана, Половинка, Глухому, Жепленка, Колокол(ь)не, Конюхом, Набуча, Палавинки, Сучки -->
-    <feat name="NameType" value="Sur" upos="PROPN">390</feat><!-- Шуняева, Савел(ь)ев, Федорова, Иванова, Павлова, Борисова, Микитин, Фомин, Жидова, Сидоров -->
+    <feat name="NameType" value="Prs" upos="PROPN">19</feat><!-- Колокол(ь)ня, Пана, Половинка, Глухому, Жепленка, Колокол(ь)не, Конюха, Конюхом, Набуча, Палавинки -->
+    <feat name="NameType" value="Sur" upos="PROPN">389</feat><!-- Шуняева, Савел(ь)ев, Федорова, Иванова, Павлова, Борисова, Микитин, Фомин, Жидова, Сидоров -->
     <feat name="Number" value="Count" upos="ADJ,NOUN">581</feat><!-- чети, гривенки, верха, барана, пучни, оси, лопаты, полтя, стороне, стерляди -->
     <feat name="Number" value="Dual" upos="ADJ,DET,NOUN,NUM,VERB">18</feat><!-- сынома, года, жени, краи, оброку, обѣ, оныꙗ, очеса, полꙋчи(с)те, ранней -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">6790</feat><!-- гривенок, людей, чети, они, баранов, имъ, ихъ, них, куров, денги -->
@@ -112,7 +112,7 @@
     <dep name="advcl">454</dep>
     <dep name="advmod">1685</dep>
     <dep name="amod">3690</dep>
-    <dep name="appos">1494</dep>
+    <dep name="appos">1495</dep>
     <dep name="aux">178</dep>
     <dep name="aux:pass">10</dep>
     <dep name="case">5585</dep>
@@ -120,7 +120,7 @@
     <dep name="ccomp">138</dep>
     <dep name="compound">66</dep>
     <dep name="conj">4132</dep>
-    <dep name="cop">140</dep>
+    <dep name="cop">141</dep>
     <dep name="csubj">50</dep>
     <dep name="dep">194</dep>
     <dep name="det">2026</dep>
@@ -132,12 +132,12 @@
     <dep name="flat">27</dep>
     <dep name="flat:name">1092</dep>
     <dep name="goeswith">1</dep>
-    <dep name="iobj">922</dep>
+    <dep name="iobj">921</dep>
     <dep name="list">3</dep>
     <dep name="mark">409</dep>
-    <dep name="nmod">2508</dep>
-    <dep name="nsubj">1895</dep>
-    <dep name="nsubj:pass">425</dep>
+    <dep name="nmod">2507</dep>
+    <dep name="nsubj">1893</dep>
+    <dep name="nsubj:pass">427</dep>
     <dep name="nummod">219</dep>
     <dep name="nummod:gov">1271</dep>
     <dep name="obj">1631</dep>
