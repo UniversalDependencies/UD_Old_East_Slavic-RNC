@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Old_East_Slavic-RNC:
-commit 0f79f6a9b27ded43144a946dab3d5055f7c67cda
-Merge: 4286707 a99444f
+commit 1671fde2135c7b280bb220a6c0edd93a3c1c63b4
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue May 9 11:39:01 2023 +0200
 Size: counted 48647 of 48647 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.7691802835538.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -29,6 +29,8 @@ Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang orv --max-err=10 UD_Old_East_Slavic-RNC/orv_rnc-ud-test.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang orv --max-err=10 UD_Old_East_Slavic-RNC/orv_rnc-ud-train.conllu
+[Line 14858 Sent xviii-buzhinsky-buzh_slovo01-87 Node 29]: [L3 Warning fixed-gap] Gaps in fixed expression [29, 31] 'но * и'
+Warnings: 1
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
