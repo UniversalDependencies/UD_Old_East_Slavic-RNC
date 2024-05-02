@@ -134,7 +134,7 @@
 9	оприч(ь)	опричь	ADP	_	_	10	case	_	wf="опричь"|_
 10	тово	то	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	wf="тово"|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	wf=","|_
-12	что	что	SCONJ	_	_	13	mark	_	wf="что"|_
+12	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	13	nsubj	_	wf="что"|_
 13	угорела	угорѣти	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	10	acl	_	wf="угорела"|SpaceAfter=No
 14	.	.	PUNCT	_	_	5	punct	_	wf="."|_
 
@@ -178,9 +178,9 @@
 # sent_id = Bezobrazov_1_017-10
 # text = И мяса б свиные, чтоб не по леташнему, лбов и спин к полтям не припущат(ь).
 1	И	и	CCONJ	_	_	2	cc	_	wf="И"|_
-2	мяса	мясо	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	17	nsubj	_	wf="мяса"|_
+2	мяса	мясо	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	17	nsubj	_	wf="мяса"|_
 3	б	бъ	AUX	_	Analyt=Yes|Mood=Cnd	17	aux	_	wf="б"|_
-4	свиные	свиной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	wf="свиные"|SpaceAfter=No
+4	свиные	свиной	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	2	amod	_	wf="свиные"|SpaceAfter=No
 5	,	,	PUNCT	_	_	9	punct	_	wf=","|_
 6	чтоб	чтобъ	SCONJ	_	_	9	mark	_	wf="чтоб"|_
 7	не	не	PART	_	Polarity=Neg	9	advmod	_	wf="не"|_
@@ -463,7 +463,7 @@
 7	кател(ь)ник	котельникъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	wf="кательник"|_
 8	два	два	NUM	_	Case=Acc|Gender=Neut|NumForm=Word|NumType=Card	9	nummod:gov	_	wf="два"|_
 9	ведра	ведро	NOUN	_	Case=Acc|Gender=Neut|Number=Count	5	obj	_	wf="ведра"|_
-10	винных	винный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	9	amod	_	wf="винных"|SpaceAfter=No
+10	винных	винный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	9	amod	_	wf="винных"|SpaceAfter=No
 11	,	,	PUNCT	_	_	16	punct	_	wf=","|_
 12	весу	вѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	16	nsubj	_	wf="весу"|_
 13	в	въ	ADP	_	_	16	case	_	wf="в"|_
@@ -521,7 +521,7 @@
 4	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	wf="меди"|_
 5	у	у	ADP	_	_	6	case	_	wf="у"|_
 6	Сидара	Сидоръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	wf="Сидара"|_
-7	теперва	теперва	ADV	_	Degree=Pos	6	advmod	_	wf="теперва"|_
+7	теперва	теперво	ADV	_	Degree=Pos	6	advmod	_	wf="теперва"|_
 8	10	10	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	9	nummod:gov	_	wf="10"|_
 9	гривенок	гривенка	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	6	nsubj	_	wf="гривенок"|SpaceAfter=No
 10	.	.	PUNCT	_	_	6	punct	_	wf="."|_
@@ -1626,7 +1626,7 @@
 # text = Две братиночки красных с венчиками и с носками.
 1	Две	два	NUM	_	Case=Nom|Gender=Fem|NumForm=Word|NumType=Card	2	nummod:gov	_	wf="Две"|_
 2	братиночки	братиночка	NOUN	_	Case=Nom|Gender=Fem|Number=Count	0	root	_	wf="братиночки"|_
-3	красных	красный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	wf="красных"|_
+3	красных	красный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	wf="красных"|_
 4	с	съ	ADP	_	_	5	case	_	wf="с"|_
 5	венчиками	вѣнчикъ	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	2	nmod	_	wf="венчиками"|_
 6	и	и	CCONJ	_	_	8	cc	_	wf="и"|_
@@ -1737,7 +1737,7 @@
 88	,	,	PUNCT	_	_	93	punct	_	wf=","|_
 89	весу	вѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	93	nsubj	_	wf="весу"|_
 90	в	въ	ADP	_	_	91	case	_	wf="в"|_
-91	неи	она	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	93	obl	_	wf="неи"|_
+91	неи	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	93	obl	_	wf="неи"|_
 92	6	6	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	93	nummod:gov	_	wf="6"|_
 93	гривенок	гривенка	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	85	conj	_	wf="гривенок"|SpaceAfter=No
 94	;	;	PUNCT	_	_	95	punct	_	wf=";"|_
@@ -1792,7 +1792,7 @@
 2	с	съ	ADP	_	_	3	case	_	wf="с"|_
 3	ушми	ухо	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	7	nmod	_	wf="ушми"|_
 4	с	съ	ADP	_	_	3	case	_	wf="с"|_
-5	медными	мѣдный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	3	amod	_	wf="медными"|SpaceAfter=No
+5	медными	мѣдный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur	3	amod	_	wf="медными"|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	wf=","|_
 7	весу	вѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	0	root	_	wf="весу"|_
 8	в	въ	ADP	_	_	9	case	_	wf="в"|_
@@ -1879,7 +1879,7 @@
 2	Противен(ь)	противень	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	0	root	_	wf="Противень"|_
 3	с	съ	ADP	_	_	4	case	_	wf="с"|_
 4	рукояткою	рукоятка	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	2	nmod	_	wf="рукояткою"|_
-5	медною	мѣдный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	wf="медною"|_
+5	медною	мѣдный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	wf="медною"|_
 6	без	безъ	ADP	_	_	7	case	_	wf="без"|_
 7	петли	петля	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	wf="петли"|SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	wf=","|_
@@ -2078,7 +2078,7 @@
 3	Богдашка	Богдашка	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	appos	_	wf="Богдашка"|_
 4	Петров	Петровъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	flat:name	_	wf="Петров"|_
 5	да	да	CCONJ	_	_	6	cc	_	wf="да"|_
-6	Васка	Васка	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	conj	_	wf="Васка"|_
+6	Васка	Васька	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	conj	_	wf="Васка"|_
 7	Михаилов	Михайловъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	6	flat:name	_	wf="Михаилов"|_
 8	пришли	приити	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="пришли"|_
 9	тово	тотъ	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	11	det	_	wf="тово"|_
@@ -2187,8 +2187,8 @@
 8	де[нь]	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nmod	_	wf="день"|_
 9	пришли	приити	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="пришли"|_
 10	роботники	работникъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	wf="роботники"|_
-11	суздал(ь)скои	суздальский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	wf="суздальскои"|_
-12	д(е)р(е)вни	деревня	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	appos	_	wf="деревни"|_
+11	суздал(ь)скои	суздальский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	wf="суздальскои"|_
+12	д(е)р(е)вни	деревня	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	wf="деревни"|_
 13	Сен(ь)ка	Сенька	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	10	appos	_	wf="Сенька"|_
 14	Федоров	Федоровъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	13	flat:name	_	wf="Федоров"|SpaceAfter=No
 15	,	,	PUNCT	_	_	18	punct	_	wf=","|_
@@ -2215,7 +2215,7 @@
 6	тово	тотъ	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	wf="тово"|_
 7	ж	же	PART	_	_	6	advmod	_	wf="ж"|_
 8	числа	число	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	5	obl:tmod	_	wf="числа"|_
-9	володимерскои	володимерский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	wf="володимерскои"|_
+9	володимерскои	володимерский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	wf="володимерскои"|_
 10	Ивашка	Ивашка	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	wf="Ивашка"|_
 11	Федоров	Федоровъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	10	flat:name	_	wf="Федоров"|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	wf=","|_
@@ -2457,7 +2457,7 @@
 # text = Вологодцкиѣ роботники Васка Михаилов да Савка Овтамонов два ч(е)л(о)в(е)ка никулинских, да с ними ж отпущен челобитчик Ивашка Кондрат(ь)ев, да с ними ж отпущен плотник Алешка Павлов с Москвы ноября в 18 де[нь].
 1	Вологодцкиѣ	вологодский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	wf="Вологодцкиѣ"|_
 2	роботники	работникъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	wf="роботники"|_
-3	Васка	Васка	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	appos	_	wf="Васка"|_
+3	Васка	Васька	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	appos	_	wf="Васка"|_
 4	Михаилов	Михайловъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	flat:name	_	wf="Михаилов"|_
 5	да	да	CCONJ	_	_	6	cc	_	wf="да"|_
 6	Савка	Савка	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	conj	_	wf="Савка"|_
@@ -3811,7 +3811,7 @@
 4	взято	взяти	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="взято"|_
 5	кринка	кринка	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	_	wf="кринка"|_
 6	масла	масло	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	wf="масла"|_
-7	коров(ь)я	коровий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	amod	_	wf="коровья"|SpaceAfter=No
+7	коров(ь)я	коровий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	amod	_	wf="коровья"|SpaceAfter=No
 8	,	,	PUNCT	_	_	17	punct	_	wf=","|_
 9	а	а	CCONJ	_	_	17	cc	_	wf="а"|_
 10	весу	вѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	17	nsubj	_	wf="весу"|_
@@ -3839,7 +3839,7 @@
 6	взято	взяти	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="взято"|_
 7	кринка	кринка	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	wf="кринка"|_
 8	масла	масло	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	wf="масла"|_
-9	коров(ь)я	коровий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	amod	_	wf="коровья"|SpaceAfter=No
+9	коров(ь)я	коровий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	amod	_	wf="коровья"|SpaceAfter=No
 10	,	,	PUNCT	_	_	19	punct	_	wf=","|_
 11	а	а	CCONJ	_	_	19	cc	_	wf="а"|_
 12	весу	вѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	19	nsubj	_	wf="весу"|_
@@ -3999,7 +3999,7 @@
 # text = Три сукна марфинских: в дву сукнах по 9 аршин, в трет(ь)ем 10 аршин.
 1	Три	трие	NUM	_	Case=Nom|Gender=Neut|NumForm=Word|NumType=Card	2	nummod:gov	_	wf="Три"|_
 2	сукна	сукно	NOUN	_	Case=Nom|Gender=Neut|Number=Count	0	root	_	wf="сукна"|_
-3	марфинских	марфинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	wf="марфинских"|SpaceAfter=No
+3	марфинских	марфинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	2	amod	_	wf="марфинских"|SpaceAfter=No
 4	:	:	PUNCT	_	_	7	punct	_	wf=":"|_
 5	в	въ	ADP	_	_	7	case	_	wf="в"|_
 6	дву	два	NUM	_	Case=Loc|Gender=Fem|NumForm=Word|NumType=Card	7	nummod	_	wf="дву"|_
@@ -5393,7 +5393,7 @@
 2	деловова	дѣловой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	wf="деловова"|_
 3	ч(е)л(о)в(е)ка	человѣкъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	wf="человека"|_
 4	у	у	ADP	_	_	5	case	_	wf="у"|_
-5	Васки	Васка	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	3	appos	_	wf="Васки"|_
+5	Васки	Васька	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	3	appos	_	wf="Васки"|_
 6	Шуняева	Шуняевъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	5	flat:name	_	wf="Шуняева"|_
 7	смерена	смѣрити	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="смерена"|_
 8	с	съ	ADP	_	_	9	case	_	wf="с"|_
@@ -5734,7 +5734,7 @@
 3	смерено	смѣрити	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="смерено"|_
 4	с	съ	ADP	_	_	5	case	_	wf="с"|_
 5	воза	возъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	wf="воза"|_
-6	гр[е]чихи	гречиха	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	amod	_	wf="гречихи"|_
+6	гр[е]чихи	гречиха	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	wf="гречихи"|_
 7	семь	семь	NUM	_	Case=Nom|NumForm=Word|NumType=Card	8	nummod:gov	_	wf="семь"|_
 8	осмин	осмина	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	3	nsubj:pass	_	wf="осмин"|_
 9	под	подъ	ADP	_	_	10	case	_	wf="под"|_
@@ -6023,7 +6023,7 @@
 # text = {л._205}У Васки у Пана принето четыреста яиц да 10 куров битых; у Сапрошки Шуняева принето четыреста яиц, да 10 куров битых, да 5 сыров, да 10 куров живых; у Янки Шуняева принето четыреста яицы да 10 куров битых; у Федулки Шуняева принето четыреста яиц, да 10 куров битых, да 4 сыра,{л._206} а донят(ь) да 10 куров живых; у Андрюшки Борисова принето четыреста яиц, да 10 куров битых, да пят(ь) сыров, да 9 куров живых; у Ермака Михаилова принето четыреста яиц, да 12 куров битых, да 5 сыров, да 8 куров живых; у Тихона у Павлова принето четыреста яиц да 20 куров битых; у Евсютки Ворохобина 17 куров битых.
 1	{л._205}	_	X	_	_	6	dep	_	wf="{л._205}"|before:<i>|after:</i>|NoIndex=Yes|SpaceAfter=No
 2	У	у	ADP	_	_	3	case	_	wf="У"|_
-3	Васки	Васка	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	6	obl	_	wf="Васки"|_
+3	Васки	Васька	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	6	obl	_	wf="Васки"|_
 4	у	у	ADP	_	_	5	case	_	wf="у"|_
 5	Пана	Панъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	3	flat:name	_	wf="Пана"|_
 6	принето	приняти	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="принето"|_
@@ -6195,7 +6195,7 @@
 # sent_id = Bezobrazov_1_034-22
 # text = У Васки Пана принето два холста посконных, а мерою в них в обеих 30 аршин; у Андрюшки Борисова принето два холста посконных, а мерою в них в обеих 29 аршин; у Тихона Павлова принето два холста посконных, а мерою в них в обеих 30 аршин; у Янки Шуняева принето холст алленои, а мерою в нем 20 аршин;{л._209} у Евсютки Ворохобина принето два холста посконн[ых], а мерою в них в обеих 29 аршин; у Сапрошки Шуняева взято холст алленои 19 арш[ин] и тот холст отдан Сен(ь)ке дьячку; у Федулки Шуняева взял холст алленои Федо[р] Ильич, а мерою был 20 аршин.
 1	У	у	ADP	_	_	2	case	_	wf="У"|_
-2	Васки	Васка	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	4	obl	_	wf="Васки"|_
+2	Васки	Васька	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	4	obl	_	wf="Васки"|_
 3	Пана	Панъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Prs|Number=Sing	2	flat:name	_	wf="Пана"|_
 4	принето	приняти	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="принето"|_
 5	два	два	NUM	_	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card	6	nummod:gov	_	wf="два"|_
@@ -6419,7 +6419,7 @@
 15	,	,	PUNCT	_	_	23	punct	_	wf=","|_
 16	да	да	CCONJ	_	_	23	cc	_	wf="да"|_
 17	у	у	ADP	_	_	18	case	_	wf="у"|_
-18	Васки	Васка	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	23	obl	_	wf="Васки"|_
+18	Васки	Васька	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	23	obl	_	wf="Васки"|_
 19	у	у	ADP	_	_	20	case	_	wf="у"|_
 20	Пана	Панъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	18	flat:name	_	wf="Пана"|_
 21	масла	масло	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	23	nsubj:pass	_	wf="масла"|_
@@ -6923,7 +6923,7 @@
 32	;	;	PUNCT	_	_	36	punct	_	wf=";"|_
 33	да	да	CCONJ	_	_	36	cc	_	wf="да"|_
 34	круп	крупа	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	36	nmod	_	wf="круп"|_
-35	гречишных	гречишный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	34	amod	_	wf="гречишных"|_
+35	гречишных	гречишный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	34	amod	_	wf="гречишных"|_
 36	четвериков	четверикъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	conj	_	wf="четвериков"|_
 37	с	съ	ADP	_	_	38	case	_	wf="с"|_
 38	пят(ь)	пять	NUM	_	Case=Acc|NumForm=Word|NumType=Card	36	nummod:gov	_	wf="пять"|_
@@ -7803,7 +7803,7 @@
 1	Д(е)р(е)вни	деревня	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	wf="Деревни"|_
 2	Тулок	Тулки	PROPN	_	Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	1	appos	_	wf="Тулок"|_
 3	у	у	ADP	_	_	4	case	_	wf="у"|_
-4	Васки	Васка	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	9	obl	_	wf="Васки"|_
+4	Васки	Васька	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	9	obl	_	wf="Васки"|_
 5	Аристова	Аристовъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	4	flat:name	_	wf="Аристова"|_
 6	у	у	ADP	_	_	8	case	_	wf="у"|_
 7	Левкина	левкинъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	amod	_	wf="Левкина"|_
@@ -7872,7 +7872,7 @@
 6	смерено	смѣрити	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="смерено"|_
 7	за	за	ADP	_	_	6	dep	_	wf="за"|_
 8	семени	сѣмя	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	wf="семени"|_
-9	коноплянова	конопляный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	wf="коноплянова"|_
+9	коноплянова	конопляный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	wf="коноплянова"|_
 10	чети	четь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	nsubj:pass	_	wf="чети"|SpaceAfter=No
 11	.	.	PUNCT	_	_	6	punct	_	wf="."|_
 
@@ -8166,7 +8166,7 @@
 1	Д(е)р(е)вни	деревня	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	wf="Деревни"|_
 2	Брагинои	Брагина	PROPN	_	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	1	appos	_	wf="Брагинои"|_
 3	у	у	ADP	_	_	4	case	_	wf="у"|_
-4	Васки	Васка	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	6	obl	_	wf="Васки"|_
+4	Васки	Васька	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	6	obl	_	wf="Васки"|_
 5	Бачарова	Бачаровъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	4	flat:name	_	wf="Бачарова"|_
 6	принето	приняти	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="принето"|_
 7	с	съ	ADP	_	_	8	case	_	wf="с"|_
@@ -8637,7 +8637,7 @@
 5	с	съ	ADP	_	_	6	case	_	wf="с"|_
 6	воза	возъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	wf="воза"|_
 7	солоду	солодъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	wf="солоду"|_
-8	оржанова	оржаной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	wf="оржанова"|_
+8	оржанова	оржаной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	wf="оржанова"|_
 9	чети	четь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	4	nsubj:pass	_	wf="чети"|SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	wf=","|_
 11	да	да	CCONJ	_	_	12	mark	_	wf="да"|_
@@ -9835,8 +9835,8 @@
 1	Да	да	CCONJ	_	_	2	cc	_	wf="Да"|_
 2	катка	кадка	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="катка"|_
 3	масла	масло	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	wf="масла"|_
-4	коров(ь)я	коровий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	amod	_	wf="коровья"|_
-5	уткинская	уткинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	wf="уткинская"|SpaceAfter=No
+4	коров(ь)я	коровий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	amod	_	wf="коровья"|_
+5	уткинская	уткинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	wf="уткинская"|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	wf=","|_
 7	а	а	CCONJ	_	_	8	cc	_	wf="а"|_
 8	весу	вѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	conj	_	wf="весу"|_
@@ -10897,7 +10897,7 @@
 # sent_id = Bezobrazov_1_046-136
 # text = У Васки Бачарова взято с шестухи два полтя, весу в них пят(ь)десят гривенок, и с вытным, да осос, весу 4 гривенки.
 1	У	у	ADP	_	_	2	case	_	wf="У"|_
-2	Васки	Васка	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	4	obl	_	wf="Васки"|_
+2	Васки	Васька	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	4	obl	_	wf="Васки"|_
 3	Бачарова	Бачаровъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	_	wf="Бачарова"|_
 4	взято	взяти	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="взято"|_
 5	с	съ	ADP	_	_	6	case	_	wf="с"|_
@@ -11445,7 +11445,7 @@
 # text = {л._287}С Васки Журавленка взято с полуосмухи полот(ь), весу в нем 35 гривенок и с вытным.
 1	{л._287}	_	X	_	_	3	dep	_	wf="{л._287}"|before:<i>|after:</i>|NoIndex=Yes|SpaceAfter=No
 2	С	съ	ADP	_	_	3	case	_	wf="С"|_
-3	Васки	Васка	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	5	obl	_	wf="Васки"|_
+3	Васки	Васька	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	5	obl	_	wf="Васки"|_
 4	Журавленка	Журавленокъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	3	flat:name	_	wf="Журавленка"|_
 5	взято	взяти	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="взято"|_
 6	с	съ	ADP	_	_	7	case	_	wf="с"|_
@@ -12041,7 +12041,7 @@
 30	кручины	кручина	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	27	conj	_	wf="кручины"|Decl=1a|End=ы|_
 31	ни	ни	CCONJ	_	Polarity=Neg	33	cc	_	wf="ни"|_|_
 32	на	на	ADP	_	_	33	case	_	wf="на"|_|_
-33	ког[о]	кой	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	35	obl	_	wf="кого"|Decl=X|End=ого|_
+33	ког[о]	кто	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	35	obl	_	wf="кого"|Decl=X|End=ого|_
 34	не	не	PART	_	Polarity=Neg	35	advmod	_	wf="не"|_|_
 35	держиш[ь]	держати	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	wf="держишь"|Decl=X|End=ьши|SpaceAfter=No
 36	,	,	PUNCT	_	_	66	punct	_	wf=","|_|_
@@ -12050,7 +12050,7 @@
 39	на	на	ADP	_	_	41	case	_	wf="на"|_|_
 40	сем	сей	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	41	det	_	wf="сем"|Decl=X|End=ме|_
 41	свете	свѣтъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	66	obl	_	wf="свете"|Decl=2|End=е|_
-42	мужеской	мужской	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	43	amod	_	wf="мужеской"|Decl=X|End=йо|_
+42	мужеской	мужеский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	43	amod	_	wf="мужеской"|Decl=X|End=йо|_
 43	пол	полъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	66	nsubj	_	wf="пол"|Decl=2|End=0|_
 44	и	и	CCONJ	_	_	45	cc	_	wf="и"|_|_
 45	женской	женский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	42	conj	_	wf="женской"|Decl=X|End=йо|SpaceAfter=No
@@ -12478,7 +12478,7 @@
 2	яз	азъ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	wf="яз"|Decl=X|End=0|_
 3	пречистыа	пречистый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	wf="пречистыа"|Decl=X|End=аы|_
 4	Богородици	богородица	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	wf="Богородици"|Decl=1a|End=и|_
-5	Кузьмина	кузьминъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	amod	_	wf="Кузьмина"|Decl=X|End=а|_
+5	Кузьмина	кузьминъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	amod	_	wf="Кузьмина"|Decl=X|End=а|_
 6	монастыря	монастырь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	wf="монастыря"|Decl=2|End=я|_
 7	игумен	игуменъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	wf="игумен"|Decl=2|End=0|_
 8	Протасей	Протасей	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	appos	_	wf="Протасей"|Decl=2e|End=йе|_
@@ -12544,8 +12544,8 @@
 68	Новегороде	Новгородъ	PROPN	_	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	65	obl	_	wf="Новегороде"|Decl=2|End=е|SpaceAfter=No
 69	,	,	PUNCT	_	_	70	punct	_	wf=","|_|_
 70	половину	половина	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	64	appos	_	wf="половину"|Decl=1a|End=у|_
-71	Чирятова	Чирятово	PROPN	_	Case=Gen|Gender=Neut|NameType=Geo|Number=Sing	72	amod	_	wf="Чирятова"|Decl=Poss|End=а|_
-72	озера	озеро	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	70	nmod	_	wf="озера"|Decl=2|End=а|_
+71	Чирятова	Чирятово	PROPN	_	Case=Gen|Gender=Neut|NameType=Geo|Number=Sing	70	nmod	_	wf="Чирятова"|Decl=Poss|End=а|_
+72	озера	озеро	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	71	appos	_	wf="озера"|Decl=2|End=а|_
 73	на	на	ADP	_	_	74	case	_	wf="на"|_|_
 74	реце	рѣка	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	70	nmod	_	wf="реце"|Decl=1a|End=е|_
 75	на	на	ADP	_	_	76	case	_	wf="на"|_|_
@@ -12707,7 +12707,7 @@
 13	7000	7000	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	14	compound	_	wf="7000"|Decl=ANUM|End=_|_
 14	осмаго	осмой	ADJ	ANUM	Case=Gen|Gender=Neut|Number=Sing|NumForm=Word|NumType=Ord	12	amod	_	upos="ANUM"|wf="осмаго"|Decl=ANUM|End=ога|_
 15	февраля	февраль	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	wf="февраля"|Decl=2|End=я|_
-16	20	20	ADJ	ANUM	Case=Acc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	15	amod	_	wf="20"|Decl=ANUM|End=_|SpaceAfter=No
+16	20	20	ADJ	ANUM	Case=Acc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	15	flat	_	wf="20"|Decl=ANUM|End=_|SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	_	wf="."|_|_
 
 # newpar
@@ -12917,7 +12917,7 @@
 7	старец	старецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	wf="старец"|Decl=2|End=0|SpaceAfter=No
 8	,	,	PUNCT	_	_	6	punct	_	wf=","|_|_
 9	в	въ	ADP	_	_	11	case	_	wf="в"|_|_
-10	Якушово	якушевъ	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	amod	_	wf="Якушово"|Decl=X|End=о|_
+10	Якушово	якушовъ	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	amod	_	wf="Якушово"|Decl=X|End=о|_
 11	место	мѣсто	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	24	obl	_	wf="место"|Decl=2|End=о|_
 12	посельского	посельский	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	wf="посельского"|Decl=X|End=ого|SpaceAfter=No
 13	,	,	PUNCT	_	_	11	punct	_	wf=","|_|_
@@ -12992,7 +12992,7 @@
 82	,	,	PUNCT	_	_	83	punct	_	wf=","|_|_
 83	господине	господинъ	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	88	vocative	_	wf="господине"|Decl=2|End=е|SpaceAfter=No
 84	,	,	PUNCT	_	_	83	punct	_	wf=","|_|_
-85	Якушова	якушевъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	86	amod	_	wf="Якушова"|Decl=Poss|End=а|_
+85	Якушова	якушовъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	86	amod	_	wf="Якушова"|Decl=Poss|End=а|_
 86	срочнаа	срочная	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	88	nsubj	_	wf="срочнаа"|Decl=X|End=аа|_
 87	перед	передъ	ADP	_	_	88	case	_	wf="перед"|_|_
 88	тобою	ты	PRON	_	Case=Ins|Number=Sing|Person=2|PronType=Prs	24	conj	_	wf="тобою"|Decl=X|End=юо|SpaceAfter=No
@@ -13011,7 +13011,7 @@
 8	,	,	PUNCT	_	_	5	punct	_	wf=","|_|_
 9	дал	дати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="дал"|Decl=X|End=л|_
 10	в	въ	ADP	_	_	12	case	_	wf="в"|_|_
-11	Якушово	якушевъ	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	12	amod	_	wf="Якушово"|Decl=X|End=о|_
+11	Якушово	якушовъ	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	12	amod	_	wf="Якушово"|Decl=X|End=о|_
 12	место	мѣсто	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	wf="место"|Decl=2|End=о|_
 13	посельского	посельский	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	wf="посельского"|Decl=X|End=ого|_
 14	митрополичя	митрополичий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	13	amod	_	wf="митрополичя"|Decl=Poss|End=я|_
@@ -13514,7 +13514,7 @@
 3	с	съ	ADP	_	_	5	case	_	wf="с"|_|_
 4	государевы	государевъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	5	amod	_	wf="государевы"|Decl=X|End=ы|_
 5	грамоты	грамота	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	wf="грамоты"|Decl=1a|End=ы|_
-6	слово	слово	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	acl	_	wf="слово"|Decl=s|End=о|_
+6	слово	слово	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nmod	_	wf="слово"|Decl=s|End=о|_
 7	в	въ	ADP	_	_	8	case	_	wf="в"|_|_
 8	слово	слово	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	nmod	_	wf="слово"|Decl=s|End=о|_
 
@@ -13624,7 +13624,7 @@
 64	,	,	PUNCT	_	_	66	punct	_	wf=","|_|_
 65	и	и	CCONJ	_	_	66	cc	_	wf="и"|_|_
 66	сукна	сукно	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	48	conj	_	wf="сукна"|Decl=2|End=а|_
-67	черные	черный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	66	amod	_	wf="черные"|Decl=X|End=еы|_
+67	черные	черный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	66	amod	_	wf="черные"|Decl=X|End=еы|_
 68	и	и	CCONJ	_	_	69	cc	_	wf="и"|_|_
 69	сермяжные	сермяжный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	67	conj	_	wf="сермяжные"|Decl=X|End=еы|SpaceAfter=No
 70	,	,	PUNCT	_	_	72	punct	_	wf=","|_|_
@@ -14006,7 +14006,7 @@
 4	городе	городъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	12	obl	_	wf="городе"|Decl=2|End=е|_
 5	пречистые	пречистый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	wf="пречистые"|Decl=X|End=еы|_
 6	богородицы	богородица	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	wf="богородицы"|Decl=1a|End=ы|_
-7	Иосифова	иосифовъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	amod	_	wf="Иосифова"|Decl=X|End=а|_
+7	Иосифова	иосифовъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	amod	_	wf="Иосифова"|Decl=X|End=а|_
 8	монастыря	монастырь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	wf="монастыря"|Decl=2|End=я|_
 9	старцы	старецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	wf="старцы"|Decl=2|End=ы|_
 10	и	и	CCONJ	_	_	11	cc	_	wf="и"|_|_
@@ -14040,7 +14040,7 @@
 38	,	,	PUNCT	_	_	40	punct	_	wf=","|_|_
 39	и	и	CCONJ	_	_	40	cc	_	wf="и"|_|_
 40	сукна	сукно	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	21	conj	_	wf="сукна"|Decl=2|End=а|_
-41	черные	черный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	40	amod	_	wf="черные"|Decl=X|End=еы|_
+41	черные	черный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	40	amod	_	wf="черные"|Decl=X|End=еы|_
 42	и	и	CCONJ	_	_	43	cc	_	wf="и"|_|_
 43	сермяжные	сермяжный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	41	conj	_	wf="сермяжные"|Decl=X|End=еы|SpaceAfter=No
 44	,	,	PUNCT	_	_	46	punct	_	wf=","|_|_
@@ -14054,7 +14054,7 @@
 52	{л._2}	_	X	_	_	105	dep	_	wf="{л._2}"|_|NoIndex=Yes|_
 53	и	и	CCONJ	_	_	105	cc	_	wf="и"|_|_
 54	намесницы	намѣстникъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	105	nsubj	_	wf="намесницы"|Decl=2|End=ы|_
-55	наши	нашъ	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	54	det	_	wf="наши"|Decl=X|End=и|SpaceAfter=No
+55	наши	нашъ	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	54	det	_	wf="наши"|Decl=X|End=и|SpaceAfter=No
 56	,	,	PUNCT	_	_	58	punct	_	wf=","|_|_
 57	и	и	CCONJ	_	_	58	cc	_	wf="и"|_|_
 58	волостели	волостель	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	54	conj	_	wf="волостели"|Decl=2|End=и|SpaceAfter=No
@@ -14160,7 +14160,7 @@
 44	и	и	CCONJ	_	_	45	cc	_	wf="и"|_|_
 45	мытчики	мытчикъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	41	conj	_	wf="мытчики"|Decl=2|End=и|_
 46	наши	нашъ	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	45	det	_	wf="наши"|Decl=X|End=и|_
-47	таможенные	таможенный	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	45	amod	_	wf="таможенные"|Decl=X|End=еы|_
+47	таможенные	таможенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	45	amod	_	wf="таможенные"|Decl=X|End=еы|_
 48	и	и	CCONJ	_	_	50	cc	_	wf="и"|_|_
 49	всякие	всякий	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	50	det	_	wf="всякие"|Decl=X|End=еи|_
 50	пошлины	пошлина	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	53	obj	_	wf="пошлины"|Decl=1a|End=ы|_
@@ -14277,7 +14277,7 @@
 92	розводы	разводъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	97	obl	_	wf="розводы"|Decl=2|End=ы|_
 93	ни	ни	CCONJ	_	Polarity=Neg	95	cc	_	wf="ни"|_|_
 94	в	въ	ADP	_	_	95	case	_	wf="в"|_|_
-95	какия	какой	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Int	92	det	_	wf="какия"|Decl=X|End=яи|_
+95	какия	какой	DET	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Int	92	det	_	wf="какия"|Decl=X|End=яи|_
 96	не	не	PART	_	Polarity=Neg	97	advmod	_	wf="не"|_|_
 97	емлют	имати	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	84	conj	_	wf="емлют"|Decl=X|End=тю|SpaceAfter=No
 98	,	,	PUNCT	_	_	111	punct	_	wf=","|_|_
@@ -14471,7 +14471,7 @@
 1	Печять	печать	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	wf="Печять"|Decl=2|End=ь0|_
 2	у	у	ADP	_	_	3	case	_	wf="у"|_|_
 3	грамоты	грамота	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	0	root	_	wf="грамоты"|Decl=1a|End=ы|_
-4	государева	государевъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	1	amod	_	wf="государева"|Decl=X|End=а|_
+4	государева	государевъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	3	amod	_	wf="государева"|Decl=X|End=а|_
 5	красная	красный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	wf="красная"|Decl=X|End=яа|_
 6	на	на	ADP	_	_	8	case	_	wf="на"|_|_
 7	оба	оба	NUM	_	Case=Acc|Gender=Neut|NumForm=Word|NumType=Sets	8	nummod:gov	_	wf="оба"|Decl=X|End=а|_
@@ -14498,7 +14498,7 @@
 5	с	съ	ADP	_	_	7	case	_	wf="с"|_|_
 6	государевы	государевъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	7	amod	_	wf="государевы"|Decl=X|End=ы|_
 7	подписи	подпись	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	wf="подписи"|Decl=3|End=и|_
-8	слово	слово	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	acl	_	wf="слово"|Decl=s|End=о|_
+8	слово	слово	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nmod	_	wf="слово"|Decl=s|End=о|_
 9	в	въ	ADP	_	_	10	case	_	wf="в"|_|_
 10	слово	слово	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	nmod	_	wf="слово"|Decl=s|End=о|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	wf="."|_|_
@@ -14868,7 +14868,7 @@
 1	Список	списокъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	wf="Список"|Decl=2|End=0|_
 2	з	съ	ADP	_	_	3	case	_	wf="з"|_|_
 3	грамоты	грамота	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	wf="грамоты"|Decl=1a|End=ы|_
-4	слово	слово	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	acl	_	wf="слово"|Decl=s|End=о|_
+4	слово	слово	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	nmod	_	wf="слово"|Decl=s|End=о|_
 5	в	въ	ADP	_	_	6	case	_	wf="в"|_|_
 6	слово	слово	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	wf="слово"|Decl=s|End=о|SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	wf="."|_|_
@@ -15040,7 +15040,7 @@
 # text = {л._31} Лета 7154-го ноября в 30 день.
 1	{л._31}	_	X	_	_	2	dep	_	_
 2	Лета	лѣто	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	0	root	_	_
-3	7154-го	7154-й	ADJ	_	Case=Gen|Gender=Masc|Number=Sing|NumForm=Combi|NumType=Ord	2	amod	_	upos="ANUM"
+3	7154-го	7154-й	ADJ	_	Case=Gen|Gender=Neut|Number=Sing|NumForm=Combi|NumType=Ord	2	amod	_	upos="ANUM"
 4	ноября	ноябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
 5	в	въ	ADP	_	_	7	case	_	_
 6	30	30	ADJ	_	Case=Acc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	7	amod	_	upos="ANUM"
@@ -15562,7 +15562,7 @@
 
 # sent_id = apd__Akty_pistsovogo_dela_03-14
 # text = Васки Суморокова на жеребью умолочено ржи 12 чети с осминою.
-1	Васки	Васка	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	6	nmod	_	_
+1	Васки	Васька	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	6	nmod	_	_
 2	Суморокова	Сумороковъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	1	flat:name	_	_
 3	на	на	ADP	_	_	4	case	_	_
 4	жеребью	жеребей	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
@@ -15995,7 +15995,7 @@
 13	с	съ	ADP	_	_	15	case	_	_
 14	Пронькинского	пронькинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
 15	жеребья	жеребей	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
-16	Степанова	Степаново	PROPN	_	Case=Gen|Gender=Neut|NameType=Geo|Number=Sing	14	flat:name	_	_
+16	Степанова	Степаново	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	14	flat:name	_	_
 17	умолочено	умолотити	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	conj	_	_
 18	ржи	рожь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
 19	три	трие	NUM	_	Case=Nom|Gender=Fem|NumForm=Word|NumType=Card	20	nummod:gov	_	_
@@ -16762,7 +16762,7 @@
 12	Ивановы	ивановъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	13	amod	_	_
 13	жены	жена	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	appos	_	_
 14	Васильевича	Васильевичь	PROPN	_	Case=Gen|Gender=Masc|NameType=Pat|Number=Sing	12	flat:name	_	_
-15	Галическаго	галичский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	flat:name	_	SpaceAfter=No
+15	Галическаго	галический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	flat:name	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	2	punct	_	_
 
 # newdoc_id = gramoty_akty_14_16__78_akty_XIV_XVI
@@ -16808,7 +16808,7 @@
 18	отца	отецъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	_
 19	душе	душа	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
 20	по	по	ADP	_	_	21	case	_	_
-21	Евсевьеве	евсевьевъ	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	19	amod	_	SpaceAfter=No
+21	Евсевьеве	евсевьевъ	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	19	amod	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	25	punct	_	_
 23	и	и	CCONJ	_	_	25	cc	_	_
 24	по	по	ADP	_	_	25	case	_	_
@@ -16828,25 +16828,25 @@
 38	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	39	det	_	_
 39	душе	душа	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	19	conj	_	SpaceAfter=No
 40	,	,	PUNCT	_	_	19	punct	_	_
-41	Филиповское	Филипповское	PROPN	_	Case=Acc|Gender=Neut|NameType=Geo|Number=Sing	42	amod	_	_
-42	селище	селище	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	appos	_	SpaceAfter=No
+41	Филиповское	Филипповское	PROPN	_	Case=Acc|Gender=Neut|NameType=Geo|Number=Sing	10	appos	_	_
+42	селище	селище	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	41	appos	_	SpaceAfter=No
 43	,	,	PUNCT	_	_	44	punct	_	_
-44	Стнастниково	Стнастниково	PROPN	_	Case=Acc|Gender=Neut|NameType=Geo|Number=Sing	42	conj	_	SpaceAfter=No
+44	Стнастниково	Стнастниково	PROPN	_	Case=Acc|Gender=Neut|NameType=Geo|Number=Sing	41	conj	_	SpaceAfter=No
 45	,	,	PUNCT	_	_	46	punct	_	_
-46	Утылцево	Утыльцево	PROPN	_	Case=Acc|Gender=Neut|NameType=Geo|Number=Sing	42	conj	_	SpaceAfter=No
+46	Утылцево	Утыльцево	PROPN	_	Case=Acc|Gender=Neut|NameType=Geo|Number=Sing	41	conj	_	SpaceAfter=No
 47	,	,	PUNCT	_	_	48	punct	_	_
-48	Кувшиново	Кувшиново	PROPN	_	Case=Acc|Gender=Neut|NameType=Geo|Number=Sing	42	conj	_	SpaceAfter=No
+48	Кувшиново	Кувшиново	PROPN	_	Case=Acc|Gender=Neut|NameType=Geo|Number=Sing	41	conj	_	SpaceAfter=No
 49	,	,	PUNCT	_	_	55	punct	_	_
 50	и	и	CCONJ	_	_	55	cc	_	_
 51	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	55	nsubj	_	_
 52	к	къ	ADP	_	_	54	case	_	_
 53	тем	тотъ	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Dem	54	det	_	_
 54	пустошем	пустошь	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	55	obl	_	_
-55	потягло	потягнути	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	42	conj	_	SpaceAfter=No
+55	потягло	потягнути	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	41	conj	_	SpaceAfter=No
 56	,	,	PUNCT	_	_	59	punct	_	_
 57	куде	кудѣ	ADV	_	Degree=Pos|PronType=Rel	59	advmod	_	upos="ADVPRO"|_
 58	топор	топоръ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	59	nsubj	_	_
-59	ходил	ходити	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	55	advcl	_	SpaceAfter=No
+59	ходил	ходити	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	55	conj	_	SpaceAfter=No
 60	,	,	PUNCT	_	_	63	punct	_	_
 61	куде	кудѣ	ADV	_	Degree=Pos|PronType=Rel	63	advmod	_	upos="ADVPRO"|_
 62	соха	соха	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	63	nsubj	_	_
@@ -17052,9 +17052,9 @@
 33	хто	кто	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	35	nsubj	_	_
 34	будет	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	35	cop	_	_
 35	поселской	посельский	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	27	conj	_	_
-36	в	въ	ADP	_	_	38	case	_	_
-37	Тимофеевском	Тимофѣевское	PROPN	_	Case=Loc|Gender=Neut|NameType=Geo|Number=Sing	38	amod	_	_
-38	селе	село	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	35	obl	_	SpaceAfter=No
+36	в	въ	ADP	_	_	37	case	_	_
+37	Тимофеевском	Тимофѣевское	PROPN	_	Case=Loc|Gender=Neut|NameType=Geo|Number=Sing	35	obl	_	_
+38	селе	село	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	37	appos	_	SpaceAfter=No
 39	,	,	PUNCT	_	_	35	punct	_	_
 40	и	и	CCONJ	_	_	44	cc	_	_
 41	великая	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	42	amod	_	_
@@ -17064,7 +17064,7 @@
 45	ся	ся	PRON	_	Analyt=Yes|PronType=Prs|Reflex=Yes	46	expl:pv	_	_
 46	вступати	вступати	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	44	xcomp	_	_
 47	в	въ	ADP	_	_	49	case	_	_
-48	Кузминскую	кузминский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	49	amod	_	_
+48	Кузминскую	кузьминский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	49	amod	_	_
 49	пустошь	пустошь	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	46	obl	_	SpaceAfter=No
 50	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -17723,7 +17723,7 @@
 3	же	же	PART	_	_	2	advmod	_	_
 4	де	де	PART	_	_	13	discourse	_	_
 5	подъячей	подьячий	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
-6	Васка	Васка	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	appos	_	_
+6	Васка	Васька	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	appos	_	_
 7	Степановъ	Степановъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	6	flat:name	_	_
 8	на	на	ADP	_	_	9	case	_	_
 9	Кунгурѣ	Кунгуръ	PROPN	_	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	13	obl	_	_
@@ -17811,9 +17811,9 @@
 53	о	о	ADP	_	_	57	case	_	_
 54	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	57	det	_	_
 55	жъ	же	PART	_	_	54	advmod	_	_
-56	Ивановѣ	ивановъ	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	54	amod	_	_
+56	Ивановѣ	ивановъ	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	54	appos	_	_
 57	дѣлѣ	дѣло	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	43	nmod	_	_
-58	Шавкунова	Шавкуново	PROPN	_	Case=Gen|Gender=Neut|NameType=Geo|Number=Sing	56	flat:name	_	SpaceAfter=No
+58	Шавкунова	Шавкуново	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	56	flat:name	_	SpaceAfter=No
 59	;	;	PUNCT	_	_	64	punct	_	_
 60	а	а	CCONJ	_	_	64	cc	_	_
 61	въ	въ	ADP	_	_	62	case	_	_
@@ -17836,7 +17836,7 @@
 78	Ивановѣ	ивановъ	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	80	amod	_	_
 79	де	де	PART	_	_	85	discourse	_	_
 80	дѣлѣ	дѣло	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	85	obl	_	_
-81	Шавкунова	Шавкуново	PROPN	_	Case=Gen|Gender=Neut|NameType=Geo|Number=Sing	78	flat:name	_	_
+81	Шавкунова	Шавкуново	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	78	flat:name	_	_
 82	онъ	онъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	85	nsubj:pass	_	_
 83	Ларка	Ларька	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	82	appos	_	_
 84	не	не	PART	_	Polarity=Neg	85	advmod	_	_
@@ -18701,7 +18701,7 @@
 15	:	:	PUNCT	_	_	25	punct	_	_
 16	въ	въ	ADP	_	_	21	case	_	_
 17	прошломъ	прошлый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
-18	де	де	PART	_	_	17	advmod	_	_
+18	де	де	PART	_	_	17	discourse	_	_
 19	во	въ	ADP	_	_	20	case	_	_
 20	144	144	ADJ	_	Case=Loc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	21	amod	_	upos="ANUM"
 21	году	годъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	25	obl:tmod	_	_
@@ -18838,7 +18838,7 @@
 54	и	и	CCONJ	_	_	67	cc	_	_
 55	съ	съ	ADP	_	_	58	case	_	_
 56	того	тотъ	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	58	det	_	_
-57	де	де	PART	_	_	56	advmod	_	_
+57	де	де	PART	_	_	56	discourse	_	_
 58	Ужина	Ужинъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	67	obl	_	_
 59	тѣхъ	тотъ	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	62	det	_	_
 60	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	62	det	_	_
@@ -19333,7 +19333,7 @@
 32	по	по	ADP	_	_	33	case	_	_
 33	сукну	сукно	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	30	conj	_	_
 34	по	по	ADP	_	_	35	case	_	_
-35	доброму	добрый	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
+35	доброму	добрый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	_
 36	человѣку	человѣкъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	30	nmod	_	SpaceAfter=No
 37	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -19841,7 +19841,7 @@
 13	з	съ	ADP	_	_	14	case	_	_
 14	Дону	Донъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	8	obl	_	_
 15	съ	съ	ADP	_	_	16	case	_	_
-16	тѣмъ	то	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	SpaceAfter=No
+16	тѣмъ	то	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	20	punct	_	_
 18	что	что	SCONJ	_	_	20	mark	_	_
 19	Азовъ	Азовъ	PROPN	_	Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	20	obj	_	_
@@ -19858,9 +19858,9 @@
 30	казаковъ	казакъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	29	nmod	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	36	punct	_	_
 32	і	и	CCONJ	_	_	36	cc	_	_
-33	въ	въ	ADP	_	_	35	case	_	_
-34	томъ	тотъ	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	35	det	_	_
-35	числѣ	число	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	36	obl	_	_
+33	въ	въ	ADP	_	_	36	obl	_	_
+34	томъ	тотъ	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	33	fixed	_	_
+35	числѣ	число	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	33	fixed	_	_
 36	написанъ	написати	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	conj	_	_
 37	ясауломъ	ясаулъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	36	xcomp	_	_
 38	Ѳедотъ	Федотъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	36	nsubj:pass	_	_
@@ -19890,11 +19890,11 @@
 10	Потапу	Потапъ	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	9	appos	_	_
 11	Петрову	Петровъ	PROPN	_	Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	10	flat:name	_	_
 12	камка	камка	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	_
-13	куфтеръ	куфтерь	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	appos	_	SpaceAfter=No
+13	куфтеръ	куфтерь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	appos	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	сукно	сукно	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	conj	_	_
 16	лундышъ	лундышъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	appos	_	_
-17	доброе	добрый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	SpaceAfter=No
+17	доброе	добрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	21	punct	_	_
 19	денегъ	деньга	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	_
 20	12	12	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	21	nummod:gov	_	_
@@ -20205,7 +20205,7 @@
 23	к	къ	ADP	_	_	25	case	_	_
 24	диздар	диздаръ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	25	compound	_	_
 25	Сеферю	Сеферь	PROPN	_	Case=Dat|Gender=Masc|NameType=Oth|Number=Sing	18	obl	_	_
-26	мишкиных	мишкинъ	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	25	amod	_	_
+26	мишкиных	мишкинъ	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	27	amod	_	_
 27	казаков	казакъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	18	obj	_	_
 28	трех	трие	NUM	_	Animacy=Anim|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card	29	nummod:gov	_	_
 29	человек	человѣкъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	27	nmod	_	SpaceAfter=No
@@ -20746,7 +20746,7 @@
 114	;	;	PUNCT	_	_	118	punct	_	_
 115	да	да	CCONJ	_	_	118	cc	_	_
 116	о	о	ADP	_	_	118	case	_	_
-117	резанских	рязанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	118	amod	_	_
+117	резанских	резанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	118	amod	_	_
 118	козакех	казакъ	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	16	conj	_	_
 119	о	о	ADP	_	_	120	case	_	_
 120	Колмаке	Колмакъ	PROPN	_	Case=Loc|Gender=Masc|NameType=Giv|Number=Sing	118	appos	_	_
@@ -20823,7 +20823,7 @@
 # text = А про астороханской деи поход все ведал в Азове, Микитою зовут, Мамин.
 1	А	а	CCONJ	_	_	7	cc	_	_
 2	про	про	ADP	_	_	5	case	_	_
-3	астороханской	астраханский	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+3	астороханской	астороханский	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
 4	деи	деи	PART	_	_	7	discourse	_	_
 5	поход	походъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
 6	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	obj	_	_
@@ -20943,7 +20943,7 @@
 12	ему	онъ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj	_	_
 13	сказывал	сказывати	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
 14	про	про	ADP	_	_	16	case	_	_
-15	астороханской	астраханский	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+15	астороханской	астороханский	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
 16	поход	походъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
 17	:	:	PUNCT	_	_	19	punct	_	_
 18	«	«	PUNCT	_	_	19	punct	_	SpaceAfter=No
@@ -21018,7 +21018,7 @@
 11	государя	государь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
 12	своего	свой	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	11	det	_	_
 13	вперед	впередъ	ADV	_	Degree=Pos	16	advmod	_	_
-14	сюды	сюды	ADV	_	Degree=Pos	16	advmod	_	_
+14	сюды	сюды	ADV	_	Degree=Pos|PronType=Dem	16	advmod	_	_
 15	не	не	PART	_	Polarity=Neg	16	advmod	_	_
 16	чаем	чаяти	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
 17	на	на	ADP	_	_	20	case	_	_
@@ -21208,7 +21208,7 @@
 13	пошел	пойти	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	1	advcl	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	_
 15	про	про	ADP	_	_	17	case	_	_
-16	астороханский	астраханский	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+16	астороханский	астороханский	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
 17	поход	походъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
 18	:	:	PUNCT	_	_	23	punct	_	_
 19	«	«	PUNCT	_	_	23	punct	_	SpaceAfter=No
@@ -21247,7 +21247,7 @@
 52	Кирей	Кирѣй	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	48	appos	_	_
 53	калга	калга	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	52	appos	_	SpaceAfter=No
 54	,	,	PUNCT	_	_	56	punct	_	_
-55	другой	другой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	56	amod	_	_
+55	другой	другой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	56	det	_	_
 56	Алди-Гирей	Алды-Гирѣй	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	52	conj	_	SpaceAfter=No
 57	,	,	PUNCT	_	_	59	punct	_	_
 58	третей	третий	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	59	amod	_	upos="ANUM"
@@ -21425,7 +21425,7 @@
 # text = А шли деи половину дни; и стали ся у них волоки и колеса портити; и турские люди наряд, и подкоп, и суды, и казну, и запас, назад отворотили к Азову с капыдоном, которому наряд и запас судовой приказан, потому что было им нелзе перекопи делати и судов провадити.
 1	А	а	CCONJ	_	_	2	cc	_	_
 2	шли	итти	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
-3	деи	деи	PART	_	_	5	case	_	_
+3	деи	деи	PART	_	_	5	discourse	_	_
 4	половину	половина	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl:tmod	_	_
 5	дни	день	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 6	;	;	PUNCT	_	_	8	punct	_	_
@@ -21532,7 +21532,7 @@
 24	к	къ	ADP	_	_	25	case	_	_
 25	Азову	Азовъ	PROPN	_	Case=Dat|Gender=Masc|NameType=Geo|Number=Sing	23	obl	_	_
 26	пушки	пушка	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	23	obj	_	_
-27	немногие	немногий	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	26	amod	_	_
+27	немногие	немногий	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	26	det	_	_
 28	полковые	полковой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	26	amod	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	11	punct	_	_
 
@@ -21721,7 +21721,7 @@
 # text = И турским деи людем был изрон великой: и лошедьми обмерли, а мерли деи турки з голоду и с нужи.
 1	И	и	CCONJ	_	_	6	cc	_	_
 2	турским	турский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
-3	деи	деи	PART	_	_	4	nmod	_	_
+3	деи	деи	PART	_	_	6	discourse	_	_
 4	людем	человѣкъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	iobj	_	_
 5	был	быти	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	6	cop	_	_
 6	изрон	изронъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
@@ -21733,7 +21733,7 @@
 12	,	,	PUNCT	_	_	14	punct	_	_
 13	а	а	CCONJ	_	_	14	cc	_	_
 14	мерли	мерети	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	11	conj	_	_
-15	деи	деи	PART	_	_	16	nmod	_	_
+15	деи	деи	PART	_	_	14	discourse	_	_
 16	турки	турокъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	_
 17	з	съ	ADP	_	_	18	case	_	_
 18	голоду	голодъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	14	obl	_	_
@@ -21792,7 +21792,7 @@
 # sent_id = statspis__Stat_spisok_Novosiltseva-52
 # text = Крымским деи тотаром потому изрон был невеликой, кое у них были лошади добры, а кормилися сами коньми же, которые мерли под турскими людьми.
 1	Крымским	крымский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
-2	деи	деи	PART	_	_	5	nmod	_	_
+2	деи	деи	PART	_	_	5	discourse	_	_
 3	тотаром	татаринъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	5	iobj	_	_
 4	потому	потому	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	upos="ADVPRO"|_
 5	изрон	изронъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
@@ -21837,7 +21837,7 @@
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	сказывают	сказывати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	parataxis:discourse	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	15	punct	_	_
-17	многие	многий	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	13	det	_	_
+17	многие	многий	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	13	det	_	_
 18	с	съ	ADP	_	_	19	case	_	_
 19	нужи	нужа	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	20	obl	_	_
 20	померли	померети	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
@@ -21858,7 +21858,7 @@
 7	писали	писати	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
 8	х	къ	ADP	_	_	9	case	_	_
 9	Касыму	Касымъ	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	7	obl	_	_
-10	астороханский	астраханский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+10	астороханский	астороханский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
 11	Семен	Семенъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	SpaceAfter=No
 12	-	-	PUNCT	_	_	13	punct	_	SpaceAfter=No
 13	мурза	мурза	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	_
@@ -21883,7 +21883,7 @@
 1	И	и	CCONJ	_	_	11	cc	_	_
 2	те	тотъ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	_
 3	татарове	татаринъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
-4	астороханские	астраханский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	amod	_	_
+4	астороханские	астороханский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	amod	_	_
 5	и	и	CCONJ	_	_	7	cc	_	_
 6	з	съ	ADP	_	_	7	case	_	_
 7	женами	жена	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	3	nmod	_	_
@@ -22246,7 +22246,7 @@
 12	Микифоров	Микифоровъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	11	flat:name	_	wf="Микифоров"|Decl=Poss|End=0|[G]
 13	и	и	CCONJ	_	_	14	cc	_	_
 14	старцы	старецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	conj	_	wf="старцы"|Decl=2|End=ы
-15	соборные	сборный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	14	amod	_	wf="соборные"|Decl=X|End=еы
+15	соборные	соборный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	14	amod	_	wf="соборные"|Decl=X|End=еы
 16	приговорили	приговорити	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="приговорили"|Decl=X|End=ил
 17	на	на	ADP	_	_	18	case	_	_
 18	соборе	соборъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
@@ -22477,7 +22477,7 @@
 23	,	,	PUNCT	_	_	25	punct	_	_
 24	да	да	CCONJ	_	_	25	cc	_	_
 25	сапоги	сапогъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	conj	_	wf="сапоги"|Decl=2|End=и
-26	новые	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	25	amod	_	wf="новые"|Decl=X|End=еы
+26	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	25	amod	_	wf="новые"|Decl=X|End=еы
 27	на	на	ADP	_	_	28	case	_	_
 28	год	годъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	7	punct	_	_
@@ -22530,7 +22530,7 @@
 # text = В Вологоцких писцовых книгах князя Ивана Мещерского да подьячего Федора Стогова 135 и 136 году в Ызосимском сороку двор Ивана да Петра, да Андрея Строгановых в длину пятьдесят три сажени, поперег тритцать три сажени.
 1	В	въ	ADP	_	_	4	case	_	_
 2	Вологоцких	вологодский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	wf="Вологоцких"|Decl=X|End=хи
-3	писцовых	писцовъ	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	wf="писцовых"|Decl=X|End=хы
+3	писцовых	писцовый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	wf="писцовых"|Decl=X|End=хы
 4	книгах	книга	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	31	obl	_	wf="книгах"|Decl=1a|End=ха
 5	князя	князь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	wf="князя"|Decl=2|End=я
 6	Ивана	Иванъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	5	appos	_	wf="Ивана"|Decl=2|End=а|[G]
@@ -23107,7 +23107,7 @@
 6	,	,	PUNCT	_	_	11	punct	_	_
 7	от	отъ	ADP	_	_	8	case	_	_
 8	Рождества	рождество	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	wf="Рождества"|Decl=2|End=а
-9	Христова	христовъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	amod	_	wf="Христова"|Decl=X|End=а
+9	Христова	христовъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	amod	_	wf="Христова"|Decl=X|End=а
 10	1697	1697	ADJ	_	Case=Gen|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	11	amod	_	upos="ANUM"|wf="1697"|Decl=ANUM|End=_
 11	году	годъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	conj	_	wf="году"|Decl=2|End=у
 12	генваря	генварь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	wf="генваря"|Decl=2|End=я
@@ -23702,7 +23702,7 @@
 6	изменники	измѣнникъ	NOUN	_	Case=Nom|Gender=Masc|Number=Count	1	appos	_	_
 7	и	и	CCONJ	_	_	8	cc	_	_
 8	спальники	спальникъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	conj	_	_
-9	царевы	царевъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Variant=Short	8	amod	_	SpaceAfter=No
+9	царевы	царевъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	8	amod	_	SpaceAfter=No
 10	</em>	</em>	X	_	_	6	dep	_	NoIndex=Yes
 
 # newpar
@@ -23879,7 +23879,7 @@
 # newpar
 # sent_id = drama__Drama_1_1-44
 # text = О великий царю, пред ним же християнство припадает,великий же и княже, иже выю гордаго варвара попирает!
-1	О	о	INTJ	_	_	3	case	_	_
+1	О	о	INTJ	_	_	3	discourse	_	_
 2	великий	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
 3	царю	царь	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	9	punct	_	_
@@ -24005,7 +24005,7 @@
 16	прейдет	преити	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	6	punct	_	_
 18	и	и	CCONJ	_	_	23	cc	_	_
-19	тогда	тогда	ADV	_	Degree=Pos	23	advmod	_	_
+19	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	23	advmod	_	_
 20	слава	слава	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	_
 21	твоя	твой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	det	_	_
 22	безсмертна	бессмертный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	20	amod	_	_
@@ -24294,7 +24294,7 @@
 105	богатство	богатство	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	103	conj	_	_
 106	и	и	CCONJ	_	_	107	cc	_	_
 107	славу	слава	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	103	conj	_	_
-108	смиренный	смиренный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	110	amod	_	_
+108	смиренный	смиреный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	110	amod	_	_
 109	приемлет	прияти	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	90	conj	_	_
 110	Мардохей	Мардохей	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	109	nsubj	_	SpaceAfter=No
 111	.	.	PUNCT	_	_	8	punct	_	_
@@ -24444,7 +24444,7 @@
 18	како	како	ADV	_	Degree=Pos|PronType=Rel	24	advmod	_	upos="ADVPRO"
 19	Есфирь	Есфирь	PROPN	_	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	24	nsubj	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	_
-21	смиренно	смиренный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	22	advmod	_	_
+21	смиренно	смиреный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	22	advmod	_	_
 22	предстоя	предстояти	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	24	advcl	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	22	punct	_	_
 24	припадает	припадати	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	SpaceAfter=No
@@ -24481,7 +24481,7 @@
 10	,	,	PUNCT	_	_	6	punct	_	_
 11	обаче	обаче	ADV	_	Degree=Pos	16	advmod	_	_
 12	милосердием	милосердие	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	16	iobj	_	_
-13	своим	свой	DET	_	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	_
+13	своим	свой	DET	_	Case=Ins|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	_
 14	недостатки	недостатокъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	16	obj	_	_
 15	наши	нашъ	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	14	det	_	_
 16	презри	презрѣти	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
@@ -24511,7 +24511,7 @@
 19	аще	аще	SCONJ	_	_	22	mark	_	_
 20	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	22	nsubj	_	_
 21	и	и	CCONJ	_	_	22	advmod	_	_
-22	несовершенно	несвершенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	27	advcl	_	SpaceAfter=No
+22	несовершенно	несовершенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	27	advcl	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	27	punct	_	_
 24	но	но	CCONJ	_	_	27	cc	_	_
 25	милостию	милость	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	27	iobj	_	_
@@ -24541,12 +24541,12 @@
 17	добре	добрѣ	ADV	_	Degree=Pos	18	advmod	_	_
 18	угодити	угодити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	10	punct	_	_
-20	тогда	тогда	ADV	_	Degree=Pos	27	advmod	_	_
+20	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	27	advmod	_	_
 21	не	не	PART	_	Polarity=Neg	23	advmod	_	_
 22	на	на	ADP	_	_	23	case	_	_
 23	Персию	Персия	PROPN	_	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	27	obl	_	_
 24	лучь	лучь	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	27	obj	_	_
-25	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	24	det	_	_
+25	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	26	det	_	_
 26	милосердиа	милосердие	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
 27	послеши	послати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	38	punct	_	_
@@ -24630,7 +24630,7 @@
 # text = А еже исповедь твою ко мнѣ, яко ко единому презвитеру, исчитаеши по ряду, сего аз недостоин, яко простый человѣкъ, в военномъ чину сущъ, и краемъ уха послушати, а наипаче же многими и безщисленными грѣхи обтяхченъ.
 1	А	а	CCONJ	_	_	19	cc	_	_
 2	еже	еже	SCONJ	_	_	13	mark	_	_
-3	исповедь	исповѣдь	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	obj	_	_
+3	исповедь	исповѣдь	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
 4	твою	твой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	_
 5	ко	къ	ADP	_	_	6	case	_	_
 6	мнѣ	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	nmod	_	SpaceAfter=No
@@ -24675,9 +24675,9 @@
 # sent_id = BDRL__BLDR-11_05-4
 # text = А всяко, воистинну достойно было бырадоватися и зѣло веселитися не токмо мнѣ, нѣкогда рабу твоему вѣрну бывшу, но и всѣмъ царемъ и народомъ християнскимъ, аще бы твое было истинное, в Ветхомъ, яко Монасиино, покояние, ибо глаголютъ его по кровопийствах и неправдах покаявшася и в законе Господне живуща аже до смерти кротко и праведно, и никогоже, а ни мало к тому обидѣвша, в Новомъ же, яко Закхеино прехвалное покояние и возвращение четверосугубное изообиженнымъ от него.
 1	А	а	CCONJ	_	_	5	cc	_	_
-2	всяко	всяко	ADV	_	Degree=Pos	5	advmod	_	SpaceAfter=No
+2	всяко	всяко	ADV	_	Degree=Pos|PronType=Tot	5	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
-4	воистинну	воистинну	ADV	_	Degree=Pos	5	advmod	_	_
+4	воистинну	воистину	ADV	_	Degree=Pos	5	advmod	_	_
 5	достойно	достойно	ADJ	_	Degree=Pos	0	root	_	upos="PRAEDIC"
 6	было	быти	AUX	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	5	cop	_	_
 7	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	5	aux	_	SpaceAfter=No
@@ -24835,7 +24835,7 @@
 37	же	же	PART	_	_	36	advmod	_	_
 38	в	въ	ADP	_	_	39	case	_	_
 39	землях	земля	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	30	nmod	_	_
-40	твоих	твой	DET	_	Case=Gen|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	39	det	_	_
+40	твоих	твой	DET	_	Case=Gen|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	41	det	_	_
 41	супостатов	супостатъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	39	nmod	_	SpaceAfter=No
 42	,	,	PUNCT	_	_	46	punct	_	_
 43	идѣже	идѣже	ADV	_	Degree=Pos|PronType=Rel	46	advmod	_	upos="ADVPRO"|_
@@ -25001,7 +25001,7 @@
 83	яко	яко	SCONJ	_	_	88	mark	_	_
 84	во	въ	ADP	_	_	85	case	_	_
 85	епистолии	епистолия	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	88	obl	_	_
-86	твоего	твой	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	85	det	_	_
+86	твоего	твой	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	87	det	_	_
 87	величества	величество	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	85	nmod	_	_
 88	зрится	зрѣтися	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	25	acl	_	SpaceAfter=No
 89	,	,	PUNCT	_	_	96	punct	_	_
@@ -25192,7 +25192,7 @@
 7	прелукавых	прелукавый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	5	conj	_	_
 8	маньяков	маньякъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	obl:agent	_	_
 9	твоих	твой	DET	_	Case=Gen|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det	_	_
-10	сшитая	сшити	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	SpaceAfter=No
+10	сшитая	сшити	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	и	и	PART	_	_	14	advmod	_	_
 13	по	по	ADP	_	_	14	case	_	_
@@ -25242,7 +25242,7 @@
 # text = И аще таковая притча о телесных отцѣх случилася, кольми паче о духовных должны есмя покрывати, аще бы нѣчто и случилося человѣческия ради немощи, яко то и ласкатели твои клеветали на онаго презвитера, иже бы тя устращал не истинными, но лстивыми видѣнии.
 1	И	и	CCONJ	_	_	14	cc	_	_
 2	аще	аще	SCONJ	_	_	8	mark	_	_
-3	таковая	таковой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	4	amod	_	_
+3	таковая	таковой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
 4	притча	притча	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
 5	о	о	ADP	_	_	7	case	_	_
 6	телесных	тѣлесный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
@@ -25291,7 +25291,7 @@
 # sent_id = BDRL__BLDR-11_05-17
 # text = О воистинну и аз глаголю: лстецъ он былъ, коварен и благокознен, понеже лестию ял тя, исторгнувши от сѣтей диявольских и от челюстей мысленнаго лва, и привел был тя ко Христу, Богу нашему.
 1	О	о	INTJ	_	_	5	discourse	_	_
-2	воистинну	воистинну	ADV	_	Degree=Pos	5	advmod	_	_
+2	воистинну	воистину	ADV	_	Degree=Pos	5	advmod	_	_
 3	и	и	PART	_	_	4	advmod	_	_
 4	аз	азъ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	глаголю	глаголати	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
@@ -25312,7 +25312,7 @@
 20	исторгнувши	исторгнути	VERB	_	Tense=Past|VerbForm=Conv|Voice=Act	17	advcl	_	_
 21	от	отъ	ADP	_	_	22	case	_	_
 22	сѣтей	сѣть	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	20	obl	_	_
-23	диявольских	дьявольский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	22	amod	_	_
+23	диявольских	дьявольский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	22	amod	_	_
 24	и	и	CCONJ	_	_	26	cc	_	_
 25	от	отъ	ADP	_	_	26	case	_	_
 26	челюстей	челюсть	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	22	conj	_	_
@@ -25334,7 +25334,7 @@
 # text = То же воистинну и врачеве премудрые творят: дикие мяса и неудобь цѣлимые гагрины бритвами рѣжутъ аж до живаго тѣла и потомъ наводятъ помалу и исцѣляютъ недужных.
 1	То	то	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	obj	_	_
 2	же	же	PART	_	_	1	advmod	_	_
-3	воистинну	воистинну	ADV	_	Degree=Pos	7	advmod	_	_
+3	воистинну	воистину	ADV	_	Degree=Pos	7	advmod	_	_
 4	и	и	PART	_	_	5	advmod	_	_
 5	врачеве	врачь	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
 6	премудрые	премудрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	_
@@ -25378,9 +25378,9 @@
 13	твои	твой	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	12	det	_	_
 14	душевные	душевный	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	12	amod	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	18	punct	_	_
-16	многими	многий	DET	_	Case=Ins|Gender=Neut|Number=Plur|PronType=Tot	17	amod	_	_
+16	многими	многий	DET	_	Case=Ins|Gender=Neut|Number=Plur|PronType=Tot	17	det	_	_
 17	лѣты	лѣто	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	18	obl:tmod	_	_
-18	застарѣвшияся	застарѣтися	VERB	_	Case=Acc|Gender=Fem|Number=Plur|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	_
+18	застарѣвшияся	застарѣтися	VERB	_	Case=Acc|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	_
 19	и	и	CCONJ	_	_	20	cc	_	_
 20	неудобны	неудобный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Variant=Short	18	conj	_	_
 21	ко	къ	ADP	_	_	22	case	_	_
@@ -25406,7 +25406,7 @@
 15	в	въ	ADP	_	_	16	case	_	_
 16	душах	душа	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	22	obl	_	_
 17	человѣческих	человѣческий	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	16	amod	_	_
-18	многими	многий	DET	_	Case=Ins|Gender=Neut|Number=Plur|PronType=Tot	19	amod	_	_
+18	многими	многий	DET	_	Case=Ins|Gender=Neut|Number=Plur|PronType=Tot	19	det	_	_
 19	лѣты	лѣто	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	22	obl:tmod	_	_
 20	во	въ	ADP	_	_	21	case	_	_
 21	естество	естество	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	22	obl	_	_
@@ -25695,7 +25695,7 @@
 61	,	,	PUNCT	_	_	63	punct	_	_
 62	от	отъ	ADP	_	_	63	case	_	_
 63	Бога	богъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	64	obl:agent	_	_
-64	пущенные	пустити	VERB	_	Case=Acc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	60	acl	_	SpaceAfter=No
+64	пущенные	пустити	VERB	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	60	acl	_	SpaceAfter=No
 65	,	,	PUNCT	_	_	66	punct	_	_
 66	глады	гладъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	60	conj	_	SpaceAfter=No
 67	,	,	PUNCT	_	_	68	punct	_	_
@@ -25743,7 +25743,7 @@
 109	царьских	царский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	108	amod	_	SpaceAfter=No
 110	,	,	PUNCT	_	_	112	punct	_	_
 111	прежде	прежде	ADV	_	Degree=Pos	112	advmod	_	_
-112	храбрых	храбрый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	108	acl	_	_
+112	храбрых	храбрый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	108	acl	_	_
 113	бывших	быти	AUX	_	Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	112	cop	_	SpaceAfter=No
 114	,	,	PUNCT	_	_	112	punct	_	_
 115	обращение	обращение	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	60	conj	_	SpaceAfter=No
@@ -25758,7 +25758,7 @@
 124	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	140	aux	_	SpaceAfter=No
 125	,	,	PUNCT	_	_	126	punct	_	_
 126	хороняся	хоронитися	VERB	_	Tense=Pres|VerbForm=Conv|Voice=Mid	140	advcl	_	_
-127	тогда	тогда	ADV	_	Degree=Pos	126	advmod	_	_
+127	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	126	advmod	_	_
 128	от	отъ	ADP	_	_	129	case	_	_
 129	татар	татаринъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	126	obl	_	_
 130	по	по	ADP	_	_	131	case	_	_
