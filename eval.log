@@ -1,13 +1,13 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Old_East_Slavic-RNC:
-commit 1671fde2135c7b280bb220a6c0edd93a3c1c63b4
+commit c2a240d6d8bbe6dbc0a8c89048394c63e9ae559b
+Merge: 8fc42c1 4ba30c6
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 11:39:01 2023 +0200
-Size: counted 48647 of 48647 words (nodes).
-Size: min(0, log((N/1000)**2)) = 7.7691802835538.
+Size: counted 95551 of 95551 words (nodes).
+Size: min(0, log((N/1000)**2)) = 9.11932027271254.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
@@ -15,32 +15,34 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 30604 out of 48647 total words have one or more features.
+Features: 59819 out of 95551 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 36 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL        489
-Udapi: found 489 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 48647 words.
+               TOTAL        195
+Udapi: found 195 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 95551 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang orv --max-err=10 UD_Old_East_Slavic-RNC/orv_rnc-ud-dev.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang orv --max-err=10 UD_Old_East_Slavic-RNC/orv_rnc-ud-test.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang orv --max-err=10 UD_Old_East_Slavic-RNC/orv_rnc-ud-train.conllu
-[Line 14858 Sent xviii-buzhinsky-buzh_slovo01-87 Node 29]: [L3 Warning fixed-gap] Gaps in fixed expression [29, 31] 'но * и'
-Warnings: 1
+[Line 24421 Sent xviii-buzhinsky-buzh_slovo01-87 Node 29]: [L3 Warning fixed-gap] Gaps in fixed expression [29, 31] 'но * и'
+[Line 29671 Sent jaroslav_etc__Aleksej_1356-7 Node 18]: [L3 Warning fixed-gap] Gaps in fixed expression [18, 20] 'друг * другу'
+[Line 39027 Sent petr__petr_001-90 Node 12]: [L3 Warning fixed-gap] Gaps in fixed expression [12, 14] 'одинъ * другова'
+Warnings: 3
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
 (weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.562352021009826) = 0.144192825899955
+(weight=0.256410256410256) * (score{size}=0.660078412191252) = 0.169250874920834
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
-(weight=0.307692307692308) * (score{udapi}=0.899479926819742) = 0.276763054406075
+(weight=0.307692307692308) * (score{udapi}=0.979592050318678) = 0.301412938559593
 (weight=0.0769230769230769) * (score{udeprels}=0.972972972972973) = 0.0748440748440748
-(TOTAL score=0.786901010957043) * (availability=1) * (validity=1) = 0.786901010957043
+(TOTAL score=0.83660894413144) * (availability=1) * (validity=1) = 0.83660894413144
 STARS = 4
-UD_Old_East_Slavic-RNC	0.786901010957043	4
+UD_Old_East_Slavic-RNC	0.83660894413144	4
