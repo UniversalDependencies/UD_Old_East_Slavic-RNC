@@ -82,6 +82,10 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 
 # Changelog
 
+* 2024-11-15 v2.15
+  * Train, dev and test data expanded  
+  * Minor corrections after validation
+
 * 2024-05-15 v2.14
   * Minor corrections after source corpus annotation update
 
