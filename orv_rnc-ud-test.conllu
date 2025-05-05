@@ -423,7 +423,7 @@
 89	цѣловалникомъ	цѣловальникъ	NOUN	Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	77	conj	_	SpaceAfter=No
 90	,	,	PUNCT	_	_	93	punct	_	_
 91	и	и	CCONJ	_	_	93	cc	_	_
-92	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	95	det	_	_
+92	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	95	det	_	_
 93	сбирано	сбирати	VERB	Transit=Tran	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	57	conj	_	_
 94	воеводскихъ	воеводский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	95	amod	_	_
 95	дворовъ	дворъ	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Plur	93	nsubj:pass	_	_
@@ -1187,7 +1187,7 @@
 227	людехъ	человѣкъ	NOUN	Animacy[lex]=Anim	Case=Loc|Gender=Masc|Number=Plur	233	obl	_	SpaceAfter=No
 228	,	,	PUNCT	_	_	227	punct	_	_
 229	за	за	ADP	_	_	231	case	_	_
-230	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	231	det	_	_
+230	ихъ	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	231	det	_	_
 231	ослушаніе	ослушание	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Neut|Number=Sing	233	obl	_	SpaceAfter=No
 232	,	,	PUNCT	_	_	231	punct	_	_
 233	имать	имати	VERB	Transit=Tran	VerbForm=Inf|Voice=Act	18	conj	_	_
@@ -1368,7 +1368,7 @@
 147	,	,	PUNCT	_	_	151	punct	_	_
 148	по	по	ADP	_	_	151	case	_	_
 149	тому	тотъ	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	151	det	_	_
-150	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	151	det	_	_
+150	ихъ	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	151	det	_	_
 151	окладу	окладъ	NOUN	Animacy[lex]=Inan	Case=Dat|Gender=Masc|Number=Sing	157	obl	_	_
 152	и	и	CCONJ	_	_	154	cc	_	_
 153	по	по	ADP	_	_	154	case	_	_
@@ -1407,7 +1407,7 @@
 186	съ	съ	ADP	_	_	187	case	_	_
 187	кого	кто	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	196	obl	_	_
 188	противъ	противъ	ADP	_	_	190	case	_	_
-189	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	190	det	_	_
+189	ихъ	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	190	det	_	_
 190	окладу	окладъ	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Sing	196	obl	_	SpaceAfter=No
 191	,	,	PUNCT	_	_	193	punct	_	_
 192	на	на	ADP	_	_	193	case	_	_
@@ -1430,7 +1430,7 @@
 209	поборы	поборы	NOUN	Animacy[lex]=Inan	Case=Nom|Gender=Masc|Number=Plur	206	nsubj	_	_
 210	и	и	CCONJ	_	_	213	cc	_	_
 211	мірскіе	мирской	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	213	amod	_	_
-212	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	213	det	_	_
+212	ихъ	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	213	det	_	_
 213	росходы	росходъ	NOUN	Animacy[lex]=Inan	Case=Nom|Gender=Masc|Number=Plur	209	conj	_	SpaceAfter=No
 214	,	,	PUNCT	_	_	206	punct	_	_
 215	и	и	CCONJ	_	_	218	cc	_	_
@@ -1452,7 +1452,7 @@
 231	,	,	PUNCT	_	_	233	punct	_	_
 232	по	по	ADP	_	_	233	case	_	_
 233	окладу	окладъ	NOUN	Animacy[lex]=Inan	Case=Dat|Gender=Masc|Number=Sing	242	obl	_	_
-234	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	233	det	_	SpaceAfter=No
+234	ихъ	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	233	det	_	SpaceAfter=No
 235	,	,	PUNCT	_	_	237	punct	_	_
 236	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	237	obj	_	_
 237	учинятъ	учинити	VERB	Transit=Tran	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	233	acl:relcl	_	_
@@ -2393,7 +2393,7 @@
 249	,	,	PUNCT	_	_	256	punct	_	_
 250	а	а	CCONJ	_	_	256	cc	_	_
 251	домы	домъ	NOUN	Animacy[lex]=Inan	Case=Nom|Gender=Masc|Number=Plur	256	nsubj:pass	_	_
-252	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	251	det	_	_
+252	ихъ	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	251	det	_	_
 253	и	и	CCONJ	_	_	254	cc	_	_
 254	животы	животъ	NOUN	Animacy[lex]=Inan	Case=Nom|Gender=Masc|Number=Plur	251	conj	_	_
 255	будутъ	быти	AUX	Transit=Intr	Analyt=Yes|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	256	aux	_	_
@@ -2855,7 +2855,7 @@
 111	что	что	SCONJ	_	_	118	mark	_	SpaceAfter=No
 112	,	,	PUNCT	_	_	116	punct	_	_
 113	по	по	ADP	_	_	116	case	_	_
-114	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	116	det	_	_
+114	ихъ	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	116	det	_	_
 115	воеводскимъ	воеводский	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	116	amod	_	_
 116	прихотямъ	прихоть	NOUN	Animacy[lex]=Inan	Case=Dat|Gender=Fem|Number=Plur	118	obl	_	SpaceAfter=No
 117	,	,	PUNCT	_	_	116	punct	_	_
@@ -2877,7 +2877,7 @@
 133	въ	въ	ADP	_	_	134	case	_	_
 134	росходъ	росходъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Sing	132	obl	_	_
 135	на	на	ADP	_	_	137	case	_	_
-136	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	137	det	_	_
+136	ихъ	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	137	det	_	_
 137	прихоти	прихоть	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	132	obl	_	SpaceAfter=No
 138	,	,	PUNCT	_	_	150	punct	_	_
 139	и	и	CCONJ	_	_	150	cc	_	_
@@ -2920,7 +2920,7 @@
 176	окладъ	окладъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Sing	168	conj	_	SpaceAfter=No
 177	,	,	PUNCT	_	_	185	punct	_	_
 178	противъ	противъ	ADP	_	_	185	case	_	_
-179	нашихъ	нашъ	DET	_	Case=Gen|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	185	det	_	_
+179	нашихъ	нашъ	DET	_	Case=Gen|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	185	acl	_	_
 180	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	181	amod	_	_
 181	государя	государь	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	179	appos	_	_
 182	посланныхъ	послати	VERB	Transit=Tran	Aspect=Perf|Case=Gen|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	185	acl	_	_
@@ -2946,7 +2946,7 @@
 202	и	и	CCONJ	_	_	209	cc	_	_
 203	съ	съ	ADP	_	_	208	case	_	_
 204	вышеписанного	вышеписанный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	208	amod	_	_
-205	нашего	нашъ	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	208	det	_	_
+205	нашего	нашъ	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	208	acl	_	_
 206	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	207	amod	_	_
 207	государя	государь	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	205	appos	_	_
 208	указу	указъ	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Sing	209	obl	_	_
@@ -3055,7 +3055,7 @@
 311	,	,	PUNCT	_	_	317	punct	_	_
 312	а	а	CCONJ	_	_	317	cc	_	_
 313	домы	домъ	NOUN	Animacy[lex]=Inan	Case=Nom|Gender=Masc|Number=Plur	317	nsubj:pass	_	_
-314	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	313	det	_	_
+314	ихъ	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	313	det	_	_
 315	и	и	CCONJ	_	_	316	cc	_	_
 316	животы	животъ	NOUN	Animacy[lex]=Inan	Case=Nom|Gender=Masc|Number=Plur	313	conj	_	_
 317	взяты	взяти	VERB	Transit=Tran	Aspect=Perf|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	292	conj	_	_
@@ -3078,7 +3078,7 @@
 334	воеводамъ	воевода	NOUN	Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	336	obl	_	_
 335	велѣно	велѣти	VERB	Transit=Tran	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	22	conj	_	_
 336	послать	послати	VERB	Transit=Tran	Aspect=Perf|VerbForm=Inf|Voice=Act	335	xcomp	_	_
-337	наши	нашъ	DET	_	Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	340	det	_	_
+337	наши	нашъ	DET	_	Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	340	acl	_	_
 338	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	339	amod	_	_
 339	государя	государь	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Sing	337	appos	_	_
 340	грамоты	грамота	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	336	obj	_	SpaceAfter=No
@@ -3542,7 +3542,7 @@
 6	,	,	PUNCT	_	_	4	punct	_	_
 7	не	не	PART	_	Polarity=Neg	8	advmod	_	_
 8	стерпя	стерпѣти	VERB	Transit=Tran	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	14	advcl	_	_
-9	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	det	_	_
+9	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	det	_	_
 10	позору	позоръ	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Sing	8	obj	_	_
 11	и	и	CCONJ	_	_	12	cc	_	_
 12	побои	побоя	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
@@ -3589,7 +3589,7 @@
 19	,	,	PUNCT	_	_	25	punct	_	_
 20	и	и	CCONJ	_	_	25	cc	_	_
 21	от	отъ	ADP	_	_	22	case	_	_
-22	того	то	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	25	det	_	_
+22	того	то	PRON	_	Case=Gen|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	25	det	_	_
 23	ему	онъ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	iobj	_	_
 24	смерть	смерть	NOUN	Animacy[lex]=Inan	Case=Nom|Gender=Fem|Number=Sing	25	nsubj	_	_
 25	случилась	случитися	VERB	Transit=Intr	Aspect=Perf|Gender=Fem|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=PartRes|Voice=Mid	8	conj	_	SpaceAfter=No
@@ -3868,7 +3868,7 @@
 5	де	де	PART	_	_	4	discourse	_	_
 6	шпагою	шпага	NOUN	Animacy[lex]=Inan	Case=Ins|Gender=Fem|Number=Sing	4	iobj	_	_
 7	муж	мужъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-8	ея	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	det	_	_
+8	ея	она	PRON	_	Case=Gen|ExtPos=DET|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	det	_	_
 9	саржант	сержантъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
 10	Петр	Петръ	PROPN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	appos	_	_
 11	Фальк	Фалькъ	PROPN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	10	flat:name	_	_
@@ -3914,7 +3914,7 @@
 5	,	,	PUNCT	_	_	11	punct	_	_
 6	что	что	SCONJ	_	_	11	mark	_	_
 7	муж	мужъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
-8	ее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	det	_	_
+8	ее	она	PRON	_	Case=Gen|ExtPos=DET|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	det	_	_
 9	Петр	Петръ	PROPN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	appos	_	_
 10	Фальк	Фалькъ	PROPN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	9	flat:name	_	_
 11	убил	убити	VERB	Transit=Tran	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	4	ccomp	_	_
@@ -3979,7 +3979,7 @@
 11	пришел	приити	VERB	Transit=Intr	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	9	parataxis	_	_
 12	к	къ	ADP	_	_	13	case	_	_
 13	мужу	мужъ	NOUN	Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	_
-14	ее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	det	_	_
+14	ее	она	PRON	_	Case=Gen|ExtPos=DET|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	det	_	_
 15	Петру	Петръ	PROPN	Animacy[lex]=Anim	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	13	appos	_	_
 16	на	на	ADP	_	_	17	case	_	_
 17	двор	дворъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
@@ -4043,7 +4043,7 @@
 # text = И муж ее тово Григорья поколол до смерти, а за што у них была брань и драка, тово не ведает, и рознимав их ушла от них у собя на дворе в баню.
 1	И	и	CCONJ	_	_	6	cc	_	_
 2	муж	мужъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	6	nmod	_	_
-3	ее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	det	_	_
+3	ее	она	PRON	_	Case=Gen|ExtPos=DET|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	det	_	_
 4	тово	тотъ	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	Григорья	Григорей	PROPN	Animacy[lex]=Anim	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	6	obj	_	_
 6	поколол	поколоти	VERB	Transit=Tran	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
@@ -4147,7 +4147,7 @@
 34	,	,	PUNCT	_	_	38	punct	_	_
 35	и	и	CCONJ	_	_	38	cc	_	_
 36	жену	жена	NOUN	Animacy[lex]=Anim	Case=Acc|Gender=Fem|Number=Sing	38	obl	_	_
-37	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	det	_	_
+37	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	det	_	_
 38	бранить	бранити	VERB	Transit=Tran	Aspect=Imp|VerbForm=Inf|Voice=Act	31	conj	_	_
 39	всякими	всякий	DET	_	Case=Ins|Gender=Fem|Number=Plur|PronType=Tot	41	det	_	_
 40	позорными	позорный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur	41	amod	_	_
@@ -4394,7 +4394,7 @@
 7	,	,	PUNCT	_	_	16	punct	_	_
 8	карабин	карабинъ	NOUN	Animacy[lex]=Inan	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
 9	де	де	PART	_	_	8	discourse	_	_
-10	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	_
+10	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	_
 11	у	у	ADP	_	_	12	case	_	_
 12	нево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	_
 13	Григорья	Григорей	PROPN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	12	appos	_	_
@@ -4456,7 +4456,7 @@
 20	на	на	ADP	_	_	21	case	_	_
 21	улице	улица	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Fem|Number=Sing	14	appos	_	_
 22	ли	ли	SCONJ	_	_	21	mark	_	_
-23	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	det	_	SpaceAfter=No
+23	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	det	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	26	punct	_	_
 25	у	у	ADP	_	_	26	case	_	_
 26	ково	кто	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	28	nmod	_	_
@@ -4949,7 +4949,7 @@
 31	на	на	ADP	_	_	32	case	_	_
 32	двор	дворъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Sing	27	obl	_	_
 33	товарищ	товарищь	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
-34	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	det	_	_
+34	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	det	_	_
 35	немчин	нѣмчинъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	33	appos	_	_
 36	же	же	PART	_	_	35	advmod	_	_
 37	Григорей	Григорей	PROPN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	35	appos	_	_
@@ -5022,7 +5022,7 @@
 27	как	какъ	ADV	_	Degree=Pos|PronType=Rel	34	advmod	_	upos="ADVPRO"|_
 28	и	и	PART	_	_	30	advmod	_	_
 29	в	въ	ADP	_	_	31	case	_	_
-30	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	31	det	_	_
+30	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	31	det	_	_
 31	землях	земля	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Fem|Number=Plur	34	obl	_	_
 32	в	въ	ADP	_	_	33	case	_	_
 33	немцах	нѣмецъ	NOUN	Animacy[lex]=Anim	Case=Loc|Gender=Masc|Number=Plur	31	appos	_	_
@@ -5044,7 +5044,7 @@
 9	с	съ	ADP	_	_	10	case	_	_
 10	пытки	пытка	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Fem|Number=Sing	11	obl	_	_
 11	говорил	говорити	VERB	Transit=Tran	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	6	conj	_	_
-12	те	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	14	det	_	_
+12	те	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	14	acl	_	_
 13	ж	же	PART	_	_	12	advmod	_	_
 14	речи	рѣчь	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	11	obj	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	19	punct	_	_
@@ -5085,7 +5085,7 @@
 15	и	и	CCONJ	_	_	16	cc	_	_
 16	пыточные	пыточный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	conj	_	_
 17	речи	рѣчь	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	19	obj	_	_
-18	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det	_	_
+18	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det	_	_
 19	записать	записати	VERB	Transit=Tran	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	27	punct	_	_
 21	а	а	CCONJ	_	_	27	cc	_	_
@@ -5412,7 +5412,7 @@
 68	на	на	ADP	_	_	69	case	_	_
 69	двор	дворъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Sing	64	obl	_	_
 70	товарищ	товарищь	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	64	nsubj	_	_
-71	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	70	det	_	_
+71	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	70	det	_	_
 72	саржант	сержантъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	70	appos	_	_
 73	Григорей	Григорей	PROPN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	72	appos	_	_
 74	Томосов	Томосовъ	PROPN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	73	flat:name	_	_
@@ -5545,7 +5545,7 @@
 70	а	а	CCONJ	_	_	74	cc	_	_
 71	в	въ	ADP	_	_	72	case	_	_
 72	вине	вина	NOUN	Animacy[lex]=Inan	Case=Loc|Gender=Fem|Number=Sing	74	obl	_	_
-73	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	72	det	_	_
+73	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	72	det	_	_
 74	волен	вольный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	5	conj	_	_
 75	Бог	богъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	72	nsubj	_	_
 76	да	да	CCONJ	_	_	77	cc	_	_
@@ -5679,7 +5679,7 @@
 10	место	мѣсто	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Neut|Number=Sing	16	obl	_	_
 11	Барсукове	барсуковъ	ADJ	Animacy[lex]=Inan	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes|Variant=Short	9	flat:name	_	_
 12	по	по	ADP	_	_	14	case	_	_
-13	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	det	_	_
+13	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	det	_	_
 14	веленью	велѣние	NOUN	Animacy[lex]=Inan	Case=Dat|Gender=Neut|Number=Sing	16	obl	_	_
 15	руку	рука	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
 16	приложил	приложити	VERB	Transit=Tran	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	SpaceAfter=No
@@ -6486,7 +6486,7 @@
 # sent_id = duhovnye_dogovornye__47-31
 # text = А что Володимерское порꙋбеж[ь]е по томꙋ, как было при наших прадѣдех, при великом кн[ѧ]зѣ Иванѣ Даниловичѣ, и при великом кн[ѧ]зѣ Семенѣ Ивановичѣ, и при великом кн[ѧ]зѣ Иванѣ Ивановичѣ, и при моем дѣде, при великом кн[ѧ]зѣ Дмитріе Ивановичѣ и при моем о[т]цѣ, при великом кн[ѧ]зѣ Васил[ь]е Дмитріевичѣ, и при твоем прадѣде, при великом кн[ѧ]зѣ Иванѣ ꙗрославичѣ, и при твоем прадѣде, при великом кн[ѧ]зѣ Иванѣ Ивановичѣ, и при твоем прадѣде, при великом кн[ѧ]зи Иванѣ Ѡлександровичѣ, и при твоем дѣде, при великом кн[ѧ]зѣ Олзѣ Ивановичѣ, и при твоем о[т]цѣ, великом кн[ѧ]зе Ѳедѡрѣ Ѡлговичѣ.
 1	А	а	CCONJ	_	_	6	cc	_	_
-2	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	4	det	_	_
+2	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	4	det	_	_
 3	Володимерское	володимерский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
 4	порꙋбеж[ь]е	порубежье	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	dislocated	_	_
 5	по	по	ADP	_	_	6	case	_	_
@@ -6598,7 +6598,7 @@
 # sent_id = duhovnye_dogovornye__47-32
 # text = А что Резанское на Резанскои сторонѣ за Окою, что доселѣ тѧгло к Москвѣ, почен Лопасна, ꙋѣздъ Мстиславль, Жадѣне горѡдищо, Дꙋб, Жадемль, Броднич с мѣсты, как сѧ ѡтстꙋпили торꙋсскіе кн[ѧ]зи Ѳедѡрꙋ Свѧтославичю, и та мѣста к Резани.
 1	А	а	CCONJ	_	_	45	cc	_	_
-2	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	3	det	_	_
+2	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	3	det	_	_
 3	Резанское	резанский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	43	dislocated	_	_
 4	на	на	ADP	_	_	6	case	_	_
 5	Резанскои	резанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
@@ -6715,7 +6715,7 @@
 4	прѡнским	пронский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
 5	и	и	CCONJ	_	_	8	cc	_	_
 6	сь	съ	ADP	_	_	8	case	_	_
-7	ег[о]	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	_
+7	ег[о]	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	_
 8	брат[ь]ею	братия	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	3	conj	_	_
 9	любѡв[ь]	любовь	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
 10	взѧл	взяти	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
@@ -6756,7 +6756,7 @@
 # sent_id = duhovnye_dogovornye__47-37
 # text = А что сѧ ꙋчинит меж вас какова обида, и вам ѡтослат[и] своих боѧръ, ини ꙋчинѧт исправꙋ.
 1	А	а	CCONJ	_	_	12	cc	_	_
-2	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	det	_	_
+2	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	8	det	_	_
 3	сѧ	ся	PRON	_	Analyt=Yes|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 4	ꙋчинит	учинитися	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin|Voice=Mid	12	advcl	_	_
 5	меж	межу	ADP	_	_	6	case	_	_
@@ -7162,7 +7162,7 @@
 # sent_id = duhovnye_dogovornye__47-52
 # text = А что Мещерскаа мѣста, что бꙋдет покꙋпил кнꙗз[ь] велики, дѣд твои, Олег Иванович, или о[те]ць твои, кнꙗз[ь] велики Федѡръ Олгович, или вы, или ваши боѧре, и в та мѣста тебѣ, великомꙋ кн[ѧ]зю Иванꙋ, не встꙋпатис[ѧ], ни твоим боѧром, знати ти свое серебро и твоим боѧром.
 1	А	а	CCONJ	_	_	45	cc	_	_
-2	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	4	det	_	_
+2	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	4	det	_	_
 3	Мещерскаа	мещерский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	amod	_	_
 4	мѣста	мѣсто	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	37	dislocated	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	_
@@ -7256,7 +7256,7 @@
 # sent_id = duhovnye_dogovornye__47-55
 # text = А что бꙋдет дѣд мои, кнꙗз[ь] велики Дмитреи Иванович, ѡт[о]имал мѣста Татарскіе и Мордѡвскаа, а ци переменит б[о]гъ татар, и та мѣста мнѣ, великомꙋ кн[ѧ]зю Васил[ь]ю Васил[ь]евичю.
 1	А	а	CCONJ	_	_	27	cc	_	_
-2	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	13	det	_	_
+2	что	что	PRON	_	Case=Acc|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	13	det	_	_
 3	бꙋдет	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	aux	_	_
 4	дѣд	дѣдъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
 5	мои	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	SpaceAfter=No
@@ -7293,7 +7293,7 @@
 # sent_id = duhovnye_dogovornye__47-56
 # text = А что бꙋдет ѡтнѧл дѣд твои, кнꙗз[ь] велики Олег Иванович, и ѡ[те]ць твои, кнꙗз[ь] велики Федѡръ Ѡлгович, Татарскаа мѣста и Мордѡвскаа, а то тебѣ и есть, великомꙋ кн[ѧ]зю Иванꙋ Федѡровичю, та мѣста.
 1	А	а	CCONJ	_	_	29	cc	_	_
-2	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	23	det	_	_
+2	что	что	PRON	_	Case=Acc|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	23	det	_	_
 3	бꙋдет	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	aux	_	_
 4	ѡтнѧл	отняти	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	28	acl	_	_
 5	дѣд	дѣдъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -7439,7 +7439,7 @@
 # sent_id = duhovnye_dogovornye__47-60
 # text = А что грабеж, а томꙋ погреб.
 1	А	а	CCONJ	_	_	7	cc	_	_
-2	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	3	det	_	_
+2	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	3	det	_	_
 3	грабеж	грабежъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	а	а	CCONJ	_	_	7	cc	_	_
@@ -7451,7 +7451,7 @@
 # sent_id = duhovnye_dogovornye__47-61
 # text = А что была рат[ь] дѣда моег[о], великог[о] кн[ѧ]зѧ Дмитріа Ивановича, въ твоеи вотчинѣ при твоем дѣде, при великом кн[ѧ]зи Ѡлгѣ Ивановичѣ, и кнѧж Володимерова Андрѣевича, и кнѧж Романова новосилског[о], и кн[ѧ]з[е]и торꙋских, и тот нам полѡн ѡтпꙋстит[и] вес[ь].
 1	А	а	CCONJ	_	_	44	cc	_	_
-2	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	4	det	_	_
+2	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	4	det	_	_
 3	была	быти	AUX	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	15	cop	_	_
 4	рат[ь]	рать	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
 5	дѣда	дѣдъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
@@ -7810,7 +7810,7 @@
 17	,	,	PUNCT	_	_	3	punct	_	_
 18	и	и	CCONJ	_	_	24	cc	_	_
 19	ѡ	о	ADP	_	_	21	case	_	_
-20	том	то	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	24	det	_	_
+20	том	то	PRON	_	Case=Loc|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	24	det	_	_
 21	сꙋда	судъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	24	obj	_	_
 22	вопчего	обчий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	obj	_	_
 23	не	не	PART	_	Polarity=Neg	24	advmod	_	_
@@ -7863,7 +7863,7 @@
 # sent_id = duhovnye_dogovornye__47-75
 # text = А что сѧ учинит межи нас н[а]ше дѣло, кн[ѧ]зеи великих, и нам ѡтослат[и] боѧръ, ини сьѣхавсѧ, ꙋчинѧт исправꙋ.
 1	А	а	CCONJ	_	_	15	cc	_	_
-2	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	det	_	_
+2	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	8	det	_	_
 3	сѧ	ся	PRON	_	Analyt=Yes|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 4	учинит	учинити	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	15	advcl	_	_
 5	межи	межу	ADP	_	_	6	case	_	_
@@ -8461,11 +8461,11 @@
 13	быть	быти	VERB	_	VerbForm=Inf|Voice=Act	8	ccomp	_	_
 14	по	по	ADP	_	_	17	case	_	_
 15	тому	тотъ	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	17	det	_	_
-16	еѣ	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	det	_	_
+16	еѣ	она	PRON	_	Case=Gen|ExtPos=DET|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	det	_	_
 17	постриганию	постригание	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	13	obl	_	_
 18	і	и	CCONJ	_	_	23	cc	_	_
 19	противъ	противъ	ADP	_	_	21	case	_	_
-20	еѣ	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	det	_	_
+20	еѣ	она	PRON	_	Case=Gen|ExtPos=DET|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	det	_	_
 21	челобитя	челобитье	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	23	obl	_	_
 22	указ	указъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	_
 23	ꙋчинит	учинити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	conj	_	_
@@ -8719,7 +8719,7 @@
 # sent_id = gramotki_17_18__157_158_159_160_Anichkov-22
 # text = а что понадобитца днгъ ты приятель мои возми ꙋ Марка Тихановича моіх днгъ
 1	а	а	CCONJ	_	_	3	cc	_	_
-2	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	3	det	_	_
+2	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	3	det	_	_
 3	понадобитца	понадобитися	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin|Voice=Mid	8	advcl	_	_
 4	днгъ	деньга	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	3	nsubj	_	_
 5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nmod	_	_
@@ -8758,7 +8758,7 @@
 1	а	а	CCONJ	_	_	9	cc	_	_
 2	противо	противъ	ADP	_	_	5	case	_	_
 3	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	9	aux	_	_
-4	еи	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	det	_	_
+4	еи	она	PRON	_	Case=Gen|ExtPos=DET|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	det	_	_
 5	челобит	челобитье	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	9	obl	_	_
 6	і	и	PART	_	_	7	advmod	_	_
 7	впред	впредъ	ADV	_	Degree=Pos	9	advmod	_	_
@@ -9215,7 +9215,7 @@
 # sent_id = gramotki_17_18__157_158_159_160_Anichkov-46
 # text = а что денех дашь по томъ пожалꙋи ко мъне отпиши
 1	а	а	CCONJ	_	_	10	cc	_	_
-2	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	3	det	_	_
+2	что	что	PRON	_	Case=Acc|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	3	det	_	_
 3	денех	деньга	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	4	obj	_	_
 4	дашь	дати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	10	advcl	_	_
 5	по	по	ADP	_	_	6	case	_	_
@@ -9515,13 +9515,13 @@
 8	темъ	тотъ	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	9	det	_	_
 9	деломъ	дѣло	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	6	obl	_	_
 10	по	по	ADP	_	_	12	case	_	_
-11	ее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	det	_	_
+11	ее	она	PRON	_	Case=Gen|ExtPos=DET|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	det	_	_
 12	челобитнои	челобитная	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	_
 13	чтобы	чтобы	SCONJ	_	Mood=Cnd	15	mark	_	_
 14	еи	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
 15	постричь	постричи	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	advcl	_	_
 16	против	противъ	ADP	_	_	18	case	_	_
-17	ее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	det	_	_
+17	ее	она	PRON	_	Case=Gen|ExtPos=DET|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	det	_	_
 18	челобитнои	челобитная	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	15	obl	_	_
 19	и	и	CCONJ	_	_	21	cc	_	_
 20	памят	память	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	21	obj	_	_
@@ -9889,7 +9889,7 @@
 3	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
 4	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	_
 5	по	по	ADP	_	_	7	case	_	_
-6	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	det	_	_
+6	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	det	_	_
 7	книгам	книга	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	11	obl	_	_
 8	сто	сто	NUM	_	Case=Nom|NumForm=Word|NumType=Card	10	compound	_	_
 9	семьдесят	семьдесятъ	NUM	_	Case=Nom|NumForm=Word|NumType=Card	10	compound	_	_
@@ -10327,7 +10327,7 @@
 8	153-м	153-й	ADJ	_	Case=Loc|Gender=Masc|Number=Sing|NumForm=Combi|NumType=Ord	9	amod	_	_
 9	году	годъ	NOUN	Case=Loc	Case=Loc|Gender=Masc|Number=Sing	34	obl:tmod	_	_
 10	по	по	ADP	_	_	12	case	_	_
-11	нашему	нашъ	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	_
+11	нашему	нашъ	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	12	acl	_	_
 12	челобитью	челобитье	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	34	obl	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	сирот	сирота	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	11	appos	_	_
@@ -11370,7 +11370,7 @@
 17	,	,	PUNCT	_	_	21	punct	_	_
 18	в	въ	ADP	_	_	19	case	_	_
 19	смерть	смерть	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	21	obl	_	_
-20	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	det	_	_
+20	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	det	_	_
 21	крестихомся	креститися	VERB	Tense=Aor	Mood=Ind|Number=Plur|Person=1|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Mid	8	conj	_	_
 22	и	и	CCONJ	_	_	28	cc	_	_
 23	християным	христианный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	27	amod	_	_
@@ -11601,7 +11601,7 @@
 # text = А то его умышление было и хотѣл насъ извести и иного государя учинити, и нас от того Богъ поберег, и онъ от насъ отбежав, да и тамо будучи, на нашу голову крымского подымал, и от тово нас Богъ сохранил, и ныне он подастривает тебя.
 1	А	а	CCONJ	_	_	4	cc	_	_
 2	то	то	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
-3	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	_
+3	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	_
 4	умышление	умышление	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 5	было	быти	AUX	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	4	cop	_	_
 6	и	и	CCONJ	_	_	7	cc	_	_
@@ -11724,7 +11724,7 @@
 19	державою	держава	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	25	iobj	_	_
 20	помысла	помыслъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	25	obj	_	_
 21	благочестива	благочестивый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	23	amod	_	_
-22	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	det	_	_
+22	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	det	_	_
 23	злочестия	злочестие	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
 24	не	не	PART	_	Polarity=Neg	25	advmod	_	_
 25	слушай	слушати	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	5	conj	_	_
@@ -11845,7 +11845,7 @@
 
 # sent_id = BLDR-11_11-24
 # text = Тѣм же, яко Иезекѣя, царь июдин, ко асирискому царю Сенахириму: "Се раб твой, господи, Иезекѣя", такоже и аз к тебѣ, к Стефану, вещаю: "Се раб твой, господи, Иванъ, се раб твой, господи, Иван, се аз раб твой, господи, Иван".
-1	Тѣм	то	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	5	cc	_	_
+1	Тѣм	то	PRON	_	Case=Ins|ExtPos=CCONJ|Gender=Neut|Number=Sing|PronType=Dem	5	cc	_	_
 2	же	же	PART	_	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	яко	яко	SCONJ	_	_	5	mark	_	_
@@ -12531,7 +12531,7 @@
 11	и	и	CCONJ	_	_	12	advmod	_	_
 12	живы	жити	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	21	punct	_	_
-14	понеже	понеже	SCONJ	_	_	21	advmod	_	_
+14	понеже	понеже	SCONJ	_	_	21	mark	_	_
 15	бо	бо	PART	_	_	14	fixed	_	_
 16	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
 17	не	не	PART	_	Polarity=Neg	19	advmod	_	_
@@ -12556,7 +12556,7 @@
 36	уповающих	уповати	VERB	_	Animacy=Anim|Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	32	conj	_	_
 37	на	на	ADP	_	_	38	case	_	_
 38	милость	милость	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	36	obl	_	_
-39	его	и	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	38	det	_	SpaceAfter=No
+39	его	и	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	38	det	_	SpaceAfter=No
 40	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
 41	.	.	PUNCT	_	_	12	punct	_	_
 
@@ -12578,7 +12578,7 @@
 14	,	,	PUNCT	_	_	26	punct	_	_
 15	якоже	якоже	SCONJ	_	_	18	mark	_	_
 16	святей	святой	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
-17	его	и	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	det	_	_
+17	его	и	PRON	_	Case=Loc|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	det	_	_
 18	воли	воля	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	24	advcl	_	_
 19	о	о	ADP	_	_	20	case	_	_
 20	насъ	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	18	obl	_	SpaceAfter=No
@@ -13649,7 +13649,7 @@
 42	долготрьпѣние	долготерпѣние	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	38	conj	_	_
 43	и	и	CCONJ	_	_	46	cc	_	_
 44	незлобивое	незлобивый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	46	amod	_	_
-45	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	46	det	_	_
+45	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	46	det	_	_
 46	око	око	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	38	conj	_	_
 47	како	како	ADV	_	Degree=Pos|PronType=Rel	49	advmod	_	upos="ADVPRO"|_
 48	не	не	PART	_	Polarity=Neg	49	advmod	_	_
@@ -13668,7 +13668,7 @@
 61	во	въ	ADP	_	_	62	case	_	_
 62	уловление	уловление	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	59	obl	_	_
 63	сѣти	сѣть	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	62	nmod	_	_
-64	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	63	det	_	_
+64	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	63	det	_	_
 65	и	и	CCONJ	_	_	67	cc	_	_
 66	в	въ	ADP	_	_	67	case	_	_
 67	помнение	помнѣние	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	62	conj	_	_
@@ -13848,14 +13848,14 @@
 
 # sent_id = GVNP_010-4
 # text = Что свободъ Дмитриевыхъ и Андрѣевыхъ, и что сельць тягнуло къ тымъ свободамъ, того всего тобѣ съступитися, то все къ Новугороду бес кунъ.
-1	Что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	2	det	_	_
+1	Что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	2	det	_	_
 2	свободъ	свобода	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	10	nsubj	_	_
 3	Дмитриевыхъ	дмитриевъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
 4	и	и	CCONJ	_	_	5	cc	_	_
 5	Андрѣевыхъ	андрѣевъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	3	conj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	и	и	CCONJ	_	_	9	cc	_	_
-8	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	9	det	_	_
+8	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	9	det	_	_
 9	сельць	селце	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	2	conj	_	_
 10	тягнуло	тягнути	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	15	acl:relcl	_	_
 11	къ	къ	ADP	_	_	13	case	_	_
@@ -13926,7 +13926,7 @@
 47	истьца	истецъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	45	iobj	_	_
 48	или	или	CCONJ	_	_	49	cc	_	_
 49	дѣти	дѣтя	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	47	conj	_	_
-50	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	49	det	_	SpaceAfter=No
+50	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	49	det	_	SpaceAfter=No
 51	;	;	PUNCT	_	_	55	punct	_	_
 52	истьца	истецъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	55	nsubj	_	_
 53	ли	ли	PART	_	_	55	advmod	_	_
@@ -13934,7 +13934,7 @@
 55	будеть	быти	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	60	advcl	_	_
 56	ни	ни	CCONJ	_	Polarity=Neg	57	cc	_	_
 57	дѣтии	дѣтя	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	52	conj	_	_
-58	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	57	det	_	SpaceAfter=No
+58	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	57	det	_	SpaceAfter=No
 59	,	,	PUNCT	_	_	55	punct	_	_
 60	цѣловати	цѣловати	VERB	_	VerbForm=Inf|Voice=Act	35	conj	_	_
 61	ему	онъ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	60	iobj	_	_
@@ -14379,7 +14379,7 @@
 1	А	а	CCONJ	_	_	12	cc	_	_
 2	пожнѣ	пожня	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	9	punct	_	_
-4	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	det	_	_
+4	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	5	det	_	_
 5	твои	твой	DET	_	Case=Nom|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	nsubj	_	_
 6	и	и	CCONJ	_	_	8	cc	_	_
 7	твоихъ	твой	DET	_	Case=Gen|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det	_	_
@@ -15430,7 +15430,7 @@
 6	учинятца	учинитися	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	_
 7	подъ	подъ	ADP	_	_	13	case	_	_
 8	государевою	государевъ	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
-9	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	det	_	_
+9	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	det	_	_
 10	царьского	царский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
 11	величества	величество	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
 12	высокою	высокий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
@@ -15762,7 +15762,7 @@
 58	и	и	CCONJ	_	_	70	cc	_	_
 59	быти	быти	AUX	_	VerbForm=Inf|Voice=Act	66	cop	_	_
 60	подъ	подъ	ADP	_	_	66	case	_	_
-61	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	66	det	_	_
+61	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	66	det	_	_
 62	государскою	государский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	66	amod	_	_
 63	царьского	царский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	64	amod	_	_
 64	величества	величество	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	66	nmod	_	_
@@ -16051,7 +16051,7 @@
 32	Росіи	Россия	PROPN	_	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	33	nmod	_	_
 33	самодержца	самодержецъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	22	appos	_	SpaceAfter=No
 34	,	,	PUNCT	_	_	37	punct	_	_
-35	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	det	_	_
+35	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	det	_	_
 36	царского	царский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	37	amod	_	_
 37	величества	величество	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	22	appos	_	_
 38	высокою	высокий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	_
@@ -16126,7 +16126,7 @@
 52	никанского	никанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	49	conj	_	_
 53	царя	царь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	46	obl	_	_
 54	въ	въ	ADP	_	_	56	case	_	_
-55	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	56	det	_	_
+55	ихъ	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	56	det	_	_
 56	государствахъ	государство	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	46	obl	_	_
 57	и	и	CCONJ	_	_	60	cc	_	_
 58	въ	въ	ADP	_	_	60	case	_	_
@@ -16350,7 +16350,7 @@
 10	бога	богъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	appos	_	_
 11	вседръжителя	вседержитель	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	appos	_	_
 12	и	и	CCONJ	_	_	15	cc	_	_
-13	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	det	_	_
+13	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	det	_	_
 14	пречистыя	пречистый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
 15	матери	мать	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	conj	_	_
 16	владычица	владычица	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	15	appos	_	_
@@ -16477,7 +16477,7 @@
 94	,	,	PUNCT	_	_	98	punct	_	_
 95	и	и	CCONJ	_	_	98	cc	_	_
 96	пречистой	пречистый	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	98	amod	_	_
-97	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	98	det	_	_
+97	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	98	det	_	_
 98	богоматери	богомати	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	87	conj	_	SpaceAfter=No
 99	,	,	PUNCT	_	_	104	punct	_	_
 100	да	да	CCONJ	_	_	104	cc	_	_
@@ -16654,7 +16654,7 @@
 # sent_id = Simon_1501-8
 # text = А что вам заповедают держать по правилом святых апостол и святых отець пост или молитву, или ино что, и вы то приимайте с любовью и держите крепко.
 1	А	а	CCONJ	_	_	4	cc	_	_
-2	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	13	det	_	_
+2	что	что	PRON	_	Case=Acc|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	13	det	_	_
 3	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	4	iobj	_	_
 4	заповедают	заповѣдати	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	24	advcl	_	_
 5	держать	держати	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	_
@@ -16737,7 +16737,7 @@
 7	,	,	PUNCT	_	_	12	punct	_	_
 8	ни	ни	CCONJ	_	Polarity=Neg	12	cc	_	_
 9	треб	треба	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	12	obj	_	_
-10	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	det	_	_
+10	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	det	_	_
 11	не	не	PART	_	Polarity=Neg	12	advmod	_	_
 12	приимали	приимати	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	6	conj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	18	punct	_	_
@@ -16795,17 +16795,17 @@
 31	и	и	CCONJ	_	_	38	cc	_	_
 32	вторы[й]	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	35	amod	_	upos="ANUM"|_
 33	деи	деи	PART	_	_	38	discourse	_	_
-34	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	det	_	_
+34	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	det	_	_
 35	брат	братъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	38	nsubj	_	_
 36	жену	жена	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	38	obj	_	_
-37	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	det	_	_
+37	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	det	_	_
 38	поимает	поимати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	17	parataxis	_	SpaceAfter=No
 39	,	,	PUNCT	_	_	46	punct	_	_
 40	и	и	CCONJ	_	_	46	cc	_	_
 41	третьи	третий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	43	amod	_	upos="ANUM"|_
 42	деи	деи	PART	_	_	46	discourse	_	_
 43	брат	братъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	46	nsubj	_	_
-44	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	43	det	_	_
+44	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	43	det	_	_
 45	такожде	такожде	ADV	_	Degree=Pos|PronType=Dem	46	advmod	_	_
 46	творит	творити	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	38	conj	_	SpaceAfter=No
 47	.	.	PUNCT	_	_	5	punct	_	_
@@ -16833,7 +16833,7 @@
 6	закону	законъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	_
 7	християнскому	христианский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	_
-9	то	то	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	cc	_	_
+9	то	то	PRON	_	Case=Nom|ExtPos=CCONJ|Gender=Neut|Number=Sing|PronType=Dem	11	cc	_	_
 10	есть	быти	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	fixed	_	_
 11	развратно	развратный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	conj	_	_
 12	вере	вѣра	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	11	obl	_	_
@@ -17410,7 +17410,7 @@
 28	и	и	CCONJ	_	_	45	cc	_	_
 29	иные	иной	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	33	det	_	SpaceAfter=No
 30	,	,	PUNCT	_	_	31	punct	_	_
-31	г.	государь	NOUN	_	Abbr=Yes	29	vocative	_	SpaceAfter=No
+31	г.	государь	NOUN	_	Abbr=Yes	33	vocative	_	SpaceAfter=No
 32	,	,	PUNCT	_	_	31	punct	_	_
 33	слуги	слуга	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	45	nsubj	_	SpaceAfter=No
 34	,	,	PUNCT	_	_	35	punct	_	_
@@ -18009,7 +18009,7 @@
 11	,	,	PUNCT	_	_	14	punct	_	_
 12	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	14	obj	_	_
 13	сперва	сперва	ADV	_	Degree=Pos	14	advmod	_	_
-14	секли	сечи	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	8	acl:relcl	_	_
+14	секли	сечи	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	9	acl:relcl	_	_
 15	от	отъ	ADP	_	_	16	case	_	_
 16	дороги	дорога	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	23	punct	_	_
@@ -18270,7 +18270,7 @@
 3	пустоши	пустошь	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
 4	отводил	отводити	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
 5	отец	отецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-6	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	_
+6	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	_
 7	Максимов	максимовъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	5	amod	_	_
 8	при	при	ADP	_	_	9	case	_	_
 9	Путиле	Путила	PROPN	_	Case=Loc|Gender=Masc|NameType=Giv|Number=Sing	4	obl	_	SpaceAfter=No
@@ -18636,7 +18636,7 @@
 60	ту	тотъ	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	65	det	_	_
 61	же	же	PART	_	_	60	advmod	_	SpaceAfter=No
 62	,	,	PUNCT	_	_	63	punct	_	_
-63	г.	государь	NOUN	_	Abbr=Yes	60	vocative	_	SpaceAfter=No
+63	г.	государь	NOUN	_	Abbr=Yes	65	vocative	_	SpaceAfter=No
 64	,	,	PUNCT	_	_	63	punct	_	_
 65	пору	пора	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	66	obl	_	_
 66	прислано	прислати	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	conj	_	_
@@ -18686,7 +18686,7 @@
 12	и	и	CCONJ	_	_	18	cc	_	_
 13	те	тотъ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	17	det	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
-15	г.	государь	NOUN	_	Abbr=Yes	13	vocative	_	SpaceAfter=No
+15	г.	государь	NOUN	_	Abbr=Yes	17	vocative	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	15	punct	_	_
 17	пеньки	пенекъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	18	nsubj:pass	_	_
 18	посажены	посадити	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	conj	_	_
@@ -18802,7 +18802,7 @@
 10	и	и	CCONJ	_	_	18	cc	_	_
 11	те	тотъ	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	15	det	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
-13	г.	государь	NOUN	_	Abbr=Yes	11	vocative	_	SpaceAfter=No
+13	г.	государь	NOUN	_	Abbr=Yes	15	vocative	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	_
 15	вишны	вишня	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	18	nsubj:pass	_	_
 16	самые	самый	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Emp	17	det	_	_
@@ -19113,7 +19113,7 @@
 7	плот	плотъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 8	дворовые	дворовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	_
 9	люди	человѣкъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
-10	ее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	det	_	SpaceAfter=No
+10	ее	она	PRON	_	Case=Gen|ExtPos=DET|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	det	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	21	punct	_	_
 12	и	и	CCONJ	_	_	21	cc	_	_
 13	пригнав	пригнати	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	21	advcl	_	SpaceAfter=No
@@ -19324,7 +19324,7 @@
 12	в	въ	ADP	_	_	18	case	_	_
 13	твоем	твой	DET	_	Case=Loc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
-15	г.	государь	NOUN	_	Abbr=Yes	13	vocative	_	SpaceAfter=No
+15	г.	государь	NOUN	_	Abbr=Yes	18	vocative	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	15	punct	_	_
 17	в	въ	ADP	_	_	18	case	_	_
 18	селе	село	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	27	obl	_	_
@@ -19408,7 +19408,7 @@
 25	лес	лесъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	_
 26	рекою	река	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	23	iobj	_	_
 27	для	для	ADP	_	_	29	case	_	_
-28	ее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	det	_	_
+28	ее	она	PRON	_	Case=Gen|ExtPos=DET|Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	det	_	_
 29	нужи	нужа	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	23	obl	_	_
 30	к	къ	ADP	_	_	31	case	_	_
 31	Москве	Москва	PROPN	_	Case=Dat|Gender=Fem|NameType=Geo|Number=Sing	23	obl	_	SpaceAfter=No
@@ -19419,7 +19419,7 @@
 36	де	де	PART	_	_	42	discourse	_	_
 37	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	42	nsubj	_	_
 38	тово	тотъ	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	40	det	_	_
-39	ее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	40	det	_	_
+39	ее	она	PRON	_	Case=Gen|ExtPos=DET|Gender=Fem|Number=Sing|Person=3|PronType=Prs	40	det	_	_
 40	лесу	лесъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	42	obj	_	_
 41	не	не	PART	_	Polarity=Neg	42	advmod	_	_
 42	пропустишь	пропустити	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	23	conj	_	SpaceAfter=No
@@ -19444,7 +19444,7 @@
 15	тотчас	тотчасъ	ADV	_	Degree=Pos|PronType=Dem	16	advmod	_	_
 16	велел	велѣти	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
 17	тот	тотъ	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	19	det	_	_
-18	ее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	det	_	_
+18	ее	она	PRON	_	Case=Gen|ExtPos=DET|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	det	_	_
 19	лес	лесъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	20	obj	_	_
 20	пропус[тить]	пропустити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	xcomp	_	SpaceAfter=No
 21	;	;	PUNCT	_	_	32	punct	_	_
@@ -19642,7 +19642,7 @@
 25	в-	въ	ADP	_	_	30	case	_	SpaceAfter=No
 26	ыных	иной	DET	_	Case=Loc|Gender=Neut|Number=Plur|PronType=Tot	30	det	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	_
-28	г.	государь	NOUN	_	Abbr=Yes	26	vocative	_	SpaceAfter=No
+28	г.	государь	NOUN	_	Abbr=Yes	30	vocative	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	28	punct	_	_
 30	местях	мѣсто	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	32	nmod	_	_
 31	и	и	PART	_	_	32	advmod	_	_
@@ -19843,7 +19843,7 @@
 15	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obl	_	SpaceAfter=No
 16	;	;	PUNCT	_	_	37	punct	_	_
 17	а	а	CCONJ	_	_	25	cc	_	_
-18	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	25	det	_	_
+18	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	25	det	_	_
 19	у	у	ADP	_	_	20	case	_	_
 20	них	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	25	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	_
@@ -20152,9 +20152,9 @@
 # sent_id = 238_Morozov-4
 # text = А что, г., принято живой рыбы, стерлядей и лещей, и что ис тово числа поснуло, и что мера живой и сонной рыбе, и тому я, х. т., послал роспись к тебе, г., под сею отпискою.
 1	А	а	CCONJ	_	_	6	cc	_	_
-2	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	det	_	SpaceAfter=No
+2	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	8	det	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
-4	г.	государь	NOUN	_	Abbr=Yes	2	vocative	_	SpaceAfter=No
+4	г.	государь	NOUN	_	Abbr=Yes	6	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	принято	приняти	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	30	acl:relcl	_	_
 7	живой	живой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
@@ -20580,7 +20580,7 @@
 24	,	,	PUNCT	_	_	27	punct	_	_
 25	коя	кой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	26	det	_	_
 26	место	мѣсто	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	27	nsubj	_	_
-27	земля	земля	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	31	acl	_	_
+27	земля	земля	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	33	acl:relcl	_	_
 28	угодна	угодный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	27	amod	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	27	punct	_	_
 30	и	и	CCONJ	_	_	34	cc	_	_
@@ -20617,7 +20617,7 @@
 61	,	,	PUNCT	_	_	67	punct	_	_
 62	а	а	CCONJ	_	_	67	cc	_	_
 63	та	тотъ	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	66	det	_	_
-64	б	бъ	AUX	_	Analyt=Yes|Mood=Cnd	63	aux	_	_
+64	б	бъ	AUX	_	Analyt=Yes|Mood=Cnd	67	aux	_	_
 65	де	де	PART	_	_	66	discourse	_	_
 66	земля	земля	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	67	obj	_	_
 67	чистить	чистити	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	conj	_	_
@@ -20768,7 +20768,7 @@
 18	х	къ	ADP	_	_	23	case	_	_
 19	тем	тотъ	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem	23	det	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
-21	г.	государь	NOUN	_	Abbr=Yes	19	vocative	_	SpaceAfter=No
+21	г.	государь	NOUN	_	Abbr=Yes	23	vocative	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	21	punct	_	_
 23	пеньком	пенекъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	27	obl	_	_
 24	черенки	черенокъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	27	obj	_	_
@@ -21515,7 +21515,7 @@
 1	И	и	CCONJ	_	_	7	cc	_	_
 2	те	тотъ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
-4	г.	государь	NOUN	_	Abbr=Yes	2	vocative	_	SpaceAfter=No
+4	г.	государь	NOUN	_	Abbr=Yes	6	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	лещи	лещь	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
 7	пошли	пойти	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	SpaceAfter=No
@@ -21535,7 +21535,7 @@
 21	а	а	CCONJ	_	_	29	cc	_	_
 22	тот	тотъ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	27	det	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	_
-24	г.	государь	NOUN	_	Abbr=Yes	22	vocative	_	SpaceAfter=No
+24	г.	государь	NOUN	_	Abbr=Yes	27	vocative	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	24	punct	_	_
 26	сонной	сонный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	_
 27	лещь	лещь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	_
@@ -21951,7 +21951,7 @@
 10	Суровцова	Суровцовъ	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Sur|Number=Sing	9	flat:name	_	_
 11	-	-	PUNCT	_	_	14	punct	_	_
 12	про	про	ADP	_	_	14	case	_	_
-13	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	det	_	_
+13	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	det	_	_
 14	ослушанье	ослушанье	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	appos	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	18	punct	_	_
 16	и	и	CCONJ	_	_	18	cc	_	_
@@ -22083,7 +22083,7 @@
 1	А	а	CCONJ	_	_	11	cc	_	_
 2	таковых	таковой	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
-4	г.	государь	NOUN	_	Abbr=Yes	2	vocative	_	SpaceAfter=No
+4	г.	государь	NOUN	_	Abbr=Yes	6	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	озорников	озорникъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	11	obj	_	_
 7	в	въ	ADP	_	_	8	case	_	_
@@ -22165,7 +22165,7 @@
 13	Соровцов	Соровцовъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	12	flat:name	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	17	punct	_	_
 15	про	про	ADP	_	_	17	case	_	_
-16	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	det	_	_
+16	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	det	_	_
 17	ослушанье	ослушанье	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	appos	_	_
 18	и	и	CCONJ	_	_	19	cc	_	_
 19	огурство	огурство	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	conj	_	SpaceAfter=No
@@ -22237,7 +22237,7 @@
 25	,	,	PUNCT	_	_	27	punct	_	_
 26	и	и	CCONJ	_	_	27	cc	_	_
 27	угодников	угодникъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	21	conj	_	_
-28	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	det	_	_
+28	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	det	_	_
 29	от	отъ	ADP	_	_	30	case	_	_
 30	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	14	conj	_	_
 31	и	и	CCONJ	_	_	35	cc	_	_
@@ -22297,7 +22297,7 @@
 6	нет	нѣтъ	VERB	_	Polarity=Neg	0	root	_	_
 7	со	съ	ADP	_	_	10	case	_	_
 8	всеми	весь	DET	_	Case=Ins|Gender=Masc|Number=Plur|PronType=Tot	10	det	_	_
-9	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	det	_	_
+9	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	det	_	_
 10	угодники	угодникъ	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -22502,7 +22502,7 @@
 66	дьявола	дьяволъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	64	conj	_	_
 67	и	и	CCONJ	_	_	68	cc	_	_
 68	угодников	угодникъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	66	conj	_	_
-69	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	68	det	_	_
+69	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	68	det	_	_
 70	допочеватца	допотчиватися	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	63	xcomp	_	_
 71	со	съ	ADP	_	_	72	case	_	_
 72	мною	я	PRON	_	Case=Ins|Number=Sing|Person=1|PronType=Prs	70	obl	_	_
@@ -22817,7 +22817,7 @@
 33	и	и	CCONJ	_	_	37	cc	_	_
 34	по	по	ADP	_	_	37	case	_	_
 35	сей	сей	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	37	det	_	_
-36	{л._41_об.}	_	X	_	_	35	dep	_	NoIndex=Yes
+36	{л._41_об.}	_	X	_	_	37	dep	_	NoIndex=Yes
 37	час	часъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	32	conj	_	SpaceAfter=No
 38	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -22971,13 +22971,13 @@
 19	,	,	PUNCT	_	_	18	punct	_	_
 20	да	да	CCONJ	_	_	21	cc	_	_
 21	брату	братъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	16	conj	_	_
-22	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	det	_	_
+22	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	det	_	_
 23	Ибай	Ибай	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	24	compound	_	_
 24	мурзе	мурза	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	21	appos	_	_
 25	на	на	ADP	_	_	26	case	_	_
 26	Романове	Романово	PROPN	_	Case=Loc|Gender=Neut|NameType=Geo|Number=Sing	14	obl	_	_
 27	отца	отецъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	_
-28	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	27	det	_	_
+28	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	27	det	_	_
 29	помесье	помѣсье	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	14	nsubj:pass	_	_
 30	село	село	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	29	appos	_	_
 31	Богородицкое	Богородицкое	PROPN	_	Case=Nom|Gender=Neut|NameType=Geo|Number=Sing	30	appos	_	_
@@ -22995,11 +22995,11 @@
 3	том	тотъ	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	_
 4	деи	деи	PART	_	_	3	discourse	_	_
 5	отца	отецъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
-6	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	_
+6	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	_
 7	поместье	помѣстье	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
 8	у	у	ADP	_	_	9	case	_	_
 9	отца	отецъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	obl	_	_
-10	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	det	_	_
+10	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	det	_	_
 11	устроено	устроити	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
 12	казаков	казакъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	_
 13	служилых	служилый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	14	amod	_	_
@@ -23052,7 +23052,7 @@
 1	И	и	CCONJ	_	_	2	cc	_	_
 2	брата	братъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nsubj	_	_
 3	де	де	PART	_	_	2	discourse	_	_
-4	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	det	_	_
+4	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	det	_	_
 5	Ибай	Ибай	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	compound	_	_
 6	мурзы	мурза	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	appos	_	_
 7	не	не	PART	_	Polarity=Neg	8	advmod	_	_
@@ -23062,11 +23062,11 @@
 11	тот	тотъ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	21	det	_	_
 12	деи	деи	PART	_	_	11	discourse	_	_
 13	отца	отецъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
-14	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	det	_	_
+14	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	det	_	_
 15	поместья	помѣстье	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
 16	половина	половина	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	22	nsubj:pass	_	_
 17	брата	братъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
-18	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det	_	_
+18	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det	_	_
 19	Ибай	Ибай	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	20	compound	_	_
 20	мурзин	мурзинъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	21	amod	_	_
 21	жребей	жребий	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	appos	_	_
@@ -23083,7 +23083,7 @@
 32	Еналей	Еналей	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	31	appos	_	_
 33	того	тотъ	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	38	det	_	_
 34	брата	братъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	37	nmod	_	_
-35	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	det	_	_
+35	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	det	_	_
 36	Ибай	Ибай	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	37	compound	_	_
 37	мурзина	мурзинъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	38	amod	_	_
 38	поместья	помѣстье	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	39	obj	_	_
@@ -23107,7 +23107,7 @@
 9	которых	который	DET	_	Case=Loc|Gender=Masc|Number=Plur|PronType=Rel	10	obl	_	_
 10	устроены	устроити	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	acl:relcl	_	_
 11	были	быти	AUX	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	10	aux:pass	_	_
-12	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	det	_	_
+12	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	det	_	_
 13	казаки	казакъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	nsubj:pass	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	Маметкул	Маметкулъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	13	appos	_	_
@@ -23131,7 +23131,7 @@
 33	в	въ	ADP	_	_	34	case	_	_
 34	помесье	помѣстье	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	31	obl	_	_
 35	в	въ	ADP	_	_	37	case	_	_
-36	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	37	det	_	_
+36	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	37	det	_	_
 37	оклады	окладъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	31	obl	_	SpaceAfter=No
 38	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -23142,7 +23142,7 @@
 3	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	8	aux	_	_
 4	то	тотъ	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	_
 5	отца	отецъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
-6	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	_
+6	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	_
 7	поместье	помѣстье	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
 8	велети	велѣти	VERB	_	VerbForm=Inf|Voice=Act	0	root	_	_
 9	дати	дати	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	_
@@ -23154,7 +23154,7 @@
 15	было	быти	AUX	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	14	cop	_	_
 16	за	за	ADP	_	_	17	case	_	_
 17	отцом	отецъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	14	obl	_	_
-18	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det	_	SpaceAfter=No
+18	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	14	punct	_	_
 20	и	и	CCONJ	_	_	23	cc	_	_
 21	казаков	казакъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	23	obj	_	_
@@ -23200,7 +23200,7 @@
 26	были	быти	AUX	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	25	cop	_	_
 27	при	при	ADP	_	_	28	case	_	_
 28	отце	отецъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	25	obl	_	_
-29	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	det	_	_
+29	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	det	_	_
 30	при	при	ADP	_	_	32	case	_	_
 31	Иль	Иль	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	32	compound	_	_
 32	мурзе	мурза	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	28	appos	_	_
@@ -23259,7 +23259,7 @@
 6	служили	служити	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	36	acl:relcl	_	_
 7	при	при	ADP	_	_	8	case	_	_
 8	отце	отецъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
-9	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	SpaceAfter=No
+9	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
 11	а	а	CCONJ	_	_	13	cc	_	_
 12	ныне	нынѣ	ADV	_	Degree=Pos	13	advmod	_	_
@@ -23300,7 +23300,7 @@
 47	были	быти	AUX	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	46	aux:pass	_	_
 48	при	при	ADP	_	_	49	case	_	_
 49	отце	отецъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	46	obl	_	_
-50	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	49	det	_	_
+50	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	49	det	_	_
 51	при	при	ADP	_	_	53	case	_	_
 52	Иль	Иль	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	53	compound	_	_
 53	мурзе	мурза	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	49	appos	_	_
@@ -23324,7 +23324,7 @@
 13	Помесном	помѣстный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
 14	приказе	приказъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	19	obl	_	_
 15	то	тотъ	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	17	det	_	_
-16	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det	_	_
+16	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det	_	_
 17	поместье	помѣстье	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	19	obj	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	17	punct	_	_
 19	сыскав	сыскати	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	25	advcl	_	_
@@ -23337,7 +23337,7 @@
 26	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
 27	на	на	ADP	_	_	30	case	_	_
 28	то	тотъ	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	30	det	_	_
-29	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	det	_	_
+29	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	det	_	_
 30	помесье	помѣстье	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	31	obl	_	_
 31	дати	дати	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	25	xcomp	_	_
 32	жаловалную	жаловальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	33	amod	_	_
@@ -23737,7 +23737,7 @@
 56	и	и	CCONJ	_	_	60	cc	_	_
 57	къ	къ	ADP	_	_	60	case	_	_
 58	улуснымъ	улусный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	60	amod	_	_
-59	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	60	det	_	_
+59	ихъ	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	60	det	_	_
 60	людемъ	человѣкъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	55	conj	_	_
 61	по	по	ADP	_	_	62	case	_	_
 62	честу	часто	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	46	obl	_	_
@@ -23946,7 +23946,7 @@
 64	,	,	PUNCT	_	_	65	punct	_	_
 65	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	63	vocative	_	SpaceAfter=No
 66	,	,	PUNCT	_	_	65	punct	_	_
-67	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	63	det	_	_
+67	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	63	det	_	_
 68	съ	съ	ADP	_	_	69	case	_	_
 69	нимъ	онъ	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	63	nmod	_	SpaceAfter=No
 70	:	:	PUNCT	_	_	71	punct	_	_
@@ -24098,7 +24098,7 @@
 8	мурзами	мурза	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	7	appos	_	_
 9	улусные	улусный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	_
 10	люди	человѣкъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
-11	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	det	_	_
+11	ихъ	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	det	_	_
 12	з	съ	ADP	_	_	13	case	_	_
 13	животию	животь	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	_
 14	ещо	еще	ADV	_	Degree=Pos	16	advmod	_	_
@@ -24172,7 +24172,7 @@
 1	А	а	CCONJ	_	_	37	cc	_	_
 2	которые	который	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	6	det	_	Norm=который|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
-4	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	Norm=государь|SpaceAfter=No
+4	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	Norm=государь|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	выхотцы	выходецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
 7	выходетъ	выходити	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	acl:relcl	_	_
@@ -24301,7 +24301,7 @@
 52	и	и	CCONJ	_	_	51	fixed	_	_
 53	самимъ	самъ	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Emp	57	det	_	Norm=самъ|SpaceAfter=No
 54	,	,	PUNCT	_	_	55	punct	_	_
-55	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	53	vocative	_	Norm=государь|SpaceAfter=No
+55	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	57	vocative	_	Norm=государь|SpaceAfter=No
 56	,	,	PUNCT	_	_	55	punct	_	_
 57	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	73	iobj	_	_
 58	къ	къ	ADP	_	_	60	case	_	_
@@ -24337,12 +24337,12 @@
 88	неноково	на+нѣкого	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Polarity=Neg	17	conj	_	Norm=нѣнакого|SpaceAfter=No
 89	;	;	PUNCT	_	_	117	punct	_	_
 90	а	а	CCONJ	_	_	117	cc	_	_
-91	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	95	det	_	_
+91	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	95	det	_	_
 92	было	быти	AUX	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	96	cop	_	_
 93	твое	твой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	95	det	_	_
 94	государева	государевъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes|Variant=Short	95	amod	_	_
 95	жалованья	жалованье	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	96	nsubj:pass	_	_
-96	прислана	прислати	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	110	acl:relcl	_	_
+96	прислана	прислати	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	113	acl:relcl	_	_
 97	къ	къ	ADP	_	_	98	case	_	_
 98	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	96	obl	_	_
 99	съ	съ	ADP	_	_	100	case	_	_
@@ -24354,7 +24354,7 @@
 105	и	и	CCONJ	_	_	106	cc	_	_
 106	деньги	деньга	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	104	conj	_	Norm=деньга|SpaceAfter=No
 107	,	,	PUNCT	_	_	96	punct	_	_
-108	{л._3}	_	X	_	_	110	dep	_	_
+108	{л._3}	_	X	_	_	117	dep	_	_
 109	и	и	CCONJ	_	_	117	cc	_	_
 110	то	тотъ	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	113	det	_	_
 111	твое	твой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	113	det	_	_
@@ -24492,7 +24492,7 @@
 14	мурза	мурза	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	appos	_	Norm=мурза|SpaceAfter=No
 15	,	,	PUNCT	_	_	20	punct	_	Norm=,
 16	чтобъ	чтобъ	SCONJ	_	Analyt=Yes|Mood=Cnd	20	mark	_	Norm=чтобъ
-17	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	det	_	Norm=ево
+17	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	det	_	Norm=ево
 18	однова	одинъ	NUM	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	19	nummod	_	Norm=однова
 19	сына	сынъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	20	obj	_	Norm=сына
 20	отпустить	отпустити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	advcl	_	Norm=отпустить
@@ -24513,7 +24513,7 @@
 35	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	33	vocative	_	Norm=государь|SpaceAfter=No
 36	,	,	PUNCT	_	_	35	punct	_	Norm=,
 37	отпустили	отпустити	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	2	conj	_	Norm=отпустили
-38	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	det	_	Norm=ево
+38	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	det	_	Norm=ево
 39	сына	сынъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	37	obj	_	Norm=сына
 40	Емурчу	Емурча	PROPN	_	Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	39	appos	_	Norm=Емурчу
 41	мурзу	мурза	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	40	appos	_	Norm=мурзу
@@ -24916,7 +24916,7 @@
 # text = А та моя, Замятнина, вотчина, опричь Романа, не продана никому и не залажена ни у каво ни в чем, нет тое моей вотчины ни у каво ни в каких крепостях, ни в кобалах в денежных, ни в хлебных, ни в записях, ни в купчих, ни по душе в моностырь не отдана, ни в приданые не отдана.
 1	А	а	CCONJ	_	_	13	cc	_	norm="А"
 2	та	тотъ	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	norm="та"|Decl=X|End=а|check=@
-3	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	norm="моя"|Decl=X|End=яо|SpaceAfter=No|check=@
+3	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	acl	_	norm="моя"|Decl=X|End=яо|SpaceAfter=No|check=@
 4	,	,	PUNCT	_	_	5	punct	_	norm=","
 5	Замятнина	замятнинъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	3	appos	_	norm="Замятнина"|Decl=X|End=а|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	norm=","
@@ -25095,7 +25095,7 @@
 # sent_id = afz2__AFZ_2_394-8
 # text = А что Роман вперед на тех пусташех харом поставит, а вперед будет хто тое вотчину похочет выкупить, — и ему за те харомы деньги платити по цене.
 1	А	а	CCONJ	_	_	27	cc	_	norm="А"
-2	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	8	det	_	norm="что"|Decl=X|End=о
+2	что	что	PRON	_	Case=Acc|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	8	det	_	norm="что"|Decl=X|End=о
 3	Роман	Романъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	nsubj	_	norm="Роман"|Decl=2|End=0
 4	вперед	впередъ	ADV	_	Degree=Pos	9	advmod	_	norm="вперед"
 5	на	на	ADP	_	_	7	case	_	norm="на"|check=@
@@ -25323,7 +25323,7 @@
 11	брат	братъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	norm="брат"|Decl=2|End=0|check=@
 12	твой	твой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	norm="твой"|Decl=X|End=йо|SpaceAfter=No|check=@
 13	,	,	PUNCT	_	_	14	punct	_	norm=","
-14	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	vocative	_	norm="государь"|Decl=2|End=ь0|SpaceAfter=No
+14	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	vocative	_	norm="государь"|Decl=2|End=ь0|SpaceAfter=No
 15	,	,	PUNCT	_	_	14	punct	_	norm=","
 16	наш	нашъ	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	17	det	_	norm="наш"|Decl=X|End=0|check=@
 17	царь	царь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	norm="царь"|Decl=2|End=ь0|check=@
@@ -25497,7 +25497,7 @@
 55	и	и	CCONJ	_	_	56	cc	_	norm="и"
 56	лес	лѣсъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	54	conj	_	norm="лес"|Decl=2|End=0
 57	от	отъ	ADP	_	_	60	case	_	norm="от"
-58	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	60	det	_	norm="их"|Decl=X|End=х|check=@
+58	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	60	det	_	norm="их"|Decl=X|End=х|check=@
 59	поместных	помѣстный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	60	amod	_	norm="поместных"|Decl=X|End=хы|check=@
 60	земель	земля	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	23	obl	_	norm="земель"|Decl=1a|End=ь0|SpaceAfter=No|check=@
 61	,	,	PUNCT	_	_	63	punct	_	norm=","
@@ -25537,7 +25537,7 @@
 17	всеа	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	18	det	_	norm="всеа"|Decl=X|End=ае|check=@
 18	Русии	Русия	PROPN	_	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	15	nmod	_	norm="Русии"|Decl=1i|End=ии|SpaceAfter=No|check=@
 19	,	,	PUNCT	_	_	10	punct	_	norm=","
-20	твои	твой	DET	_	Case=Nom|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	24	det	_	norm="твои"|Decl=X|End=ио|SpaceAfter=No
+20	твои	твой	DET	_	Case=Nom|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	24	acl	_	norm="твои"|Decl=X|End=ио|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	norm=","
 22	государевы	государевъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Variant=Short	20	appos	_	norm="государевы"|Decl=X|End=ы|SpaceAfter=No
 23	,	,	PUNCT	_	_	22	punct	_	norm=","
@@ -25584,7 +25584,7 @@
 # text = И по их, государь, челобитью дана тем детем боярским твоя государева царьская грамота в Белев к осадной голове к Семену х Кологривову, а велено у нас те починки отъехати.
 1	И	и	CCONJ	_	_	8	cc	_	norm="И"
 2	по	по	ADP	_	_	7	case	_	norm="по"
-3	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	det	_	norm="их"|Decl=X|End=х|SpaceAfter=No
+3	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	det	_	norm="их"|Decl=X|End=х|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	norm=","
 5	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	vocative	_	norm="государь"|Decl=2|End=ь0|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	norm=","
@@ -25689,7 +25689,7 @@
 # text = И в твоей, государеве царьской жаловальной тарханной грамоте ныне {л._2} написано то село Веина з деревнями и с починки.
 1	И	и	CCONJ	_	_	12	cc	_	norm="И"
 2	в	въ	ADP	_	_	9	case	_	norm="в"
-3	твоей	твой	DET	_	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	norm="твоей"|Decl=X|End=йе|SpaceAfter=No
+3	твоей	твой	DET	_	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	acl	_	norm="твоей"|Decl=X|End=йе|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	norm=","
 5	государеве	государевъ	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	3	appos	_	norm="государеве"|Decl=Poss|End=е
 6	царьской	царский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	norm="царьской"|Decl=X|End=йо|check=@
@@ -25928,7 +25928,7 @@
 2	грамота	грамота	NOUN	Case=Nom1	Case=Nom|Gender=Fem|Number=Sing	1	obj	_	norm="грамота"|Decl=1a|End=а|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	norm=","
 4	велети	велѣти	VERB	_	VerbForm=Inf|Voice=Act	1	conj	_	norm="велети"|Decl=X|End=ит
-5	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	det	_	norm="их"|Decl=X|End=х|check=@
+5	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	det	_	norm="их"|Decl=X|End=х|check=@
 6	земля	земля	NOUN	Case=Nom1	Case=Nom|Gender=Fem|Number=Sing	12	obj	_	norm="земля"|Decl=1a|End=я|check=@
 7	по	по	ADP	_	_	10	case	_	norm="по"
 8	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	obl	_	norm="их"|Decl=X|End=х
@@ -26104,7 +26104,7 @@
 123	,	,	PUNCT	_	_	127	punct	_	norm=","
 124	к	къ	ADP	_	_	127	case	_	norm="к"
 125	старому	старый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	127	amod	_	norm="старому"|Decl=X|End=умо|check=@
-126	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	127	det	_	norm="его"|Decl=X|End=оге|check=@
+126	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	127	det	_	norm="его"|Decl=X|End=оге|check=@
 127	поместью	помѣстье	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	64	nmod	_	norm="поместью"|Decl=2i|End=юь|check=@
 128	45	45	NUM	_	Case=Dat|NumForm=Digit|NumType=Card	129	nummod	_	norm="45"|Decl=X|End=_
 129	четвертям	четверть	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	127	nmod	_	norm="четвертям"|Decl=1a|End=мя|SpaceAfter=No
@@ -26293,7 +26293,7 @@
 72	грамоту	грамота	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	69	obj	_	norm="грамоту"|Decl=1a|End=у|SpaceAfter=No
 73	,	,	PUNCT	_	_	103	punct	_	norm=","
 74	что	что	SCONJ	_	_	103	mark	_	norm="что"
-75	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	77	det	_	norm="ево"|Decl=X|End=ове|check=@
+75	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	77	det	_	norm="ево"|Decl=X|End=ове|check=@
 76	патриаршеских	патриаршеский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	77	amod	_	norm="патриаршеских"|Decl=X|End=хи|check=@
 77	монастыреи	монастырь	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	78	nmod	_	norm="монастыреи"|Decl=2|End=ие|check=@
 78	архимаритов	архимандритъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	103	obj	_	norm="архимаритов"|Decl=2|End=во|SpaceAfter=No
@@ -26388,7 +26388,7 @@
 27	рудят	рудити	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	norm="рудят"|Decl=X|End=тя
 28	и	и	CCONJ	_	_	33	cc	_	norm="и"
 29	людей	человѣкъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	33	obj	_	norm="людей"|Decl=2|End=йе
-30	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	det	_	norm="ево"|Decl=X|End=ове|check=@
+30	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	det	_	norm="ево"|Decl=X|End=ове|check=@
 31	всяких	всякий	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	29	det	_	norm="всяких"|Decl=X|End=хи|check=@
 32	не	не	PART	_	Polarity=Neg	33	advmod	_	norm="не"
 33	судят	судити	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	conj	_	norm="судят"|Decl=X|End=тя|SpaceAfter=No
@@ -27505,7 +27505,7 @@
 2	ктось	ктось	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	norm="ктось"|Decl=X|End=ь0
 3	ослушает	ослушати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	15	advcl	_	norm="ослушает"|Decl=X|End=те
 4	сее	сей	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	norm="сее"|Decl=X|End=ее|check=@
-5	моей	мой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	norm="моей"|Decl=X|End=йе|check=@
+5	моей	мой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	acl	_	norm="моей"|Decl=X|End=йе|check=@
 6	грамоты	грамота	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	obj	_	norm="грамоты"|Decl=1a|End=ы|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	norm=","
 8	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	norm="великого"|Decl=X|End=ого|check=@
@@ -27556,7 +27556,7 @@
 
 # sent_id = gramoty_akty_14_16__192_akty_XIV_XVI-2
 # text = Что им дал Борисъ Ивано[в] с[ы]нъ Потопчина село Нефед[ь]євьскоє и з деревнѧми на Оуглечѣ, и ꙗз, кн[ѧ]зь велики, пожаловал: которыє люди оу них в тех селцѣх и в деревнѧх ннынича живут старожилци, или кого к собѣ в то село и в деревьни призовут жити людеи старожилцов, которыи переж сего туто живали, или призовут кого к себѣ людеи из-ыных кн[ѧ]женеи, а не из моиє вотчины, [и]з великого кн[ѧ]женьꙗ, ино тутошним их людєм старожилцем, которыє нынича оу них живут, и тѣм ихъ людєм не надобѣ моꙗ дан[ь] на пѧт[ь] лѣт, а пришлым людєм старожилцом, а тѣм не надобє моꙗ дан[ь] на семь лѣт, а призваным людем из-ыных кн[ѧ]женеи, а тѣм не надобе моꙗ дан[ь] на десѧт[ь] лѣт.
-1	Что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	det	_	norm="Что"|Decl=X|End=о
+1	Что	что	PRON	_	Case=Acc|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	9	det	_	norm="Что"|Decl=X|End=о
 2	им	они	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	iobj	_	norm="им"|Decl=X|End=м
 3	дал	дати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	22	dislocated	_	norm="дал"|Decl=X|End=л
 4	Борисъ	Борисъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	norm="Борисъ"|Decl=2|End=ъ0|[G]
@@ -27636,7 +27636,7 @@
 78	,	,	PUNCT	_	_	35	punct	_	norm=","
 79	ино	ино	SCONJ	_	_	96	mark	_	norm="ино"
 80	тутошним	тутошний	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	82	amod	_	norm="тутошним"|Decl=X|End=ми|check=@
-81	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	82	det	_	norm="их"|Decl=X|End=х|check=@
+81	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	82	det	_	norm="их"|Decl=X|End=х|check=@
 82	людєм	человѣкъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	96	iobj	_	norm="людєм"|Decl=2|End=мє|check=@
 83	старожилцем	старожилецъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	82	appos	_	norm="старожилцем"|Decl=2|End=ме|SpaceAfter=No
 84	,	,	PUNCT	_	_	89	punct	_	norm=","
@@ -27648,7 +27648,7 @@
 90	,	,	PUNCT	_	_	94	punct	_	norm=","
 91	и	и	CCONJ	_	_	94	cc	_	norm="и"
 92	тѣм	тотъ	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem	94	det	_	norm="тѣм"|Decl=X|End=мѣ|check=@
-93	ихъ	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	94	det	_	norm="ихъ"|Decl=X|End=ъх|check=@
+93	ихъ	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	94	det	_	norm="ихъ"|Decl=X|End=ъх|check=@
 94	людєм	человѣкъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	82	conj	_	norm="людєм"|Decl=2|End=мє|check=@
 95	не	не	PART	_	Polarity=Neg	96	advmod	_	norm="не"
 96	надобѣ	надобѣ	VERB	PRED	_	22	parataxis	_	upos="PRAEDIC"|norm="надобѣ"|Decl=PRAEDIC|End=ѣ
@@ -27759,7 +27759,7 @@
 5	и	и	CCONJ	_	_	6	cc	_	norm="и"
 6	волостели	волостель	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	norm="волостели"|Decl=2|End=и
 7	и	и	CCONJ	_	_	9	cc	_	norm="и"
-8	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	det	_	norm="их"|Decl=X|End=х|check=@
+8	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	det	_	norm="их"|Decl=X|End=х|check=@
 9	тивуни	тиунъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	norm="тивуни"|Decl=2|End=и|check=@
 10	в	въ	ADP	_	_	12	case	_	norm="в"|check=@
 11	то	тотъ	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	12	det	_	norm="то"|Decl=X|End=о|check=@
@@ -27770,7 +27770,7 @@
 16	к	къ	ADP	_	_	20	case	_	norm="к"
 17	тѣм	тотъ	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem	20	det	_	norm="тѣм"|Decl=X|End=мѣ
 18	къ	къ	ADP	_	_	19	case	_	norm="къ"|check=@
-19	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	det	_	norm="их"|Decl=X|End=х|check=@
+19	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	det	_	norm="их"|Decl=X|End=х|check=@
 20	людем	человѣкъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	24	obl	_	norm="людем"|Decl=2|End=ме|check=@
 21	ко	къ	ADP	_	_	22	case	_	norm="ко"|check=@
 22	всѣм	весь	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Tot	20	det	_	norm="всѣм"|Decl=X|End=мѣ|check=@
@@ -27800,7 +27800,7 @@
 # text = А довотчики их и мои праведщик[и] поборов оу них не берут.
 1	А	а	CCONJ	_	_	11	cc	_	norm="А"
 2	довотчики	доводчикъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	norm="довотчики"|Decl=2|End=и|check=@
-3	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	det	_	norm="их"|Decl=X|End=х|check=@
+3	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	det	_	norm="их"|Decl=X|End=х|check=@
 4	и	и	CCONJ	_	_	6	cc	_	norm="и"
 5	мои	мой	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det	_	norm="мои"|Decl=X|End=ио|check=@
 6	праведщик[и]	праведчикъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	norm="праведщики"|Decl=2|End=и|check=@
@@ -27837,7 +27837,7 @@
 3	суд	судъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	norm="суд"|Decl=2|End=0
 4	смѣстны	смѣстный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	3	amod	_	norm="смѣстны"|Decl=X|End=ы
 5	тѣм	тотъ	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem	7	det	_	norm="тѣм"|Decl=X|End=мѣ|check=@
-6	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	det	_	norm="их"|Decl=X|End=х|check=@
+6	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	det	_	norm="их"|Decl=X|End=х|check=@
 7	людем	человѣкъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	2	iobj	_	norm="людем"|Decl=2|End=ме|SpaceAfter=No|check=@
 8	,	,	PUNCT	_	_	2	punct	_	norm=","
 9	и	и	CCONJ	_	_	16	cc	_	norm="и"
@@ -27845,7 +27845,7 @@
 11	и	и	CCONJ	_	_	12	cc	_	norm="и"
 12	волостели	волостель	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	conj	_	norm="волостели"|Decl=2|End=и
 13	и	и	CCONJ	_	_	15	cc	_	norm="и"
-14	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	det	_	norm="их"|Decl=X|End=х|check=@
+14	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	det	_	norm="их"|Decl=X|End=х|check=@
 15	тивуни	тиунъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	conj	_	norm="тивуни"|Decl=2|End=и|check=@
 16	судѧт	судити	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	norm="судѧт"|Decl=X|End=тѧ|SpaceAfter=No
 17	,	,	PUNCT	_	_	26	punct	_	norm=","
@@ -27877,7 +27877,7 @@
 13	,	,	PUNCT	_	_	14	punct	_	norm=","
 14	игуменов	игуменовъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	11	conj	_	norm="игуменов"|Decl=2|End=во
 15	и	и	CCONJ	_	_	17	cc	_	norm="и"
-16	єго	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det	_	norm="єго"|Decl=X|End=о|check=@
+16	єго	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det	_	norm="єго"|Decl=X|End=о|check=@
 17	брат[ьи]	братия	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	11	conj	_	norm="братьи"|Decl=1i|End=иь|SpaceAfter=No
 18	,	,	PUNCT	_	_	2	punct	_	norm=","
 19	и	и	CCONJ	_	_	21	cc	_	norm="и"
@@ -27899,13 +27899,13 @@
 35	и	и	CCONJ	_	_	36	cc	_	norm="и"
 36	волостели	волостель	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	33	conj	_	norm="волостели"|Decl=2|End=и
 37	и	и	CCONJ	_	_	39	cc	_	norm="и"
-38	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	39	det	_	norm="их"|Decl=X|End=х|check=@
+38	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	39	det	_	norm="их"|Decl=X|End=х|check=@
 39	тивуни	тиунъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	33	conj	_	norm="тивуни"|Decl=2|End=и|check=@
 40	в	въ	ADP	_	_	45	case	_	norm="в"
 41	тог[о]	тотъ	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	45	det	_	norm="того"|Decl=X|End=ого
 42	сѧ	ся	PRON	_	Analyt=Yes|PronType=Prs|Reflex=Yes	47	expl:pv	_	norm="сѧ"|Decl=X|End=_
 43	вь	въ	ADP	_	_	45	case	_	norm="вь"|check=@
-44	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	45	det	_	norm="их"|Decl=X|End=х|check=@
+44	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	45	det	_	norm="их"|Decl=X|End=х|check=@
 45	ч[е]л[о]в[е]ка	человѣкъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	47	obl	_	norm="человека"|Decl=2|End=а|check=@
 46	не	не	PART	_	Polarity=Neg	47	advmod	_	norm="не"
 47	вступают	вступати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	conj	_	norm="вступают"|Decl=X|End=тю
@@ -27923,7 +27923,7 @@
 1	А	а	CCONJ	_	_	15	cc	_	norm="А"
 2	игумен	игуменъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	norm="игумен"|Decl=2|End=0
 3	и	и	CCONJ	_	_	5	cc	_	norm="и"
-4	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	norm="его"|Decl=X|End=оге|check=@
+4	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	norm="его"|Decl=X|End=оге|check=@
 5	брат[ь]ꙗ	братия	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	norm="братьꙗ"|Decl=1i|End=ꙗь|check=@
 6	и	и	CCONJ	_	_	7	cc	_	norm="и"
 7	приказник	приказникъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	norm="приказник"|Decl=2|End=0
@@ -27954,7 +27954,7 @@
 4	и	и	CCONJ	_	_	5	cc	_	norm="и"
 5	волостели	волостель	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	norm="волостели"|Decl=2|End=и
 6	и	и	CCONJ	_	_	8	cc	_	norm="и"
-7	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	det	_	norm="их"|Decl=X|End=х|check=@
+7	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	det	_	norm="их"|Decl=X|End=х|check=@
 8	тивуни	тиунъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	norm="тивуни"|Decl=2|End=и|check=@
 9	знают	знати	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	norm="знают"|Decl=X|End=тю
 10	того	тотъ	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	norm="того"|Decl=X|End=ого|check=@
@@ -27974,7 +27974,7 @@
 1	А	а	CCONJ	_	_	11	cc	_	norm="А"
 2	отсидѧт	отсидѣти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	advcl	_	norm="отсидѧт"|Decl=X|End=тѧ
 3	тѣ	тотъ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	norm="тѣ"|Decl=X|End=ѣ|check=@
-4	их	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	norm="их"|Decl=X|End=х|check=@
+4	их	они	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	norm="их"|Decl=X|End=х|check=@
 5	люд[и]	человѣкъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	norm="люди"|Decl=2|End=и|check=@
 6	оурочные	урочный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	7	amod	_	norm="оурочные"|Decl=X|End=еы|check=@
 7	лѣта	лѣто	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obl:tmod	_	norm="лѣта"|Decl=2|End=а|SpaceAfter=No|check=@
@@ -28424,7 +28424,7 @@
 17	Васильевиче	Васильевичь	PROPN	_	Case=Loc|Gender=Masc|NameType=Pat|Number=Sing	16	flat:name	_	norm="Васильевиче"|Decl=2|End=е|[G]
 18	и	и	CCONJ	_	_	19	cc	_	norm="и"
 19	сынѣ	сынъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	16	conj	_	norm="сынѣ"|Decl=2|End=ѣ|check=@
-20	его	и	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	det	_	norm="его"|Decl=X|End=оге|check=@
+20	его	и	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	det	_	norm="его"|Decl=X|End=оге|check=@
 21	Иване	Иванъ	PROPN	_	Case=Loc|Gender=Masc|NameType=Giv|Number=Sing	19	appos	_	norm="Иване"|Decl=2|End=е|SpaceAfter=No
 22	.	.	PUNCT	_	_	8	punct	_	norm="."
 
@@ -28728,7 +28728,7 @@
 38	а	а	CCONJ	_	_	43	cc	_	norm="а"
 39	не	не	PART	_	Polarity=Neg	43	advmod	_	norm="не"
 40	по	по	ADP	_	_	43	case	_	norm="по"
-41	их	и	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	43	det	_	norm="их"|Decl=X|End=х|check=@
+41	их	и	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	43	det	_	norm="их"|Decl=X|End=х|check=@
 42	чюдскому	чудский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	43	amod	_	norm="чюдскому"|Decl=X|End=умо|check=@
 43	закону	законъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	36	conj	_	norm="закону"|Decl=2|End=у|SpaceAfter=No|check=@
 44	;	;	PUNCT	_	_	46	punct	_	norm=";"
@@ -28770,7 +28770,7 @@
 80	же	же	PART	_	_	85	advmod	_	norm="же"
 81	и	и	PART	_	_	82	advmod	_	norm="и"
 82	г[осподин]	господинъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	85	nsubj	_	norm="господин"|Decl=2|End=0|check=@
-83	их	и	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	82	det	_	norm="их"|Decl=X|End=х|check=@
+83	их	и	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Plur|Person=3|PronType=Prs	82	det	_	norm="их"|Decl=X|End=х|check=@
 84	злая	злой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	85	obj	_	norm="злая"|Decl=X|End=яа
 85	творяше	творити	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	75	advcl	_	norm="творяше"|Decl=X|End=ешя|SpaceAfter=No
 86	.	.	PUNCT	_	_	5	punct	_	norm="."
@@ -29060,7 +29060,7 @@
 5	всею	весь	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Tot	6	det	_	norm="всею"|Decl=X|End=юе|check=@
 6	братіею	братия	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	3	obl	_	norm="братіею"|Decl=1i|End=юеі|check=@
 7	на	на	ADP	_	_	17	case	_	norm="на"
-8	твоемъ	твой	DET	_	Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	17	det	_	norm="твоемъ"|Decl=X|End=ъме|SpaceAfter=No
+8	твоемъ	твой	DET	_	Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	17	acl	_	norm="твоемъ"|Decl=X|End=ъме|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	norm=","
 10	отца	отецъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	appos	_	norm="отца"|Decl=2|End=а|check=@
 11	нашего	нашъ	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	norm="нашего"|Decl=X|End=оге|check=@
@@ -29132,7 +29132,7 @@
 34	недостойные	недостойный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	33	appos	_	norm="недостойные"|Decl=X|End=еы|SpaceAfter=No
 35	,	,	PUNCT	_	_	43	punct	_	norm=","
 36	за	за	ADP	_	_	43	case	_	norm="за"
-37	твое	твой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	43	det	_	norm="твое"|Decl=X|End=ео|SpaceAfter=No
+37	твое	твой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	43	acl	_	norm="твое"|Decl=X|End=ео|SpaceAfter=No
 38	,	,	PUNCT	_	_	39	punct	_	norm=","
 39	отца	отецъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	37	appos	_	norm="отца"|Decl=2|End=а|check=@
 40	нашего	нашъ	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	39	det	_	norm="нашего"|Decl=X|End=оге|SpaceAfter=No|check=@
@@ -29321,7 +29321,7 @@
 52	а	а	CCONJ	_	_	56	cc	_	norm="а"
 53	въ	въ	ADP	_	_	54	case	_	norm="въ"|check=@
 54	челобитной	челобитная	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	56	obl	_	norm="челобитной"|Decl=X|End=йо|check=@
-55	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	54	det	_	norm="его"|Decl=X|End=оге|check=@
+55	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	54	det	_	norm="его"|Decl=X|End=оге|check=@
 56	написано	написати	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	49	conj	_	norm="написано"|Decl=X|End=он|SpaceAfter=No
 57	:	:	PUNCT	_	_	58	punct	_	norm=":"
 58	пріѣзжаютъ	приѣзжати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	56	parataxis	_	norm="пріѣзжаютъ"|Decl=X|End=ътю
@@ -29780,7 +29780,7 @@
 8	году	годъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	34	obl:tmod	_	norm="году"|Decl=2|End=у|SpaceAfter=No|check=@
 9	,	,	PUNCT	_	_	8	punct	_	norm=","
 10	по	по	ADP	_	_	16	case	_	norm="по"
-11	твоему	твой	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det	_	norm="твоему"|Decl=X|End=уме|SpaceAfter=No
+11	твоему	твой	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	acl	_	norm="твоему"|Decl=X|End=уме|SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	norm=","
 13	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	norm="великого"|Decl=X|End=ого|check=@
 14	государя	государь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	appos	_	norm="государя"|Decl=2|End=я|SpaceAfter=No|check=@
@@ -29831,14 +29831,14 @@
 59	;	;	PUNCT	_	_	75	punct	_	norm=";"
 60	и	и	CCONJ	_	_	75	cc	_	norm="и"
 61	по	по	ADP	_	_	66	case	_	norm="по"|check=@
-62	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	66	det	_	norm="его"|Decl=X|End=оге|check=@
+62	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	66	acl	_	norm="его"|Decl=X|End=оге|check=@
 63	бывшаго	бывший	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	64	amod	_	norm="бывшаго"|Decl=X|End=огашв|check=@
 64	Никона	Никонъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	62	appos	_	norm="Никона"|Decl=2|End=а|check=@
 65	патріарха	патриархъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	64	appos	_	norm="патріарха"|Decl=2|End=а|check=@
 66	указу	указъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	75	obl	_	norm="указу"|Decl=2|End=у|SpaceAfter=No
 67	,	,	PUNCT	_	_	66	punct	_	norm=","
 68	приказной	приказный	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	75	nsubj	_	norm="приказной"|Decl=X|End=йо
-69	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	68	det	_	norm="его"|Decl=X|End=оге
+69	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	68	det	_	norm="его"|Decl=X|End=оге
 70	Артемей	Артемей	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	68	appos	_	norm="Артемей"|Decl=2e|End=йе|[G]
 71	Токмачевъ	Токмачевъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	70	flat:name	_	norm="Токмачевъ"|Decl=Poss|End=ъ0|[G]
 72	сорокъ	сорокъ	NUM	_	Case=Acc|NumForm=Word|NumType=Card	73	nummod:gov	_	norm="сорокъ"|Decl=X|End=ъ0
@@ -29896,7 +29896,7 @@
 124	насъ	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	122	obl	_	norm="насъ"|Decl=X|End=ъ0|SpaceAfter=No|check=@
 125	,	,	PUNCT	_	_	128	punct	_	norm=","
 126	по	по	ADP	_	_	128	case	_	norm="по"|check=@
-127	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	128	det	_	norm="его"|Decl=X|End=оге|check=@
+127	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	128	det	_	norm="его"|Decl=X|End=оге|check=@
 128	указу	указъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	122	obl	_	norm="указу"|Decl=2|End=у|SpaceAfter=No|check=@
 129	,	,	PUNCT	_	_	131	punct	_	norm=","
 130	въ	въ	ADP	_	_	131	case	_	norm="въ"|check=@
@@ -30021,7 +30021,7 @@
 43	богомолцомъ	богомолецъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	41	appos	_	norm="богомолцомъ"|Decl=2|End=ъмо|check=@
 44	своимъ	свой	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	43	det	_	norm="своимъ"|Decl=X|End=ъми|SpaceAfter=No|check=@
 45	,	,	PUNCT	_	_	43	punct	_	norm=","
-46	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	52	det	_	norm="свой"|Decl=X|End=йо|SpaceAfter=No
+46	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	52	acl	_	norm="свой"|Decl=X|End=йо|SpaceAfter=No
 47	,	,	PUNCT	_	_	49	punct	_	norm=","
 48	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	49	amod	_	norm="великого"|Decl=X|End=ого|check=@
 49	государя	государь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	46	appos	_	norm="государя"|Decl=2|End=я|SpaceAfter=No|check=@
@@ -30090,7 +30090,7 @@
 112	патріарха	патриархъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	111	appos	_	norm="патріарха"|Decl=2|End=а|SpaceAfter=No
 113	,	,	PUNCT	_	_	109	punct	_	norm=","
 114	приказной	приказный	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	105	nsubj	_	norm="приказной"|Decl=A|End=йо|check=@
-115	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	114	det	_	norm="его"|Decl=X|End=оге|check=@
+115	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	114	det	_	norm="его"|Decl=X|End=оге|check=@
 116	Артемей	Артемей	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	114	appos	_	norm="Артемей"|Decl=2e|End=йе|[G]
 117	Токмачевъ	Токмачевъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	116	flat:name	_	norm="Токмачевъ"|Decl=Poss|End=ъ0|[G]|SpaceAfter=No
 118	,	,	PUNCT	_	_	120	punct	_	norm=","
@@ -30101,7 +30101,7 @@
 123	Иверскомъ	иверский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	124	amod	_	norm="Иверскомъ"|Decl=X|End=ъмо|check=@
 124	монастырѣ	монастырь	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	120	obl	_	norm="монастырѣ"|Decl=2|End=ѣ|check=@
 125	по	по	ADP	_	_	131	case	_	norm="по"
-126	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	131	det	_	norm="его"|Decl=X|End=оге
+126	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	131	acl	_	norm="его"|Decl=X|End=оге
 127	жъ	же	PART	_	_	126	advmod	_	norm="жъ"
 128	бывшаго	бывший	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	129	amod	_	norm="бывшаго"|Decl=X|End=огашв|check=@
 129	Никона	Никонъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	126	appos	_	norm="Никона"|Decl=2|End=а|check=@
@@ -30112,7 +30112,7 @@
 134	неволи	неволя	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	131	conj	_	norm="неволи"|Decl=1a|End=и|SpaceAfter=No|check=@
 135	,	,	PUNCT	_	_	139	punct	_	norm=","
 136	для	для	ADP	_	_	139	case	_	norm="для"
-137	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	139	det	_	norm="его"|Decl=X|End=оге|check=@
+137	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	139	det	_	norm="его"|Decl=X|End=оге|check=@
 138	каменного	каменный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	139	amod	_	norm="каменного"|Decl=X|End=ого|check=@
 139	дѣла	дѣло	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	120	obl	_	norm="дѣла"|Decl=s|End=а|SpaceAfter=No|check=@
 140	.	.	PUNCT	_	_	18	punct	_	norm="."
@@ -30976,7 +30976,7 @@
 1	И	и	CCONJ	_	_	9	cc	_	norm="И"
 2	Федот	Федотъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	nsubj	_	norm="Федот"|Decl=2|End=0
 3	против	противъ	ADP	_	_	8	case	_	norm="против"
-4	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	norm="ево"|Decl=X|End=ове|SpaceAfter=No
+4	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	acl	_	norm="ево"|Decl=X|End=ове|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	norm=","
 6	царева	царевъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	appos	_	norm="царева"|Decl=Poss|End=а|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	norm=","
@@ -31171,7 +31171,7 @@
 14	Русии	Русия	PROPN	_	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	11	nmod	_	norm="Русии"|Decl=1i|End=ии|SpaceAfter=No|check=@
 15	,	,	PUNCT	_	_	22	punct	_	norm=","
 16	про	про	ADP	_	_	22	case	_	norm="про"
-17	ево	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	det	_	norm="ево"|Decl=X|End=ове|SpaceAfter=No|check=@
+17	ево	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	det	_	norm="ево"|Decl=X|End=ове|SpaceAfter=No|check=@
 18	,	,	PUNCT	_	_	22	punct	_	norm=","
 19	государьское	государский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	norm="государьское"|Decl=X|End=ео|SpaceAfter=No|check=@
 20	,	,	PUNCT	_	_	22	punct	_	norm=","
@@ -31194,7 +31194,7 @@
 11	своего	свой	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	10	det	_	norm="своего"|Decl=X|End=оге|SpaceAfter=No|check=@
 12	,	,	PUNCT	_	_	16	punct	_	norm=","
 13	от	отъ	ADP	_	_	16	case	_	norm="от"
-14	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	det	_	norm="его"|Decl=X|End=оге|check=@
+14	его	онъ	PRON	_	Case=Gen|ExtPos=DET|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	det	_	norm="его"|Decl=X|End=оге|check=@
 15	царьсково	царский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	norm="царьсково"|Decl=X|End=ово|check=@
 16	величества	величество	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	10	appos	_	norm="величества"|Decl=2|End=а|SpaceAfter=No|check=@
 17	,	,	PUNCT	_	_	8	punct	_	norm=","
