@@ -559,9 +559,9 @@
 225	стрѣлцомъ	стрѣлецъ	NOUN	Animacy[lex]=Anim	Case=Dat|Gender=Masc|Number=Plur	223	nmod	_	SpaceAfter=No
 226	,	,	PUNCT	_	_	223	punct	_	_
 227	съ	съ	ADP	_	_	232	case	_	_
-228	прежнихъ	прежний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	232	obl	_	_
+228	прежнихъ	прежний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	232	amod	_	_
 229	и	и	CCONJ	_	_	231	cc	_	_
-230	съ	съ	ADP	_	_	232	case	_	_
+230	съ	съ	ADP	_	_	231	case	_	_
 231	прибылыхъ	прибылой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	228	conj	_	_
 232	дворовъ	дворъ	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Plur	241	obl	_	SpaceAfter=No
 233	,	,	PUNCT	_	_	232	punct	_	_
@@ -2930,7 +2930,7 @@
 186	,	,	PUNCT	_	_	185	punct	_	_
 187	многіе	многий	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	189	det	_	_
 188	стрѣлецкіе	стрѣлецкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	189	amod	_	_
-189	денги	деньга	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	193	obj	_	_
+189	денги	деньга	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Plur	168	appos	_	_
 190	и	и	CCONJ	_	_	192	cc	_	_
 191	оброчные	оброчный	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	192	amod	_	_
 192	доходы	доходъ	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Plur	189	conj	_	_
@@ -5150,7 +5150,7 @@
 9	указал	указати	VERB	Transit=Tran	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	6	conj	_	_
 10	иноземцов	иноземецъ	NOUN	Animacy[lex]=Anim	Case=Gen|Gender=Masc|Number=Plur	9	obj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
-12	которые	который	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	13	obj	_	_
+12	которые	который	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	13	nsubj	_	_
 13	привели	привести	VERB	Transit=Tran	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	10	acl	_	_
 14	саржанта	сержантъ	NOUN	Animacy[lex]=Anim	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	15	nmod	_	_
 15	Петрову	петровъ	ADJ	Animacy[lex]=Anim	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|Variant=Short	16	amod	_	_
@@ -7382,7 +7382,7 @@
 # sent_id = duhovnye_dogovornye__47-58
 # text = А что дѣд твои, кнꙗз[ь] велики Олег Иванович, воевал Коломнꙋ в наше нелюб[ь]е, инаа мѣста в н[а]шеи ѡтчинѣ, и что взѧто и на инѧтцѣх, а то ѡтдати, а чег[о] не взѧто, а тог[о] не взѧти.
 1	А	а	CCONJ	_	_	32	cc	_	_
-2	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	11	obj	_	_
+2	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	12	det	_	_
 3	дѣд	дѣдъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
 4	твои	твой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
@@ -7812,7 +7812,7 @@
 19	ѡ	о	ADP	_	_	21	case	_	_
 20	том	то	PRON	_	Case=Loc|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	24	det	_	_
 21	сꙋда	судъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	24	obj	_	_
-22	вопчего	обчий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	obj	_	_
+22	вопчего	обчий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
 23	не	не	PART	_	Polarity=Neg	24	advmod	_	_
 24	ждати	ждати	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	_
@@ -10108,7 +10108,7 @@
 35	на	на	ADP	_	_	37	case	_	_
 36	десять	десять	NUM	_	Case=Acc|NumForm=Word|NumType=Card	37	nummod:gov	_	_
 37	лет	лѣто	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	38	nmod	_	_
-38	лготы	льгота	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	29	obj	_	SpaceAfter=No
+38	лготы	льгота	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	29	iobj	_	SpaceAfter=No
 39	.	.	PUNCT	_	_	29	punct	_	_
 
 # sent_id = Akty_pistsovogo_dela_62-8
@@ -12150,7 +12150,7 @@
 30	,	,	PUNCT	_	_	36	punct	_	_
 31	и	и	CCONJ	_	_	36	cc	_	_
 32	Божиею	божий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	33	amod	_	_
-33	десницею	десница	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	36	obj	_	_
+33	десницею	десница	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	36	obl	_	_
 34	и	и	CCONJ	_	_	35	cc	_	_
 35	милостию	милость	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	33	conj	_	_
 36	владѣемъ	владѣти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
@@ -13557,9 +13557,9 @@
 21	,	,	PUNCT	_	_	27	punct	_	_
 22	но	но	CCONJ	_	_	27	cc	_	_
 23	вся	весь	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	27	obj	_	_
-24	яже	иже	PRON	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	27	obj	_	_
+24	яже	иже	PRON	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	26	nsubj	_	_
 25	во	въ	ADP	_	_	26	case	_	_
-26	гради	градъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	27	obl	_	_
+26	гради	градъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	23	acl:relcl	_	_
 27	погубити	погубити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	conj	_	_
 28	и	и	CCONJ	_	_	31	cc	_	_
 29	зборищу	сборище	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	31	iobj	_	_
@@ -14050,7 +14050,7 @@
 2	без	безъ	ADP	_	_	3	case	_	_
 3	вины	вина	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	_
 4	мужя	мужъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
-5	волости	волость	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obj	_	_
+5	волости	волость	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	iobj	_	_
 6	не	не	PART	_	Polarity=Neg	7	advmod	_	_
 7	лишити	лишити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
@@ -19837,7 +19837,7 @@
 9	поздо	поздый	ADJ	AdjType=Predic	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	advcl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	велеть	велѣти	VERB	_	VerbForm=Inf|Voice=Act	0	root	_	_
-12	ярью	ярь	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	13	obj	_	_
+12	ярью	ярь	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	13	iobj	_	_
 13	посеять	посеяти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	xcomp	_	_
 14	на	на	ADP	_	_	15	case	_	_
 15	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obl	_	SpaceAfter=No
@@ -20523,7 +20523,7 @@
 38	посеять	посеяти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	30	xcomp	_	_
 39	на	на	ADP	_	_	40	case	_	_
 40	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	38	obl	_	_
-41	ярью	ярь	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	38	obj	_	SpaceAfter=No
+41	ярью	ярь	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	38	iobj	_	SpaceAfter=No
 42	,	,	PUNCT	_	_	45	punct	_	_
 43	а	а	CCONJ	_	_	45	cc	_	_
 44	семен	сѣмя	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	45	obj	_	_
@@ -29944,7 +29944,7 @@
 172	твои	твой	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	171	det	_	norm="твои"|Decl=X|End=ио|SpaceAfter=No|check=@
 173	,	,	PUNCT	_	_	171	punct	_	norm=","
 174	тѣхъ	тотъ	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	175	det	_	norm="тѣхъ"|Decl=X|End=ъхѣ|check=@
-175	стрѣлцовъ	стрѣлецъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	184	obj	_	norm="стрѣлцовъ"|Decl=2|End=ъво|SpaceAfter=No|check=@
+175	стрѣлцовъ	стрѣлецъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	185	dislocated	_	norm="стрѣлцовъ"|Decl=2|End=ъво|SpaceAfter=No|check=@
 176	,	,	PUNCT	_	_	178	punct	_	norm=","
 177	которые	который	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	180	det	_	norm="которые"|Decl=X|End=еы|check=@
 178	объявилися	объявитися	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Mid	175	acl:relcl	_	norm="объявилися"|Decl=X|End=ясили
@@ -30357,7 +30357,7 @@
 # sent_id = statspis__Stat_spisok_Elchina-19
 # text = А Тетюшах дожидались кизылбаских купчин июля по 10 день.
 1	А	а	CCONJ	_	_	3	cc	_	norm="А"
-2	Тетюшах	Тетюши	PROPN	_	Case=Loc|Gender=Fem|NameType=Geo|Number=Plur	3	obj	_	norm="Тетюшах"|Decl=1a|End=ха
+2	Тетюшах	Тетюши	PROPN	_	Case=Loc|Gender=Fem|NameType=Geo|Number=Plur	3	obl	_	norm="Тетюшах"|Decl=1a|End=ха
 3	дожидались	дожидатися	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Mid	0	root	_	norm="дожидались"|Decl=X|End=ьсил
 4	кизылбаских	кизылбашский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	norm="кизылбаских"|Decl=X|End=хи|check=@
 5	купчин	купчина	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	obj	_	norm="купчин"|Decl=2|End=0|check=@
