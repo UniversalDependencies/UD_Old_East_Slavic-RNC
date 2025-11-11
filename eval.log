@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Old_East_Slavic-RNC:
-commit c3ab200bf92283dadf97e9ced40260c534ffbfe3
-Merge: 7051169 8f7466d
+commit 2a84259111ae1093f476e4ec01faed3f0d0e71f4
+Merge: 4473c65 4dd281c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'orv_rnc'
+Language code (from CoNLL-U file name) = 'orv'
+Found the following data files: orv_rnc-ud-dev.conllu, orv_rnc-ud-test.conllu, orv_rnc-ud-train.conllu
 Size: counted 168064 of 168064 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.2486897184806.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,62 +23,57 @@ Features: 104927 out of 168064 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 36 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL        265
-Udapi: found 265 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 168064 words.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang orv --max-err=10 UD_Old_East_Slavic-RNC/orv_rnc-ud-dev.conllu
-[Line 2104 Sent Bezobrazov_1_021-7 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
-[Line 6429 Sent Bezobrazov_1_034-24 Node 25]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
-[Line 12439 Sent zagovor__Zagovor_003-1 Node 43]: [L3 Warning fixed-without-extpos] Fixed expression 'да и' does not have the 'ExtPos' feature
-[Line 14337 Sent afz2__AFZ_2_380-13 Node 31]: [L3 Warning fixed-without-extpos] Fixed expression 'что и' does not have the 'ExtPos' feature
-[Line 18991 Sent rib__RIB_05_007-7 Node 66]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
-[Line 19148 Sent rib__RIB_18_49_07-2 Node 69]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
-[Line 19861 Sent rib__RIB_18_49_07-18 Node 33]: [L3 Warning fixed-without-extpos] Fixed expression 'въ томъ числѣ' does not have the 'ExtPos' feature
-[Line 20992 Sent statspis__Stat_spisok_Novosiltseva-29 Node 14]: [L3 Warning fixed-without-extpos] Fixed expression 'да и' does not have the 'ExtPos' feature
-[Line 21473 Sent statspis__Stat_spisok_Novosiltseva-41 Node 48]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
-[Line 22058 Sent statspis__Stat_spisok_Novosiltseva-60 Node 17]: [L3 Warning fixed-without-extpos] Fixed expression 'да и' does not have the 'ExtPos' feature
+[Line 2104 Sent Bezobrazov_1_021-7]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+[Line 6429 Sent Bezobrazov_1_034-24]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+[Line 6450 Sent Bezobrazov_1_034-25]: [L3 Warning pron-det-without-prontype] The word 'др.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 6554 Sent Bezobrazov_1_035-4]: [L3 Warning pron-det-without-prontype] The word 'др.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 12439 Sent zagovor__Zagovor_003-1]: [L3 Warning fixed-without-extpos] Fixed expression 'да и' does not have the 'ExtPos' feature
+[Line 14337 Sent afz2__AFZ_2_380-13]: [L3 Warning fixed-without-extpos] Fixed expression 'что и' does not have the 'ExtPos' feature
+[Line 18991 Sent rib__RIB_05_007-7]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+[Line 19148 Sent rib__RIB_18_49_07-2]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+[Line 19861 Sent rib__RIB_18_49_07-18]: [L3 Warning fixed-without-extpos] Fixed expression 'въ томъ числѣ' does not have the 'ExtPos' feature
+[Line 20992 Sent statspis__Stat_spisok_Novosiltseva-29]: [L3 Warning fixed-without-extpos] Fixed expression 'да и' does not have the 'ExtPos' feature
 ...suppressing further errors regarding Warning
-Warnings: 36
+Warnings: 49
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang orv --max-err=10 UD_Old_East_Slavic-RNC/orv_rnc-ud-test.conllu
-[Line 2240 Sent Kungur_akty_75_1689-13 Node 96]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
-[Line 2247 Sent Kungur_akty_75_1689-13 Node 103]: [L3 Warning fixed-without-extpos] Fixed expression 'также и' does not have the 'ExtPos' feature
-[Line 2837 Sent Kungur_akty_75_1689-14a Node 93]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
-[Line 2900 Sent Kungur_akty_75_1689-14a Node 156]: [L3 Warning fixed-without-extpos] Fixed expression 'также и' does not have the 'ExtPos' feature
-[Line 12534 Sent bldr__BLDR-11_11-42 Node 14]: [L3 Warning fixed-without-extpos] Fixed expression 'понеже бо' does not have the 'ExtPos' feature
-[Line 13226 Sent BLDR-7_09-16 Node 16]: [L3 Warning fixed-without-extpos] Fixed expression 'а то' does not have the 'ExtPos' feature
-[Line 16451 Sent Simon_1501-4 Node 68]: [L3 Warning fixed-without-extpos] Fixed expression 'во имя' does not have the 'ExtPos' feature
-[Line 17765 Sent 219_Morozov-7 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Да и' does not have the 'ExtPos' feature
-[Line 17896 Sent 222_Morozov-4 Node 22]: [L3 Warning fixed-without-extpos] Fixed expression 'да и' does not have the 'ExtPos' feature
-[Line 19213 Sent 242_Morozov-8 Node 22]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+[Line 2240 Sent Kungur_akty_75_1689-13]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+[Line 2247 Sent Kungur_akty_75_1689-13]: [L3 Warning fixed-without-extpos] Fixed expression 'также и' does not have the 'ExtPos' feature
+[Line 2837 Sent Kungur_akty_75_1689-14a]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+[Line 2900 Sent Kungur_akty_75_1689-14a]: [L3 Warning fixed-without-extpos] Fixed expression 'также и' does not have the 'ExtPos' feature
+[Line 3554 Sent Delo_duel_1637-3]: [L3 Warning obl-should-be-nmod] The parent (node [16] 'ворота') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 8860 Sent gramotki_17_18__157_158_159_160_Anichkov-30]: [L3 Warning obl-should-be-nmod] The parent (node [9] 'зборꙋ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 9051 Sent gramotki_17_18__157_158_159_160_Anichkov-38]: [L3 Warning obl-should-be-nmod] The parent (node [18] 'челомъ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 12534 Sent bldr__BLDR-11_11-42]: [L3 Warning fixed-without-extpos] Fixed expression 'понеже бо' does not have the 'ExtPos' feature
+[Line 13226 Sent BLDR-7_09-16]: [L3 Warning fixed-without-extpos] Fixed expression 'а то' does not have the 'ExtPos' feature
+[Line 13875 Sent GVNP_010-4]: [L3 Warning obl-should-be-nmod] The parent (node [20] 'то') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 ...suppressing further errors regarding Warning
-Warnings: 16
+Warnings: 27
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang orv --max-err=10 UD_Old_East_Slavic-RNC/orv_rnc-ud-train.conllu
-[Line 4545 Sent GVNP_078-23 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'какъ и' does not have the 'ExtPos' feature
-[Line 4570 Sent GVNP_078-23 Node 33]: [L3 Warning fixed-without-extpos] Fixed expression 'какъ и' does not have the 'ExtPos' feature
-[Line 10716 Sent Kungur_akty_73-45 Node 66]: [L3 Warning fixed-without-extpos] Fixed expression 'кто ни будь' does not have the 'ExtPos' feature
-[Line 15372 Sent kungur__Kungur_akty_72-69 Node 34]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
-[Line 17717 Sent Kniga_Stepen_02-16 Node 24]: [L3 Warning fixed-without-extpos] Fixed expression 'та[ко] и' does not have the 'ExtPos' feature
-[Line 18224 Sent Kniga_Stepen_02-35 Node 12]: [L3 Warning fixed-without-extpos] Fixed expression 'тако же и' does not have the 'ExtPos' feature
-[Line 18234 Sent Kniga_Stepen_02-35 Node 22]: [L3 Warning fixed-without-extpos] Fixed expression 'тако же' does not have the 'ExtPos' feature
-[Line 18370 Sent Kniga_Stepen_02-43 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'его же' does not have the 'ExtPos' feature
-[Line 18465 Sent Kniga_Stepen_02-46 Node 38]: [L3 Warning fixed-without-extpos] Fixed expression 'ней же' does not have the 'ExtPos' feature
-[Line 18475 Sent Kniga_Stepen_02-46 Node 48]: [L3 Warning fixed-without-extpos] Fixed expression 'немъ же' does not have the 'ExtPos' feature
+[Line 245 Sent Bezobrazov_1_003-5]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'Янка') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 383 Sent Bezobrazov_1_003-12]: [L3 Warning obl-should-be-nmod] The parent (node [9] 'ч(е)л(о)в(е)к') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1303 Sent Bezobrazov_1_005-8]: [L3 Warning pron-det-without-prontype] The word 'др.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1790 Sent Bezobrazov_1_007-4]: [L3 Warning obl-should-be-nmod] The parent (node [5] 'М[о]скве') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1898 Sent Bezobrazov_1_007-6]: [L3 Warning pron-det-without-prontype] The word 'др.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2885 Sent Bezobrazov_1_013-10]: [L3 Warning pron-det-without-prontype] The word 'др.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 4545 Sent GVNP_078-23]: [L3 Warning fixed-without-extpos] Fixed expression 'какъ и' does not have the 'ExtPos' feature
+[Line 4570 Sent GVNP_078-23]: [L3 Warning fixed-without-extpos] Fixed expression 'какъ и' does not have the 'ExtPos' feature
+[Line 10716 Sent Kungur_akty_73-45]: [L3 Warning fixed-without-extpos] Fixed expression 'кто ни будь' does not have the 'ExtPos' feature
+[Line 15372 Sent kungur__Kungur_akty_72-69]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
 ...suppressing further errors regarding Warning
-Warnings: 191
+Warnings: 251
 *** PASSED ***
 Validity: 1
-(weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.111111111111111) = 0.00854700854700855
-(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.741824898579116) = 0.190211512456184
-(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
-(weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
-(weight=0.307692307692308) * (score{udapi}=0.984232197258187) = 0.302840676079442
-(weight=0.0769230769230769) * (score{udeprels}=0.972972972972973) = 0.0748440748440748
-(TOTAL score=0.858494553977991) * (availability=1) * (validity=1) = 0.858494553977991
-STARS = 4.5
-UD_Old_East_Slavic-RNC	0.858494553977991	4.5
+(weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
+(weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.741824898579116) = 0.27474996243671
+(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.111111111111111) * (score{tags}=1) = 0.111111111111111
+(weight=0.111111111111111) * (score{udeprels}=0.972972972972973) = 0.108108108108108
+(TOTAL score=0.802611156964571) * (availability=1) * (validity=1) = 0.802611156964571
+STARS = 4
+UD_Old_East_Slavic-RNC	0.802611156964571	4
