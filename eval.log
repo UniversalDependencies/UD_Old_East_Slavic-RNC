@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Old_East_Slavic-RNC:
-commit 2a84259111ae1093f476e4ec01faed3f0d0e71f4
-Merge: 4473c65 4dd281c
+commit 40745352cb997e5e195b68c801f762d4d14c1e69
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 20:22:09 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'orv_rnc'
 Language code (from CoNLL-U file name) = 'orv'
@@ -25,48 +25,95 @@ Universal relations: 36 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang orv --max-err=10 UD_Old_East_Slavic-RNC/orv_rnc-ud-dev.conllu
-[Line 2104 Sent Bezobrazov_1_021-7]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
-[Line 6429 Sent Bezobrazov_1_034-24]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
-[Line 6450 Sent Bezobrazov_1_034-25]: [L3 Warning pron-det-without-prontype] The word 'др.' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 6554 Sent Bezobrazov_1_035-4]: [L3 Warning pron-det-without-prontype] The word 'др.' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 12439 Sent zagovor__Zagovor_003-1]: [L3 Warning fixed-without-extpos] Fixed expression 'да и' does not have the 'ExtPos' feature
-[Line 14337 Sent afz2__AFZ_2_380-13]: [L3 Warning fixed-without-extpos] Fixed expression 'что и' does not have the 'ExtPos' feature
-[Line 18991 Sent rib__RIB_05_007-7]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
-[Line 19148 Sent rib__RIB_18_49_07-2]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
-[Line 19861 Sent rib__RIB_18_49_07-18]: [L3 Warning fixed-without-extpos] Fixed expression 'въ томъ числѣ' does not have the 'ExtPos' feature
-[Line 20992 Sent statspis__Stat_spisok_Novosiltseva-29]: [L3 Warning fixed-without-extpos] Fixed expression 'да и' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-Warnings: 49
-*** PASSED ***
+[Line 2104 Sent Bezobrazov_1_021-7]: [L3 WARNING fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+[Line 6429 Sent Bezobrazov_1_034-24]: [L3 WARNING fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+[Line 6450 Sent Bezobrazov_1_034-25]: [L3 WARNING pron-det-without-prontype] The word 'др.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 6554 Sent Bezobrazov_1_035-4]: [L3 WARNING pron-det-without-prontype] The word 'др.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 12439 Sent zagovor__Zagovor_003-1]: [L3 WARNING fixed-without-extpos] Fixed expression 'да и' does not have the 'ExtPos' feature
+[Line 14337 Sent afz2__AFZ_2_380-13]: [L3 WARNING fixed-without-extpos] Fixed expression 'что и' does not have the 'ExtPos' feature
+[Line 18991 Sent rib__RIB_05_007-7]: [L3 WARNING fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+[Line 19148 Sent rib__RIB_18_49_07-2]: [L3 WARNING fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+[Line 19861 Sent rib__RIB_18_49_07-18]: [L3 WARNING fixed-without-extpos] Fixed expression 'въ томъ числѣ' does not have the 'ExtPos' feature
+[Line 20992 Sent statspis__Stat_spisok_Novosiltseva-29]: [L3 WARNING fixed-without-extpos] Fixed expression 'да и' does not have the 'ExtPos' feature
+[Line 21473 Sent statspis__Stat_spisok_Novosiltseva-41]: [L3 WARNING fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+[Line 22058 Sent statspis__Stat_spisok_Novosiltseva-60]: [L3 WARNING fixed-without-extpos] Fixed expression 'да и' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 33852 Sent gramoty_akty_14_16__312_akty_XIV_XVI-3]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'Медушах') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 34998 Sent gvnp__GVNP_114-3]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] 'вывѣта') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 35901 Sent morozov__244_Morozov-7]: [L3 WARNING pron-det-without-prontype] The word 'т.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 35991 Sent morozov__244_Morozov-11]: [L3 WARNING pron-det-without-prontype] The word 'т.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 36138 Sent morozov__233_Morozov-2]: [L3 WARNING pron-det-without-prontype] The word 'т.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 36392 Sent morozov__243_Morozov-5]: [L3 WARNING pron-det-without-prontype] The word 'т.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 36628 Sent morozov__226_Morozov-6]: [L3 WARNING pron-det-without-prontype] The word 'т.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 36661 Sent morozov__226_Morozov-6]: [L3 WARNING pron-det-without-prontype] The word 'т.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 40949 Sent rib__RIB_18_65_13-4]: [L3 SYNTAX obl-should-be-nmod] The parent (node [55] 'осадѣ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+Warnings: 44
+SYNTAX errors: 3
+*** FAILED *** with 3 errors
+Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang orv --max-err=10 UD_Old_East_Slavic-RNC/orv_rnc-ud-test.conllu
-[Line 2240 Sent Kungur_akty_75_1689-13]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
-[Line 2247 Sent Kungur_akty_75_1689-13]: [L3 Warning fixed-without-extpos] Fixed expression 'также и' does not have the 'ExtPos' feature
-[Line 2837 Sent Kungur_akty_75_1689-14a]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
-[Line 2900 Sent Kungur_akty_75_1689-14a]: [L3 Warning fixed-without-extpos] Fixed expression 'также и' does not have the 'ExtPos' feature
-[Line 3554 Sent Delo_duel_1637-3]: [L3 Warning obl-should-be-nmod] The parent (node [16] 'ворота') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 8860 Sent gramotki_17_18__157_158_159_160_Anichkov-30]: [L3 Warning obl-should-be-nmod] The parent (node [9] 'зборꙋ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 9051 Sent gramotki_17_18__157_158_159_160_Anichkov-38]: [L3 Warning obl-should-be-nmod] The parent (node [18] 'челомъ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 12534 Sent bldr__BLDR-11_11-42]: [L3 Warning fixed-without-extpos] Fixed expression 'понеже бо' does not have the 'ExtPos' feature
-[Line 13226 Sent BLDR-7_09-16]: [L3 Warning fixed-without-extpos] Fixed expression 'а то' does not have the 'ExtPos' feature
-[Line 13875 Sent GVNP_010-4]: [L3 Warning obl-should-be-nmod] The parent (node [20] 'то') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-...suppressing further errors regarding Warning
-Warnings: 27
-*** PASSED ***
+[Line 2240 Sent Kungur_akty_75_1689-13]: [L3 WARNING fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+[Line 2247 Sent Kungur_akty_75_1689-13]: [L3 WARNING fixed-without-extpos] Fixed expression 'также и' does not have the 'ExtPos' feature
+[Line 2837 Sent Kungur_akty_75_1689-14a]: [L3 WARNING fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+[Line 2900 Sent Kungur_akty_75_1689-14a]: [L3 WARNING fixed-without-extpos] Fixed expression 'также и' does not have the 'ExtPos' feature
+[Line 3554 Sent Delo_duel_1637-3]: [L3 SYNTAX obl-should-be-nmod] The parent (node [16] 'ворота') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 8860 Sent gramotki_17_18__157_158_159_160_Anichkov-30]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'зборꙋ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 9051 Sent gramotki_17_18__157_158_159_160_Anichkov-38]: [L3 SYNTAX obl-should-be-nmod] The parent (node [18] 'челомъ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 12534 Sent bldr__BLDR-11_11-42]: [L3 WARNING fixed-without-extpos] Fixed expression 'понеже бо' does not have the 'ExtPos' feature
+[Line 13226 Sent BLDR-7_09-16]: [L3 WARNING fixed-without-extpos] Fixed expression 'а то' does not have the 'ExtPos' feature
+[Line 13875 Sent GVNP_010-4]: [L3 SYNTAX obl-should-be-nmod] The parent (node [20] 'то') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 14691 Sent GVNP_010-38]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] 'ряду') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 16451 Sent Simon_1501-4]: [L3 WARNING fixed-without-extpos] Fixed expression 'во имя' does not have the 'ExtPos' feature
+[Line 17765 Sent 219_Morozov-7]: [L3 WARNING fixed-without-extpos] Fixed expression 'Да и' does not have the 'ExtPos' feature
+[Line 17816 Sent 222_Morozov-2]: [L3 SYNTAX obl-should-be-nmod] The parent (node [27] 'колена') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 17896 Sent 222_Morozov-4]: [L3 WARNING fixed-without-extpos] Fixed expression 'да и' does not have the 'ExtPos' feature
+[Line 19213 Sent 242_Morozov-8]: [L3 WARNING fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 23543 Sent RIB_18_64_01-2]: [L3 SYNTAX obl-should-be-nmod] The parent (node [82] 'они') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 30229 Sent statspis__Stat_spisok_Elchina-7]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'Переславля') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+Warnings: 16
+SYNTAX errors: 8
+*** FAILED *** with 8 errors
+Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang orv --max-err=10 UD_Old_East_Slavic-RNC/orv_rnc-ud-train.conllu
-[Line 245 Sent Bezobrazov_1_003-5]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'Янка') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 383 Sent Bezobrazov_1_003-12]: [L3 Warning obl-should-be-nmod] The parent (node [9] 'ч(е)л(о)в(е)к') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1303 Sent Bezobrazov_1_005-8]: [L3 Warning pron-det-without-prontype] The word 'др.' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1790 Sent Bezobrazov_1_007-4]: [L3 Warning obl-should-be-nmod] The parent (node [5] 'М[о]скве') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1898 Sent Bezobrazov_1_007-6]: [L3 Warning pron-det-without-prontype] The word 'др.' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 2885 Sent Bezobrazov_1_013-10]: [L3 Warning pron-det-without-prontype] The word 'др.' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 4545 Sent GVNP_078-23]: [L3 Warning fixed-without-extpos] Fixed expression 'какъ и' does not have the 'ExtPos' feature
-[Line 4570 Sent GVNP_078-23]: [L3 Warning fixed-without-extpos] Fixed expression 'какъ и' does not have the 'ExtPos' feature
-[Line 10716 Sent Kungur_akty_73-45]: [L3 Warning fixed-without-extpos] Fixed expression 'кто ни будь' does not have the 'ExtPos' feature
-[Line 15372 Sent kungur__Kungur_akty_72-69]: [L3 Warning fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-Warnings: 251
-*** PASSED ***
-Validity: 1
+[Line 245 Sent Bezobrazov_1_003-5]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] 'Янка') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 383 Sent Bezobrazov_1_003-12]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'ч(е)л(о)в(е)к') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1303 Sent Bezobrazov_1_005-8]: [L3 WARNING pron-det-without-prontype] The word 'др.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1898 Sent Bezobrazov_1_007-6]: [L3 WARNING pron-det-without-prontype] The word 'др.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 2885 Sent Bezobrazov_1_013-10]: [L3 WARNING pron-det-without-prontype] The word 'др.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 4545 Sent GVNP_078-23]: [L3 WARNING fixed-without-extpos] Fixed expression 'какъ и' does not have the 'ExtPos' feature
+[Line 4570 Sent GVNP_078-23]: [L3 WARNING fixed-without-extpos] Fixed expression 'какъ и' does not have the 'ExtPos' feature
+[Line 10716 Sent Kungur_akty_73-45]: [L3 WARNING fixed-without-extpos] Fixed expression 'кто ни будь' does not have the 'ExtPos' feature
+[Line 15372 Sent kungur__Kungur_akty_72-69]: [L3 WARNING fixed-without-extpos] Fixed expression 'потому что' does not have the 'ExtPos' feature
+[Line 17717 Sent Kniga_Stepen_02-16]: [L3 WARNING fixed-without-extpos] Fixed expression 'та[ко] и' does not have the 'ExtPos' feature
+[Line 18224 Sent Kniga_Stepen_02-35]: [L3 WARNING fixed-without-extpos] Fixed expression 'тако же и' does not have the 'ExtPos' feature
+[Line 18234 Sent Kniga_Stepen_02-35]: [L3 WARNING fixed-without-extpos] Fixed expression 'тако же' does not have the 'ExtPos' feature
+[Line 18370 Sent Kniga_Stepen_02-43]: [L3 WARNING fixed-without-extpos] Fixed expression 'его же' does not have the 'ExtPos' feature
+[Line 18465 Sent Kniga_Stepen_02-46]: [L3 WARNING fixed-without-extpos] Fixed expression 'ней же' does not have the 'ExtPos' feature
+[Line 18475 Sent Kniga_Stepen_02-46]: [L3 WARNING fixed-without-extpos] Fixed expression 'немъ же' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 21198 Sent xviii-buzhinsky-buzh_slovo01-10]: [L3 SYNTAX obl-should-be-nmod] The parent (node [38] 'мꙋ(д)рствованію') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 22744 Sent xviii-buzhinsky-buzh_slovo01-42]: [L3 WARNING pron-det-without-prontype] The word 'еди(н)' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 22946 Sent xviii-buzhinsky-buzh_slovo01-48]: [L3 WARNING pron-det-without-prontype] The word 'единою' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 25960 Sent bldr__BLDR-6_20-8]: [L3 SYNTAX obl-should-be-nmod] The parent (node [11] 'себе') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 30539 Sent jaroslav_etc__Aleksej_1356-33]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'власти') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 33818 Sent lebedev__Let_Lebedev-50]: [L3 SYNTAX obl-should-be-nmod] The parent (node [60] 'кого') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 34958 Sent letopisets__Letopisets-9]: [L3 SYNTAX obl-should-be-nmod] The parent (node [26] 'сына') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 36686 Sent letopisets__Letopisets-56]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'князю') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 37195 Sent letopisets__Letopisets-70]: [L3 SYNTAX obl-should-be-nmod] The parent (node [25] 'одиначестве') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 37262 Sent letopisets__Letopisets-71]: [L3 SYNTAX obl-should-be-nmod] The parent (node [10] 'одиначестве') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 90302 Sent morozov__256_Morozov-2]: [L3 WARNING pron-det-without-prontype] The word 'т.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 90314 Sent morozov__256_Morozov-2]: [L3 WARNING pron-det-without-prontype] The word 'т.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 90333 Sent morozov__256_Morozov-3]: [L3 WARNING pron-det-without-prontype] The word 'т.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 90379 Sent morozov__256_Morozov-5]: [L3 WARNING pron-det-without-prontype] The word 'т.' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 90399 Sent morozov__256_Morozov-5]: [L3 WARNING pron-det-without-prontype] The word 'т.' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+Warnings: 224
+SYNTAX errors: 26
+*** FAILED *** with 26 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
 (weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
 (weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
@@ -74,6 +121,6 @@ Validity: 1
 (weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
 (weight=0.111111111111111) * (score{tags}=1) = 0.111111111111111
 (weight=0.111111111111111) * (score{udeprels}=0.972972972972973) = 0.108108108108108
-(TOTAL score=0.802611156964571) * (availability=1) * (validity=1) = 0.802611156964571
-STARS = 4
-UD_Old_East_Slavic-RNC	0.802611156964571	4
+(TOTAL score=0.802611156964571) * (availability=1) * (validity=0.01) = 0.00802611156964571
+STARS = 0
+UD_Old_East_Slavic-RNC	0.00802611156964571	0
