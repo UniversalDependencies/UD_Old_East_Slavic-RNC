@@ -3551,7 +3551,7 @@
 15	за	за	ADP	_	_	16	case	_	_
 16	ворота	ворота	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Neut|Number=Plur	14	obl	_	_
 17	на	на	ADP	_	_	18	case	_	_
-18	улицу	улица	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	SpaceAfter=No
+18	улицу	улица	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	_
 20	и	и	CCONJ	_	_	22	cc	_	_
 21	он	онъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
@@ -8857,7 +8857,7 @@
 8	ото	отъ	ADP	_	_	9	case	_	_
 9	зборꙋ	сборъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	_
 10	с	съ	ADP	_	_	11	case	_	_
-11	Тиѳины	Тихвина	PROPN	_	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	9	obl	_	_
+11	Тиѳины	Тихвина	PROPN	_	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	9	nmod	_	_
 12	с	съ	ADP	_	_	13	case	_	_
 13	Петромъ	Петръ	PROPN	_	Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	2	obl	_	_
 14	Колюбакинымъ	Колюбакинъ	PROPN	_	Case=Ins|Gender=Masc|NameType=Sur|Number=Sing	13	flat:name	_	_
@@ -9048,7 +9048,7 @@
 8	гсде	господь	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	9	obl	_	_
 9	здравствꙋи	здравствовати	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
 10	на	на	ADP	_	_	11	case	_	_
-11	веки	вѣкъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	18	obl:tmod	_	_
+11	веки	вѣкъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	9	obl:tmod	_	_
 12	Лаврентеи	Лаврентей	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	19	nsubj	_	_
 13	Аничков	Аничковъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	12	flat:name	_	_
 14	женишкомъ	женишко	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	12	nmod	_	_
@@ -13849,19 +13849,19 @@
 # sent_id = GVNP_010-4
 # text = Что свободъ Дмитриевыхъ и Андрѣевыхъ, и что сельць тягнуло къ тымъ свободамъ, того всего тобѣ съступитися, то все къ Новугороду бес кунъ.
 1	Что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	2	det	_	_
-2	свободъ	свобода	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	10	nsubj	_	_
+2	свободъ	свобода	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	15	dislocated	_	_
 3	Дмитриевыхъ	дмитриевъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
 4	и	и	CCONJ	_	_	5	cc	_	_
 5	Андрѣевыхъ	андрѣевъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	3	conj	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	9	punct	_	_
-7	и	и	CCONJ	_	_	9	cc	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	и	и	CCONJ	_	_	10	cc	_	_
 8	что	что	PRON	_	Case=Nom|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Rel	9	det	_	_
-9	сельць	селце	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	2	conj	_	_
-10	тягнуло	тягнути	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	15	acl:relcl	_	_
+9	сельць	селце	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	10	nsubj	_	_
+10	тягнуло	тягнути	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	2	conj	_	_
 11	къ	къ	ADP	_	_	13	case	_	_
 12	тымъ	тотъ	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Dem	13	det	_	_
 13	свободамъ	свобода	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	10	punct	_	_
+14	,	,	PUNCT	_	_	2	punct	_	_
 15	того	то	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	18	obj	_	_
 16	всего	весь	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	15	det	_	_
 17	тобѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	18	iobj	_	_
@@ -13872,7 +13872,7 @@
 22	къ	къ	ADP	_	_	23	case	_	_
 23	Новугороду	Новгородъ	PROPN	_	Case=Dat|Gender=Masc|NameType=Geo|Number=Sing	18	conj	_	_
 24	бес	безъ	ADP	_	_	25	case	_	_
-25	кунъ	куна	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	20	obl	_	SpaceAfter=No
+25	кунъ	куна	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	23	obl	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = GVNP_010-5
@@ -14688,7 +14688,7 @@
 2	ряду	рядъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	14	obj	_	_
 3	въ	въ	ADP	_	_	5	case	_	_
 4	Новгородьскои	новгородский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
-5	волости	волость	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	_
+5	волости	волость	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	nmod	_	_
 6	тобѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	14	iobj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	княже	князь	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	14	vocative	_	SpaceAfter=No
@@ -15128,7 +15128,7 @@
 40	той	тотъ	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	41	det	_	_
 41	землѣ	земля	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	43	obl	_	_
 42	имянемъ	имя	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	43	nmod	_	_
-43	Шамша	Шамша	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	26	nmod	_	SpaceAfter=No
+43	Шамша	Шамша	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	26	conj	_	SpaceAfter=No
 44	-	-	PUNCT	_	_	45	punct	_	SpaceAfter=No
 45	канъ	канъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	43	appos	_	SpaceAfter=No
 46	,	,	PUNCT	_	_	48	punct	_	_
@@ -17813,7 +17813,7 @@
 18	,	,	PUNCT	_	_	26	punct	_	_
 19	а	а	CCONJ	_	_	26	cc	_	_
 20	в	въ	ADP	_	_	21	case	_	_
-21	нем	оно	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	obl	_	_
+21	нем	оно	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	obl	_	_
 22	вода	вода	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	26	nsubj	_	_
 23	в-	въ	ADP	_	_	25	case	_	SpaceAfter=No
 24	ыном	иной	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Tot	25	det	_	_
@@ -23540,9 +23540,9 @@
 75	порубили	порубити	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	37	conj	_	SpaceAfter=No
 76	,	,	PUNCT	_	_	83	punct	_	_
 77	а	а	CCONJ	_	_	83	cc	_	_
-78	сами	самъ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Emp	82	obl	_	SpaceAfter=No
+78	сами	самъ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Emp	82	det	_	SpaceAfter=No
 79	,	,	PUNCT	_	_	80	punct	_	_
-80	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	78	vocative	_	SpaceAfter=No
+80	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	83	vocative	_	SpaceAfter=No
 81	,	,	PUNCT	_	_	80	punct	_	_
 82	они	они	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	83	nsubj	_	_
 83	пришли	приити	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	75	conj	_	_
@@ -24993,18 +24993,18 @@
 6	вотчину	вотчина	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	norm="вотчину"|Decl=1a|End=у|check=@
 7	у	у	ADP	_	_	8	case	_	norm="у"|check=@
 8	каво	кто	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	3	obl	_	norm="каво"|Decl=X|End=ова|check=@
-9	каторая	который	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	10	det	_	norm="каторая"|Decl=X|End=яа|check=@
+9	каторая	который	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	10	acl	_	norm="каторая"|Decl=X|End=яа|check=@
 10	крепость	крѣпость	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	norm="крепость"|Decl=3|End=ь0|check=@
-11	нибуди	нибуди	PART	_	_	9	obl:pronmod	_	norm="нибуди"|SpaceAfter=No
+11	нибуди	нибуди	PART	_	_	9	nmod:pronmod	_	norm="нибуди"|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	norm=","
 13	кобола	кабала	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	appos	_	norm="кобола"|Decl=1a|End=а
 14	или	или	CCONJ	_	_	15	cc	_	norm="или"
 15	купчея	купчая	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	conj	_	norm="купчея"|Decl=A|End=яе
 16	или	или	CCONJ	_	_	19	cc	_	norm="или"
 17	иная	иной	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	19	det	_	norm="иная"|Decl=X|End=яа|check=@
-18	кокая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	19	det	_	norm="кокая"|Decl=X|End=яа|check=@
+18	кокая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	19	acl	_	norm="кокая"|Decl=X|End=яа|check=@
 19	крепость	крѣпость	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	conj	_	norm="крепость"|Decl=3|End=ь0
-20	нибуди	нибуди	PART	_	_	18	obl:pronmod	_	norm="нибуди"|SpaceAfter=No
+20	нибуди	нибуди	PART	_	_	18	nmod:pronmod	_	norm="нибуди"|SpaceAfter=No
 21	,	,	PUNCT	_	_	3	punct	_	norm=","
 22	—	—	PUNCT	_	_	35	punct	_	norm="—"
 23	и	и	CCONJ	_	_	35	cc	_	norm="и"
@@ -28088,7 +28088,7 @@
 47	томъ	тотъ	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	48	det	_	norm="томъ"|Decl=X|End=ъмо|check=@
 48	монастырѣ	монастырь	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	50	obl	_	norm="монастырѣ"|Decl=2|End=ѣ|check=@
 49	иныи	иной	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	50	det	_	norm="иныи"|Decl=X|End=иы|check=@
-50	ігуменъ	игуменъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	37	nsubj	_	norm="ігуменъ"|Decl=2|End=ъ0|check=@
+50	ігуменъ	игуменъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	37	conj	_	norm="ігуменъ"|Decl=2|End=ъ0|check=@
 51	будетъ	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	50	cop	_	norm="будетъ"|Decl=X|End=ъте|SpaceAfter=No
 52	,	,	PUNCT	_	_	50	punct	_	norm=","
 53	пожаловалъ	пожаловати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	23	conj	_	norm="пожаловалъ"|Decl=X|End=ъл|SpaceAfter=No
@@ -30147,7 +30147,7 @@
 24	службе	служба	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	18	xcomp	_	norm="службе"|Decl=1a|End=е|check=@
 25	в	въ	ADP	_	_	27	case	_	norm="в"|check=@
 26	Дидьянской	дидьянский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	norm="Дидьянской"|Decl=X|End=йо|check=@
-27	земли	земля	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	24	obl	_	norm="земли"|Decl=1a|End=и|check=@
+27	земли	земля	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	24	nmod	_	norm="земли"|Decl=1a|End=и|check=@
 28	Федоту	Федотъ	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	18	iobj	_	norm="Федоту"|Decl=2|End=у|[G]
 29	Ялчину	Ялчинъ	PROPN	_	Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	28	flat:name	_	norm="Ялчину"|Decl=Poss|End=у|[G]
 30	да	да	CCONJ	_	_	32	cc	_	norm="да"
@@ -30226,7 +30226,7 @@
 4	июня	июнь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	norm="июня"|Decl=2|End=я
 5	в	въ	ADP	_	_	7	case	_	norm="в"|check=@
 6	10	10	ADJ	ORD	Case=Acc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	7	amod	_	upos="ANUM"|norm="10"|Decl=ANUM|End=_|check=@
-7	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obl:tmod	_	norm="день"|Decl=2|End=ь0|SpaceAfter=No|check=@
+7	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obl:tmod	_	norm="день"|Decl=2|End=ь0|SpaceAfter=No|check=@
 8	.	.	PUNCT	_	_	1	punct	_	norm="."
 
 # newpar

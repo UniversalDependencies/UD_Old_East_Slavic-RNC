@@ -683,10 +683,10 @@
 18	ендова	ендова	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	wf="ендова"|_
 19	медная	мѣдный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	conj	_	wf="медная"|_
 20	ж	же	PART	_	_	19	advmod	_	wf="ж"|SpaceAfter=No
-21	,	,	PUNCT	_	_	25	punct	_	wf=","|_
-22	весу	вѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	25	nsubj	_	wf="весу"|_
+21	,	,	PUNCT	_	_	26	punct	_	wf=","|_
+22	весу	вѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	26	nsubj	_	wf="весу"|_
 23	в	въ	ADP	_	_	24	case	_	wf="в"|_
-24	неи	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	obl	_	wf="неи"|_
+24	неи	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	obl	_	wf="неи"|_
 25	полсемы	полсема	NUM	_	Case=Acc|Gender=Fem|NumForm=Word|NumType=Frac	26	nummod:gov	_	wf="полсемы"|_
 26	гривенки	гривенка	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	19	conj	_	wf="гривенки"|SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	wf=","|_
@@ -17482,7 +17482,7 @@
 32	по	по	ADP	_	_	34	case	_	_
 33	сколку	сколько	NUM	_	Case=Dat|NumForm=Word|NumType=Card	34	nummod:gov	_	_
 34	человѣкъ	человѣкъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	31	obj	_	_
-35	пригоже	пригоже	ADJ	_	Degree=Pos	33	obl:pronmod	_	upos="PRAEDIC"|SpaceAfter=No
+35	пригоже	пригоже	ADJ	_	Degree=Pos	33	nmod:pronmod	_	upos="PRAEDIC"|SpaceAfter=No
 36	,	,	PUNCT	_	_	39	punct	_	_
 37	и	и	CCONJ	_	_	39	cc	_	_
 38	для	для	ADP	_	_	39	case	_	_
@@ -18543,7 +18543,7 @@
 10	съ	съ	ADP	_	_	11	case	_	_
 11	Кунгура	Кунгуръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	12	obl	_	_
 12	бѣжалъ	бѣжати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
-13	невѣдомо	невѣдомо	ADJ	_	Degree=Pos	14	obl:pronmod	_	upos="PRAEDIC"
+13	невѣдомо	невѣдомо	ADJ	_	Degree=Pos	14	nmod:pronmod	_	upos="PRAEDIC"
 14	куды	куды	ADV	_	Degree=Pos|PronType=Rel	12	advmod	_	upos="ADVPRO"|SpaceAfter=No
 15	.	.	PUNCT	_	_	12	punct	_	_
 
@@ -18918,7 +18918,7 @@
 26	печи	печь	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	27	obj	_	_
 27	устроить	устроити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	conj	_	_
 28	гдѣ	гдѣ	ADV	_	Degree=Pos|PronType=Rel	27	advmod	_	upos="ADVPRO"|_
-29	годно	годно	ADJ	_	Degree=Pos	28	obl:pronmod	_	upos="PRAEDIC"|SpaceAfter=No
+29	годно	годно	ADJ	_	Degree=Pos	28	nmod:pronmod	_	upos="PRAEDIC"|SpaceAfter=No
 30	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = rib__RIB_05_007-7
@@ -18978,7 +18978,7 @@
 53	,	,	PUNCT	_	_	54	punct	_	_
 54	гдѣ	гдѣ	ADV	_	Degree=Pos|PronType=Rel	52	advmod	_	upos="ADVPRO"|_
 55	имъ	они	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	56	iobj	_	_
-56	годно	годно	ADJ	_	Degree=Pos	54	obl:pronmod	_	upos="PRAEDIC"|SpaceAfter=No
+56	годно	годно	ADJ	_	Degree=Pos	54	nmod:pronmod	_	upos="PRAEDIC"|SpaceAfter=No
 57	;	;	PUNCT	_	_	64	punct	_	_
 58	а	а	CCONJ	_	_	64	cc	_	_
 59	рыбы	рыба	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	64	obj	_	_
@@ -20872,7 +20872,7 @@
 7	в	въ	ADP	_	_	8	case	_	_
 8	Азове	Азовъ	PROPN	_	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	10	obl	_	_
 9	не	не	PART	_	Polarity=Neg	10	advmod	_	_
-10	было	быти	AUX	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	18	acl	_	SpaceAfter=No
+10	было	быти	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	18	acl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	_
 12	как	какъ	SCONJ	_	_	14	mark	_	_
 13	Иван	Иванъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	14	nsubj	_	_
@@ -23500,15 +23500,15 @@
 # text = {л._1} РОСПИСЬ, КОТОРЫМ ОТРОКОМ В КОИХ ЧИНЕХ БЫТЬ В КОМЕДИИ
 1	{л._1}	_	X	_	_	2	dep	_	_
 2	РОСПИСЬ	роспись	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	8	punct	_	_
+3	,	,	PUNCT	_	_	11	punct	_	_
 4	КОТОРЫМ	который	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	5	det	_	_
-5	ОТРОКОМ	отрокъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	8	iobj	_	_
+5	ОТРОКОМ	отрокъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	11	iobj	_	_
 6	В	въ	ADP	_	_	8	case	_	_
 7	КОИХ	кой	DET	_	Case=Loc|Gender=Masc|Number=Plur|PronType=Int	8	det	_	_
-8	ЧИНЕХ	чинъ	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	2	acl	_	_
+8	ЧИНЕХ	чинъ	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	11	nmod	_	_
 9	БЫТЬ	быти	AUX	_	VerbForm=Inf|Voice=Act	8	cop	_	_
 10	В	въ	ADP	_	_	11	case	_	_
-11	КОМЕДИИ	комедия	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	8	obl	_	_
+11	КОМЕДИИ	комедия	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	acl	_	_
 
 # newpar
 # sent_id = drama__Drama_1_1-2
@@ -28753,7 +28753,7 @@
 18	или	или	CCONJ	_	_	19	cc	_	norm="или"
 19	сколько	сколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	14	conj	_	norm="сколько"
 20	будетъ	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	19	cop	_	norm="будетъ"|Decl=X|End=ъте
-21	пригоже	пригоже	ADJ	PRED	Degree=Pos	19	obl:pronmod	_	upos="PRAEDIC"|norm="пригоже"|Decl=X|End=е|SpaceAfter=No
+21	пригоже	пригоже	ADJ	PRED	Degree=Pos	19	nmod:pronmod	_	upos="PRAEDIC"|norm="пригоже"|Decl=X|End=е|SpaceAfter=No
 22	,	,	PUNCT	_	_	23	punct	_	norm=","
 23	посмотря	посмотрѣти	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	12	conj	_	norm="посмотря"|Decl=X|End=я
 24	по	по	ADP	_	_	25	case	_	norm="по"|check=@
@@ -33163,7 +33163,7 @@
 17	тысячи	тысяча	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	norm="тысячи"|Decl=1a|End=и
 18	всех	весь	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	17	nmod	_	norm="всех"|Decl=X|End=хе|check=@
 19	ѕ	съ	ADP	_	_	20	case	_	norm="ѕ"|check=@
-20	женами	жена	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	18	obl	_	norm="женами"|Decl=1a|End=има|check=@
+20	женами	жена	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	18	nmod	_	norm="женами"|Decl=1a|End=има|check=@
 21	і	и	CCONJ	_	_	23	cc	_	norm="і"
 22	з	съ	ADP	_	_	23	case	_	norm="з"|check=@
 23	детми	дѣтя	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	20	conj	_	norm="детми"|Decl=nt|End=им|check=@
@@ -33849,7 +33849,7 @@
 6	Медушах	Медуши	PROPN	_	Case=Loc|Gender=Masc|NameType=Geo|Number=Plur	3	nmod	_	norm="Медушах"|Decl=2|End=ха|check=@
 7	в	въ	ADP	_	_	9	case	_	norm="в"|check=@
 8	Володимерском	володимерский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	norm="Володимерском"|Decl=X|End=мо|check=@
-9	уезде	уѣздъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	norm="уезде"|Decl=2|End=е|SpaceAfter=No|check=@
+9	уезде	уѣздъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	norm="уезде"|Decl=2|End=е|SpaceAfter=No|check=@
 10	:	:	PUNCT	_	_	11	punct	_	norm=":"
 11	село	село	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	appos	_	norm="село"|Decl=2|End=о
 12	Корнтьмазовское	Корнтмазовское	PROPN	_	Case=Nom|Gender=Neut|NameType=Geo|Number=Sing	11	appos	_	norm="Корнтьмазовское"|Decl=A|End=ео|SpaceAfter=No
@@ -34291,13 +34291,13 @@
 # newpar
 # sent_id = gramoty_akty_14_16__312_akty_XIV_XVI-12
 # text = А хто ся сее моей грамоты ослушает, или кто возмет у тех людей, или чем изобидит [их], быти от меня [от] великого князя в казни.
-1	А	а	CCONJ	_	_	7	cc	_	norm="А"
+1	А	а	CCONJ	_	_	28	cc	_	norm="А"
 2	хто	кто	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	norm="хто"|Decl=X|End=о
 3	ся	ся	PRON	_	Analyt=Yes|PronType=Prs|Reflex=Yes	7	expl	_	norm="ся"|Decl=X|End=_
 4	сее	сей	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	norm="сее"|Decl=X|End=ее|check=@
 5	моей	мой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	norm="моей"|Decl=X|End=йе|check=@
 6	грамоты	грамота	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obj	_	norm="грамоты"|Decl=1a|End=ы
-7	ослушает	ослушати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	norm="ослушает"|Decl=X|End=те|SpaceAfter=No
+7	ослушает	ослушати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	28	csubj	_	norm="ослушает"|Decl=X|End=те|SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	norm=","
 9	или	или	CCONJ	_	_	11	cc	_	norm="или"
 10	кто	кто	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	norm="кто"|Decl=X|End=о
@@ -34308,18 +34308,18 @@
 15	,	,	PUNCT	_	_	18	punct	_	norm=","
 16	или	или	CCONJ	_	_	18	cc	_	norm="или"
 17	чем	что	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Rel	18	iobj	_	norm="чем"|Decl=X|End=ме
-18	изобидит	изобидѣти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	conj	_	norm="изобидит"|Decl=X|End=ти
+18	изобидит	изобидѣти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	conj	_	norm="изобидит"|Decl=X|End=ти
 19	[их]	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obj	_	norm="их"|Decl=X|End=х|SpaceAfter=No
-20	,	,	PUNCT	_	_	23	punct	_	norm=","
-21	быти	быти	AUX	_	VerbForm=Inf|Voice=Act	23	cop	_	norm="быти"|Decl=X|End=ит
+20	,	,	PUNCT	_	_	7	punct	_	norm=","
+21	быти	быти	AUX	_	VerbForm=Inf|Voice=Act	28	cop	_	norm="быти"|Decl=X|End=ит
 22	от	отъ	ADP	_	_	23	case	_	norm="от"|check=@
-23	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	18	obl	_	norm="меня"|Decl=X|End=я|check=@
+23	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	28	obl	_	norm="меня"|Decl=X|End=я|check=@
 24	[от]	отъ	ADP	_	_	26	case	_	norm="от"|check=@
 25	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	norm="великого"|Decl=X|End=ого|check=@
 26	князя	князь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	23	appos	_	norm="князя"|Decl=2|End=я|check=@
 27	в	въ	ADP	_	_	28	case	_	norm="в"|check=@
-28	казни	казнь	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	23	obl	_	norm="казни"|Decl=3|End=и|SpaceAfter=No|check=@
-29	.	.	PUNCT	_	_	7	punct	_	norm="."
+28	казни	казнь	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	0	root	_	norm="казни"|Decl=3|End=и|SpaceAfter=No|check=@
+29	.	.	PUNCT	_	_	28	punct	_	norm="."
 
 # newpar
 # sent_id = gramoty_akty_14_16__312_akty_XIV_XVI-13
@@ -34770,7 +34770,7 @@
 42	по	по	ADP	_	_	43	case	_	norm="по"|check=@
 43	немъ	и	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	45	obl	_	norm="немъ"|Decl=X|End=ъме|check=@
 44	иныи	иной	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	45	det	_	norm="иныи"|Decl=X|End=иы|check=@
-45	игуменъ	игуменъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	norm="игуменъ"|Decl=2|End=ъ0|SpaceAfter=No|check=@
+45	игуменъ	игуменъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	29	conj	_	norm="игуменъ"|Decl=2|End=ъ0|SpaceAfter=No|check=@
 46	,	,	PUNCT	_	_	49	punct	_	norm=","
 47	и	и	CCONJ	_	_	49	cc	_	norm="и"
 48	всихъ	весь	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Tot	49	det	_	norm="всихъ"|Decl=X|End=ъхи|check=@
@@ -34995,7 +34995,7 @@
 3	земля	земля	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	norm="земля"|Decl=1a|End=я|check=@
 4	и	и	CCONJ	_	_	5	cc	_	norm="и"
 5	пожни	пожня	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	conj	_	norm="пожни"|Decl=1a|End=и|check=@
-6	всѣ	весь	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	8	obl:float	_	norm="всѣ"|Decl=X|End=ѣ|check=@
+6	всѣ	весь	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	5	det	_	norm="всѣ"|Decl=X|End=ѣ|check=@
 7	без	безъ	ADP	_	_	8	case	_	norm="без"|check=@
 8	вывѣта	вывѣтъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	norm="вывѣта"|Decl=2|End=а|check=@
 9	святѣи	святой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	norm="святѣи"|Decl=X|End=иѣ|check=@
@@ -39622,9 +39622,9 @@
 10	пошлют	послати	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	advcl	_	norm="пошлют"|Decl=X|End=тю
 11	на	на	ADP	_	_	12	case	_	norm="на"|check=@
 12	Белоозеро	Бѣлоозеро	PROPN	_	Case=Acc|Gender=Neut|NameType=Geo|Number=Sing	10	obl	_	norm="Белоозеро"|Decl=2|End=о|check=@
-13	лете	лѣто	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	10	xcomp	_	norm="лете"|Decl=2|End=е
+13	лете	лѣто	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	10	obl:tmod	_	norm="лете"|Decl=2|End=е
 14	в	въ	ADP	_	_	15	case	_	norm="в"|check=@
-15	лотке	лодка	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	13	obl	_	norm="лотке"|Decl=1a|End=е|check=@
+15	лотке	лодка	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	10	obl	_	norm="лотке"|Decl=1a|End=е|check=@
 16	или	или	CCONJ	_	_	18	cc	_	norm="или"
 17	в	въ	ADP	_	_	18	case	_	norm="в"|check=@
 18	струге	стругъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	15	conj	_	norm="струге"|Decl=1a|End=е|check=@
@@ -40946,7 +40946,7 @@
 53	,	,	PUNCT	_	_	51	punct	_	norm=","
 54	въ	въ	ADP	_	_	55	case	_	norm="въ"|check=@
 55	осадѣ	осада	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	57	obl	_	norm="осадѣ"|Decl=1a|End=ѣ|check=@
-56	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	55	obl:float	_	norm="все"|Decl=X|End=е
+56	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	57	obl:float	_	norm="все"|Decl=X|End=е
 57	издержали	издержати	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	23	conj	_	norm="издержали"|Decl=X|End=ил|SpaceAfter=No
 58	.	.	PUNCT	_	_	23	punct	_	norm="."
 
