@@ -18,11 +18,11 @@
     <tag name="ADJ">13551</tag><!-- великий, государевъ, святой, божий, старый, монастырский, большой, царский, пречистый, московский -->
     <tag name="ADP">19391</tag><!-- въ, съ, на, по, къ, у, отъ, о, за, изъ -->
     <tag name="ADV">3045</tag><!-- какъ, нынѣ, такъ, гдѣ, всего, потому, тогда, тако, еще, тутъ -->
-    <tag name="AUX">1472</tag><!-- быти, бы, бъ, яти -->
+    <tag name="AUX">1469</tag><!-- быти, бы, бъ, яти -->
     <tag name="CCONJ">15156</tag><!-- и, а, да, ни, или, но, же, также, однако, ово -->
     <tag name="DET">8182</tag><!-- тотъ, весь, свой, твой, мой, сей, нашъ, который, иной, всякий -->
     <tag name="INTJ">54</tag><!-- о, аминь, ей-ей, гей, ну, оле -->
-    <tag name="NOUN">37786</tag><!-- государь, человѣкъ, князь, день, деревня, царь, земля, годъ, четь, грамота -->
+    <tag name="NOUN">37785</tag><!-- государь, человѣкъ, князь, день, деревня, царь, земля, годъ, четь, грамота -->
     <tag name="NUM">3813</tag><!-- два, 3, 2, 4, одинъ, трие, 5, 10, 6, четыре -->
     <tag name="PART">3988</tag><!-- не, же, де, и, ни, се, деи, ли, бо, только -->
     <tag name="PRON">8045</tag><!-- онъ, они, ты, я, то, что, мы, и, кто, себя -->
@@ -30,7 +30,7 @@
     <tag name="PUNCT">24175</tag><!-- ,, ., ;, :, », «, -, —, !, ? -->
     <tag name="SCONJ">1754</tag><!-- что, яко, чтобы, какъ, ино, аще, чтобъ, буде, будетъ, бо -->
     <tag name="SYM">26</tag><!-- +, † -->
-    <tag name="VERB">14853</tag><!-- велѣти, быти, взяти, дати, послати, писати, бити, пожаловати, приити, сказати -->
+    <tag name="VERB">14857</tag><!-- велѣти, быти, взяти, дати, послати, писати, бити, пожаловати, приити, сказати -->
     <tag name="X">560</tag><!-- _, </em>, <em>, Piter, Her, Min, В, а, D, Petrvs -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -39,7 +39,7 @@
     <feat name="Analyt" value="Yes" upos="AUX,PRON,SCONJ,VERB">359</feat><!-- бы, б, сѧ, бъ, ся, чтобъ, было, будутъ, учнутъ, былъ -->
     <feat name="Animacy" value="Anim" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">2413</feat><!-- своего, людей, князя, сына, Ивана, своих, царя, игумена, того, Бога -->
     <feat name="Animacy" value="Inan" upos="ADJ">1</feat><!-- третіи -->
-    <feat name="Aspect" value="Imp" upos="VERB">1928</feat><!-- стоитъ, сказывают, называют, сбирать, давать, давали, давати, служити, стоит, владѣти -->
+    <feat name="Aspect" value="Imp" upos="VERB">1929</feat><!-- стоитъ, сказывают, называют, сбирать, давать, давали, давати, служити, стоит, владѣти -->
     <feat name="Aspect" value="Perf" upos="VERB">6464</feat><!-- взято, пожаловал, дал, принето, послал, написано, пошли, дано, приложил, дати -->
     <feat name="Case" value="Acc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">15589</feat><!-- день, то, что, два, свою, руку, де[нь], землю, грамоту, его -->
     <feat name="Case" value="Dat" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">9843</feat><!-- ему, государю, тебѣ, мнѣ, им, имъ, великому, тому, нам, князю -->
@@ -72,8 +72,8 @@
     <feat name="NameType" value="Sur" upos="PROPN">2337</feat><!-- Скобеев, Скобеева, Чамовскихъ, Фальк, Дементьев, Шестоперовъ, Шавкунова, Аникіевъ, Иванова, Скобеевъ -->
     <feat name="Number" value="Count" upos="ADJ,NOUN,PROPN">1090</feat><!-- чети, гривенки, верха, деревни, двора, человека, барана, пустоши, пучни, оси -->
     <feat name="Number" value="Dual" upos="ADJ,DET,NOUN,PROPN,VERB">46</feat><!-- руце, бѣста, лѣту, нозѣ, сынома, сѣдоста, Ываньци, брата, брату, вариста -->
-    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">22863</feat><!-- их, людей, них, ихъ, люди, им, имъ, которые, мы, они -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">67172</feat><!-- что, того, его, день, великого, то, государь, году, ему, князя -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">22862</feat><!-- их, людей, них, ихъ, люди, им, имъ, которые, мы, они -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">67173</feat><!-- что, того, его, день, великого, то, государь, году, ему, князя -->
     <feat name="NumForm" value="Combi" upos="ADJ,NUM">322</feat><!-- 178-г(о), 160-го, 133-го, 3-х, 177-г(о), 1-го, 153-го, 154-го, 177-м, 3-го -->
     <feat name="NumForm" value="Cyril" upos="ADJ,NUM">26</feat><!-- Г, Ѕ, І, В, Е, КЗ, РПЅ, #АΨВ, ΨѲ, ГІ -->
     <feat name="NumForm" value="Digit" upos="ADJ,NUM">2914</feat><!-- 3, 2, 4, 5, 10, 6, 8, 7, 12, 9 -->
@@ -101,27 +101,27 @@
     <feat name="Reflex" value="Yes" upos="DET,PRON,VERB">1681</feat><!-- своего, свою, своих, своей, себя, своему, своею, своими, свое, себѣ -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">1199</feat><!-- будет, будетъ, бꙋдет, будут, будутъ, станутъ, учнутъ, станет, учнут, буду -->
     <feat name="Tense" value="Imp" upos="AUX,VERB">160</feat><!-- бяше, живяху, бяху, глаголаху, живяше, творяху, имаху, имяху, бываху, бѣаху -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">7950</feat><!-- было, смерено, бысть, были, взято, велел, пожаловал, дал, писал, сказал -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">7951</feat><!-- было, смерено, бысть, были, взято, велел, пожаловал, дал, писал, сказал -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">3060</feat><!-- есть, есми, бью, бьет, есмь, суть, еси, есмя, есте, стоитъ -->
     <feat name="Typo" value="Yes" upos="ADJ,ADV,DET,NOUN,PRON,PROPN,VERB">31</feat><!-- 3, Вкакасиискиа, Ловчика, Пречистные, Саомоиловичю, Фуникову, великии, вочича, всему, вънрѣть -->
     <feat name="Variant" value="Short" upos="ADJ,AUX,DET,NUM,VERB">3671</feat><!-- смерено, взято, государеву, принето, написано, государева, дано, государевы, велѣно, велено -->
     <feat name="VerbForm" value="Conv" upos="AUX,VERB">692</feat><!-- будучи, перелезчи, видя, выслушав, слыша, творяще, дождався, прося, сидя, смотря -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">5777</feat><!-- будет, есть, бысть, есми, будетъ, бью, бьет, есмь, суть, еси -->
     <feat name="VerbForm" value="Inf" upos="AUX,VERB">2892</feat><!-- быти, быть, имати, дати, взять, ѣхати, писать, дать, жити, платить -->
-    <feat name="VerbForm" value="Part" upos="AUX,VERB">2225</feat><!-- смерено, взято, принето, написано, дано, велѣно, велено, умолочено, писано, построены -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">2226</feat><!-- смерено, взято, принето, написано, дано, велѣно, велено, умолочено, писано, построены -->
     <feat name="VerbForm" value="PartRes" upos="AUX,VERB">4308</feat><!-- было, были, велел, пожаловал, дал, писал, сказал, велѣлъ, послал, былъ -->
     <feat name="VerbForm" value="Sup" upos="VERB">1</feat><!-- записыватъ -->
-    <feat name="Voice" value="Act" upos="AUX,VERB">12877</feat><!-- было, будет, есть, бысть, были, велел, пожаловал, есми, дал, будетъ -->
+    <feat name="Voice" value="Act" upos="AUX,VERB">12878</feat><!-- было, будет, есть, бысть, были, велел, пожаловал, есми, дал, будетъ -->
     <feat name="Voice" value="Mid" upos="VERB">1152</feat><!-- смилуйся, доведетца, дрались, осталось, учинилась, доведется, женился, случитца, згодитца, почался -->
     <feat name="Voice" value="Pass" upos="VERB">1866</feat><!-- смерено, взято, принето, написано, дано, велѣно, велено, умолочено, писано, построены -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="52">
-    <dep name="acl">800</dep>
-    <dep name="acl:relcl">722</dep>
-    <dep name="advcl">1806</dep>
+  <deps unique="53">
+    <dep name="acl">804</dep>
+    <dep name="acl:relcl">721</dep>
+    <dep name="advcl">1807</dep>
     <dep name="advmod">5922</dep>
-    <dep name="amod">11515</dep>
+    <dep name="amod">11516</dep>
     <dep name="appos">6274</dep>
     <dep name="aux">600</dep>
     <dep name="aux:pass">131</dep>
@@ -129,15 +129,15 @@
     <dep name="cc">15060</dep>
     <dep name="ccomp">551</dep>
     <dep name="compound">192</dep>
-    <dep name="conj">14553</dep>
-    <dep name="cop">696</dep>
-    <dep name="csubj">188</dep>
+    <dep name="conj">14556</dep>
+    <dep name="cop">697</dep>
+    <dep name="csubj">189</dep>
     <dep name="csubj:outer">2</dep>
     <dep name="csubj:pass">2</dep>
     <dep name="dep">443</dep>
-    <dep name="det">8078</dep>
+    <dep name="det">8086</dep>
     <dep name="discourse">585</dep>
-    <dep name="dislocated">100</dep>
+    <dep name="dislocated">101</dep>
     <dep name="expl">82</dep>
     <dep name="expl:pv">46</dep>
     <dep name="fixed">282</dep>
@@ -145,22 +145,23 @@
     <dep name="flat:foreign">34</dep>
     <dep name="flat:name">3556</dep>
     <dep name="goeswith">1</dep>
-    <dep name="iobj">3139</dep>
+    <dep name="iobj">3138</dep>
     <dep name="list">105</dep>
     <dep name="mark">1703</dep>
-    <dep name="nmod">7735</dep>
-    <dep name="nsubj">7079</dep>
+    <dep name="nmod">7750</dep>
+    <dep name="nmod:float">2</dep>
+    <dep name="nmod:pronmod">18</dep>
+    <dep name="nsubj">7078</dep>
     <dep name="nsubj:outer">10</dep>
     <dep name="nsubj:pass">1038</dep>
     <dep name="nummod">589</dep>
-    <dep name="nummod:gov">2574</dep>
+    <dep name="nummod:gov">2575</dep>
     <dep name="obj">5400</dep>
-    <dep name="obl">11114</dep>
+    <dep name="obl">11087</dep>
     <dep name="obl:agent">89</dep>
     <dep name="obl:depict">73</dep>
-    <dep name="obl:float">104</dep>
-    <dep name="obl:pronmod">18</dep>
-    <dep name="obl:tmod">1166</dep>
+    <dep name="obl:float">96</dep>
+    <dep name="obl:tmod">1167</dep>
     <dep name="orphan">661</dep>
     <dep name="parataxis">1138</dep>
     <dep name="parataxis:discourse">57</dep>
@@ -168,6 +169,6 @@
     <dep name="reparandum">12</dep>
     <dep name="root">6047</dep>
     <dep name="vocative">879</dep>
-    <dep name="xcomp">1471</dep>
+    <dep name="xcomp">1470</dep>
   </deps>
 </treebank>
